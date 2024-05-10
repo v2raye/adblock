@@ -50,7 +50,7 @@ def CreatReadme(ruleList, fileName):
         f.write("| 规则 | 原始链接 | 加速链接 |\n")
         f.write("|:-|:-|:-|\n")
         f.write("| 规则1：DNS 拦截 | [原始链接](https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt) |\n")
-        f.write("| 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockfilters.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockfilters.txt) |\n")
+        f.write("| 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblock.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblock.txt) |\n")
         f.write("## 上游规则源\n")
         f.write("1. 感谢以下广告过滤规则维护大佬们的辛苦付出。\n")
         f.write("2. 不再引用[anti-AD](https://anti-ad.net/adguard.txt)、[yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt)，具体原因见[Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD)。\n")
