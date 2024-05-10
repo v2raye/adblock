@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bioMes/pXsBE6ooDZI0Sdw
-! Version: 202405100751
+! Checksum: /vPgWAvSmehRVtYJVh/ifg
+! Version: 202405101341
 ! Title: EasyList
-! Last modified: 10 May 2024 07:51 UTC
+! Last modified: 10 May 2024 13:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -171,7 +171,7 @@
 /ad/err?
 /ad/getban?
 /ad/image/*$image
-/ad/images/*$domain=~studiocalling.it
+/ad/images/*$image,domain=~studiocalling.it
 /ad/img/*$image,domain=~jiji.com
 /ad/imp?
 /ad/load_ad?
@@ -293,16 +293,14 @@
 /ads/banner-
 /ads/banners/*$image
 /ads/bottom.
-/ads/bottom/*
 /ads/cbr.
 /ads/delivery.
-/ads/display/*
 /ads/footer.
 /ads/ga-audiences?
 /ads/gam_prebid-
 /ads/header.
 /ads/image/*
-/ads/images/*
+/ads/images/*$image,domain=~eoffcn.com
 /ads/img/*
 /ads/index-
 /ads/index.
@@ -338,7 +336,6 @@
 /ads/video/*
 /ads/view.php
 /ads/xtcore.
-/ads/yahoo/*
 /ads1.
 /ads160.
 /ads3.
@@ -455,7 +452,7 @@
 /adverts/*$~xmlhttprequest
 /adverts_
 /advrotator.js
-/advrotator_
+/advrotator_banner_largo.htm
 /advscript.js
 /advtBanner.
 /adx2.
@@ -470,7 +467,6 @@
 /aff_banners/*$image
 /affad?
 /affads/*
-/affbanner/*
 /affbanners/*
 /affiliate/ad/*$image
 /affiliate/ads/*$image
@@ -531,7 +527,6 @@
 /banner.asp?$third-party
 /banner.cgi?
 /banner.php
-/banner/ad_
 /banner/affiliate/*$image,subdocument
 /banner/html/zone?zid=
 /banner/sponsors.
@@ -548,12 +543,11 @@
 /banners/728$image
 /banners/ads-
 /banners/ads.
-/banners/adv/*
+/banners/adv/*$~xmlhttprequest
 /banners/adv_
 /banners/aff.
-/banners/affil/*
+/banners/affil/*$image
 /banners/affiliate/*$image
-/banners/ffadult/*
 /bannersAds_
 /bottom-ads.jpg
 /bottom-ads.png
@@ -700,14 +694,13 @@
 /hserver/site=
 /ht.js?site_
 /image/ad/*$image
-/image/ads/*
+/image/ads/*$image,domain=~edatop.com
 /image/affiliate/*
 /image_ads/*
 /imageads/*
 /images-ad/*
 /images/ad2/*
 /images/ads-$domain=~ads.com
-/images/adv/*
 /images/adz/*
 /images2/Ads/*$image
 /img/ad/*$~xmlhttprequest
@@ -793,7 +786,7 @@
 /nativead.
 /nativeads-v2.js
 /nativeads.js
-/nativeads/script/*
+/nativeads/script/*$script
 /nativebanner/ane-native-banner.js
 /nb/frot_lod.js
 /neverblock/*
@@ -818,7 +811,6 @@
 /pagead/1p-user-list/*
 /pagead/ads?
 /pagead/conversion.js
-/pagead/conversion/*
 /pagead/gen_
 /pagead/lvz?
 /pagead/osd.
@@ -831,14 +823,13 @@
 /partnerad.
 /partnerads/*
 /partneradwidget.
-/partnerbanner.
-/partnerbanner/*
+/partnerbanner.$domain=~toltech.cn
 /partners/ads/*
 /pcad.js?
 /peel.php?
 /peel_ads/*
 /peelad/*
-/peelads/*
+/peelads/*$script
 /pfe/current/*
 /phpads/adx.js
 /phpadsnew/*$image,script
@@ -851,7 +842,6 @@
 /pixel/purst?
 /pixel/sbe?
 /placeholder-ad-
-/player/ad/*
 /player/ads/*
 /plugin/ad/*
 /plugins/ad-invalid-click-protector/*$script
@@ -1080,7 +1070,6 @@
 /utx?cb=$third-party
 /v2/a/push/js/*
 /v3/ads?
-/v5/ads/*
 /v7/ads/*
 /valnet-header-ads.
 /vast/?zid=
@@ -1121,7 +1110,6 @@
 /welcome_ad.js
 /widget-advert?
 /widget/ads.
-/widget/ads/*
 /wordpress-ads-plug-in/*
 /wp-ad.min.
 /wp-auto-affiliate-links/*
@@ -1160,7 +1148,7 @@
 /wrapper/ads/*
 /www/deliver/*
 /www/deliverx/*
-/www/delivery/*
+/www/delivery/*$script,subdocument
 /www/js/ad/*
 /xads.php
 /xpopunder.js
@@ -1336,8 +1324,6 @@ _widget_ad.
 ! ezoic
 /cmbdv2.js
 /greenoaks.gif?
-! (NSFW) watchmygf.me/smutr.com/fpo.xxx pre-rollad
-/contents/other/player/*
 ! (NSFW) exoads on donstick.com sites
 /myvids/click/*$script,subdocument
 /myvids/mltbn/*$script,subdocument
@@ -1482,7 +1468,6 @@ _prebid8.
 /adblockdetection.
 /adBlockDetector/*$script
 /adblocker-leader.
-/adBlockerTrack_
 /adblockkiller.
 /adbuddy.$domain=~adbuddy.be|~adbuddy.beeldstudio.be
 /ads-blocking-detector.
@@ -58259,6 +58244,7 @@ browsershots.org#@#.advert_area
 ||7fc8.site^$document,popup
 ||8acc5c.site^$document,popup
 ||8bf6c3e9-3f4f-40db-89b3-58248f943ce3.online^$document,popup
+||a67d12.xyz^$document,popup
 ||b211.xyz^$document,popup
 ||b59c.xyz^$document,popup
 ||b714b1e8-4b7d-4ce9-a248-48fd5472aa0b.online^$document,popup
@@ -67550,6 +67536,7 @@ shine.cn###pdfModal
 investopedia.com###performance-marketing_1-0
 premierguitar.com###pg_leaderboard
 radiocaroline.co.uk###photographsforeverDiv
+accuradio.com###pl_leaderboard
 giantfreakinrobot.com###playwire-homepage-takeover-leaderboard
 issuu.com###playwire-video
 files.im###plyrrr
