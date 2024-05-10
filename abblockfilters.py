@@ -49,8 +49,8 @@ def CreatReadme(ruleList, fileName):
         f.write("2. AdGuard 等浏览器插件使用规则1 + 规则2\n\n")
         f.write("| 规则 | 原始链接 | 加速链接 |\n")
         f.write("|:-|:-|:-|\n")
-        f.write("| 规则1：DNS 拦截 | [原始链接](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt) |\n")
-        f.write("| 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt) |\n")
+        f.write("| 规则1：DNS 拦截 | [原始链接](https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt) |\n")
+        f.write("| 规则2：插件拦截 | [原始链接](https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockfilters.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockfilters.txt) |\n")
         f.write("## 上游规则源\n")
         f.write("1. 感谢以下广告过滤规则维护大佬们的辛苦付出。\n")
         f.write("2. 不再引用[anti-AD](https://anti-ad.net/adguard.txt)、[yhosts](https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt)，具体原因见[Mosney/anti-anti-AD](https://github.com/Mosney/anti-anti-AD)。\n")
@@ -60,7 +60,7 @@ def CreatReadme(ruleList, fileName):
         f.write("| 规则 | 类型 | 原始链接 | 加速链接 | 更新日期 |\n")
         f.write("|:-|:-|:-|:-|:-|\n")
         for rule in ruleList:
-            f.write("| %s | %s | [原始链接](%s) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/%s.txt) | %s |\n" % (rule[0],rule[1],rule[2],rule[0].replace(' ', '_'),rule[3]))
+            f.write("| %s | %s | [原始链接](%s) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/%s.txt) | %s |\n" % (rule[0],rule[1],rule[2],rule[0].replace(' ', '_'),rule[3]))
 
 def GetBlackList():
     blackList = []
@@ -155,8 +155,8 @@ def CreatDNS(blockDict, unblockDict, fileName):
         f.write("!\n")
         f.write("! Title: AdBlock DNS\n")
         f.write("! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule\n")
-        f.write("! Homepage: https://github.com/217heidai/adblockfilters\n")
-        f.write("! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt\n")
+        f.write("! Homepage: https://github.com/v2raye/adblock\n")
+        f.write("! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt\n")
         f.write("! Version: %s\n"%(time.strftime("%Y%m%d%H%M%S", time.localtime())))
         f.write("! Last modified: %s\n"%(time.strftime("%Y/%m/%d %H:%M:%S", time.localtime())))
         f.write("! Blocked domains: %s\n"%(len(blockList)))
@@ -183,8 +183,8 @@ def CreatFiter(filterList, fileName):
         f.write("!\n")
         f.write("! Title: AdBlock Filter\n")
         f.write("! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule\n")
-        f.write("! Homepage: https://github.com/217heidai/adblockfilters\n")
-        f.write("! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt\n")
+        f.write("! Homepage: https://github.com/v2raye/adblock\n")
+        f.write("! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblock.txt\n")
         f.write("! Version: %s\n"%(time.strftime("%Y%m%d%H%M%S", time.localtime())))
         f.write("! Last modified: %s\n"%(time.strftime("%Y/%m/%d %H:%M:%S", time.localtime())))
         f.write("! Blocked Filters: %s\n"%(len(filterList)))
@@ -230,7 +230,7 @@ def Entry():
 
         # 生成合并规则
         CreatDNS(blockDict, unblockDict, pwd + '/rules/adblockdns.txt')
-        CreatFiter(filterList, pwd + '/rules/adblockfilters.txt')
+        CreatFiter(filterList, pwd + '/rules/adblock.txt')
 
         # 更新README.md
     CreatReadme(ruleList, pwd + '/README.md')
