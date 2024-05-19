@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240519162332
-! Last modified: 2024/05/19 16:23:32
-! Blocked domains: 183163
+! Version: 20240520002305
+! Last modified: 2024/05/20 00:23:05
+! Blocked domains: 183165
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -2761,6 +2761,7 @@
 ||623762.com^
 ||62b70ac32d4614b.com^
 ||m.62mao.com^
+||634369.xyz^
 ||634d520205.com^
 ||booking.63785-confirm.com^
 ||www.booking.63785-confirm.com^
@@ -53011,6 +53012,7 @@
 ||m.edweek.org^
 ||sm.edweek.org^
 ||edymek.net^
+||edzwmobmj.com^
 ||ee-sms.co^
 ||metrics.ee.co.uk^
 ||smetrics.ee.co.uk^
