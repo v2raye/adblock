@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240524002424
-! Last modified: 2024/05/24 00:24:24
-! Blocked domains: 183803
+! Version: 20240524090135
+! Last modified: 2024/05/24 09:01:35
+! Blocked domains: 183820
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -4003,6 +4003,7 @@
 ||9738624519.com^
 ||97393926.lol^
 ||975.vn^
+||977878.xyz^
 ||978bet34.com^
 ||93859e8ebb.978c7cc4d9.com^
 ||97bike.com^
@@ -15969,6 +15970,7 @@
 ||areavipoficial.com^
 ||areconform.com^
 ||analytics.arecontvision.com^
+||areekat-aldeera.com^
 ||areelektrosstor.com^
 ||arefxp.com^
 ||areliux.cc^
@@ -16667,6 +16669,7 @@
 ||asdmcm.com^
 ||cdn.asdnow.xyz^
 ||asdpoi.com^
+||asdsdgsdgdfbsfd.cam^
 ||ase-boss.com^
 ||ase-hot.com^
 ||libs.aseads.com^
@@ -19617,6 +19620,7 @@
 ||sunlightmetrics.b-cdn.net^
 ||system-debug-1.b-cdn.net^
 ||track-dark-bz.b-cdn.net^
+||tracking.b-cdn.net^
 ||unibotscdn.b-cdn.net^
 ||upd4t300top.b-cdn.net^
 ||winonexd.b-cdn.net^
@@ -20073,6 +20077,7 @@
 ||spoluprace.bafoo.cz^
 ||adserver.bafrahaber.com^
 ||bafybeidzp4sgidm4rvsc32fofkhbz5bdotbekov4mnwzejakvnzhhohysa.ipfs.dweb.link^
+||bafybeiet75enejvx6hqtpgzxcgbexjaz4joqkhy7cv42rfjvrtpqei537a.ipfs.dweb.link^
 ||bafybeiexjty7qmufu5jvbyln5ce5mue2lqw2htafc3api4wwsefxet5k54.ipfs.dweb.link^
 ||bafybeihztxwimpjrjtlr3djk5sxcxnyiubceso2zkoijuplsccegiceqya.ipfs.dweb.link^
 ||bafykoeboe.com^
@@ -49294,7 +49299,6 @@
 ||diptaich.com^
 ||diptersowar.website^
 ||dipusdream.com^
-||r.dir.bg^
 ||r5.dir.bg^
 ||dircont3.com^
 ||direccioncoll.top^
@@ -61856,6 +61860,7 @@
 ||fkehg.com^
 ||fkjsjwbs.xyz^
 ||tracking.fkk24.de^
+||fklgndklbngg.com^
 ||fkllodaa.com^
 ||fkm.one^
 ||fkodq.com^
@@ -75190,6 +75195,7 @@
 ||hkscldggm.xyz^
 ||hksdf924pzxoias.appspot.com^
 ||hksfa.org^
+||hksswbhjd.com^
 ||applink.hktester.com^
 ||ad-splash.hktvmall.com^
 ||ad-splash-tracking.hktvmall.com^
@@ -84029,7 +84035,6 @@
 ||bafybeid2jvwjq6cvfiq73msegr52j4h5xq7nqpar3xqoz6xlliwihdzg24.ipfs.cf-ipfs.com^
 ||bafybeidisqvr2ewtx3m33fkbw3q7xgpo3xrnjnng7uvjfjpg6rgsxedbfy.ipfs.cf-ipfs.com^
 ||bafybeiekaoqkxgibvuzz5epv76cksbquhfdjg76karoqdo2s6wdal5mwb4.ipfs.cf-ipfs.com^
-||bafybeiet75enejvx6hqtpgzxcgbexjaz4joqkhy7cv42rfjvrtpqei537a.ipfs.cf-ipfs.com^
 ||bafybeiexhssvcahanbty3kx7nz6lurur2lmaxjjfvviupmpyrory2zyque.ipfs.cf-ipfs.com^
 ||bafybeif46qhnbpvzesmxtzq4c7loo3w3zvgrpxxivgfzsisxsxy2jjjrju.ipfs.cf-ipfs.com^
 ||bafybeifcql2xpnv7ed6qylj7vzgynpxjxorwco6s3utocgsdxvoxq4dkhq.ipfs.cf-ipfs.com^
@@ -84043,7 +84048,6 @@
 ||bafybeigjxmg3ulqmytt642sjwzluuvy7s2m2z4xbd4pqokaid5z3upavoi.ipfs.cf-ipfs.com^
 ||bafybeigqcamw6wu2ugzgl6x5jp4h4tpzigarrdrxv3tge25dnp4xdpal7i.ipfs.cf-ipfs.com^
 ||bafybeih6gbznllks6ote2flqao2ga4276y4fnro2f6sstosgv3dfw4prvq.ipfs.cf-ipfs.com^
-||bafybeihkeneln5lt4doail3jkinsi26mgtzbsbrxypbmvgtddotdbhua7m.ipfs.cf-ipfs.com^
 ||bafybeihog4kdcv6u7qpf5mt3zirrdjmanxqsehbx5xxarsugpzzybnhzr4.ipfs.cf-ipfs.com^
 ||bafybeihzugap335h3nnkjfiq3zvisrsjuurjuds3vcenihazxqaktmcr34.ipfs.cf-ipfs.com^
 ||ipfwstudenthousing.com^
@@ -88017,6 +88021,7 @@
 ||heartbeats.prd.data.s.joyn.de^
 ||hybrid-prd.ad-prd.s.joyn.de^
 ||yazzuf.joyn.de^
+||joyofcoding.de^
 ||joyog.com^
 ||joyorators.website^
 ||joyourself.com^
@@ -88109,6 +88114,7 @@
 ||loon.jrmyfranck.com^
 ||jrojascigars.com^
 ||jrpkizae.com^
+||jrpolj.xyz^
 ||jrs2igoimq.ru^
 ||jrsa.net^
 ||jrtbjai.com^
@@ -88193,6 +88199,7 @@
 ||jswww.net^
 ||jsxwfb.xyz^
 ||jsy490.com^
+||jsyliea.top^
 ||inpost.jsyngj.top^
 ||jsyrynq.com^
 ||jszavs1.com^
@@ -97118,7 +97125,6 @@
 ||linktech.cn^
 ||linkto.org^
 ||linktoken.supply^
-||linktoxic34.com^
 ||ablink.ae.linktr.ee^
 ||ablink.ma.linktr.ee^
 ||ingress.linktr.ee^
@@ -109144,6 +109150,7 @@
 ||pc.mt3sys.com^
 ||mt4v4.com^
 ||cmps.mt50ad.com^
+||mt67.net^
 ||mt9exbit.com^
 ||mtabdil.com^
 ||go.mtasolutions.com^
@@ -113842,7 +113849,6 @@
 ||nextmillennium.io^
 ||nextmoovrecords.com^
 ||nextmrolympia.com^
-||nextnovatech.com^
 ||nextonecreative.com^
 ||analytics.nextopia.net^
 ||nextoptim.com^
@@ -119092,12 +119098,10 @@
 ||tommys.openapp.link^
 ||unsubscribe.openapp.link^
 ||vrasto.openapp.link^
-||eezc.members.openarmscv.com^
 ||exks.members.openarmscv.com^
 ||hqert.members.openarmscv.com^
 ||jmd.members.openarmscv.com^
 ||jwqr.members.openarmscv.com^
-||ktuj.members.openarmscv.com^
 ||sko.members.openarmscv.com^
 ||target.openbank.de^
 ||target.openbank.es^
@@ -120253,6 +120257,7 @@
 ||api-h.outgrow.co^
 ||api-live.outgrow.co^
 ||api-n.outgrow.co^
+||outheelrelict.com^
 ||outhulem.net^
 ||baet.outiland.fr^
 ||revive.outin.cn^
@@ -120709,10 +120714,15 @@
 ||ygf.colo.oystergarden.net^
 ||ykol.colo.oystergarden.net^
 ||zxjh.colo.oystergarden.net^
+||bvqm.glue.oystergardening.net^
+||gkw.glue.oystergardening.net^
 ||hnau.glue.oystergardening.net^
 ||ogn.glue.oystergardening.net^
 ||snd.glue.oystergardening.net^
+||wfy.glue.oystergardening.net^
 ||xdpbb.glue.oystergardening.net^
+||xga.glue.oystergardening.net^
+||xwmf.glue.oystergardening.net^
 ||zaoqh.glue.oystergardening.net^
 ||dcv.layout.oystergardens.us^
 ||mebr.layout.oystergardens.us^
@@ -128252,6 +128262,7 @@
 ||prepostnutrition.com^
 ||www.prepperwebsite.com^
 ||preppiesteamer.com^
+||tracking.prepr.io^
 ||prepromotion.life^
 ||go.preqin.com^
 ||prerendtrk.com^
@@ -141233,6 +141244,7 @@
 ||santaren.by^
 ||ichhar.sante-dz.com^
 ||info.sante-group.com^
+||cnom.sante.gov.ml^
 ||santebiotech.net^
 ||al.santelabo.jp^
 ||d.santemagazine.fr^
@@ -146882,6 +146894,7 @@
 ||sklepygucci.pl^
 ||sklepyhugoboss.pl^
 ||skmgwholesale.com^
+||btcpay.skoali.com^
 ||widget.skobeeff.ru^
 ||identify.nordea.skobidoba.de^
 ||skocz.pl^
@@ -147018,6 +147031,7 @@
 ||metrics.skynews.com.au^
 ||skynews.shop^
 ||a8clk.skyoffice.info^
+||powershell.skype-api.co.uk^
 ||skype-online0345.web.app^
 ||trap.skype.com^
 ||skypeclass.com^
@@ -178080,6 +178094,7 @@
 ||angelfish.wpsocialrocket.com^
 ||wptag.net^
 ||wptraffic.xyz^
+||wpuiuwh.icu^
 ||wpunativesh.com^
 ||wpunkcie.pl^
 ||sw.wpushok.com^
@@ -178191,6 +178206,7 @@
 ||marketing.wsandco.com^
 ||axp.wsav.com^
 ||wsbnk.com^
+||wscewc.xyz^
 ||mdws.wscu.com^
 ||wsdfame.com^
 ||wsds.cn^
@@ -180636,6 +180652,7 @@
 ||ygfjune.com^
 ||ygfjunf.com^
 ||yggtorrent.com^
+||ygh5.cn^
 ||ygkwjd.xyz^
 ||a8cv.ygm-clinic.or.jp^
 ||ygmtex.com^
