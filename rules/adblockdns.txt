@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240528162543
-! Last modified: 2024/05/28 16:25:43
-! Blocked domains: 182317
+! Version: 20240529002321
+! Last modified: 2024/05/29 00:23:21
+! Blocked domains: 182323
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -661,6 +661,7 @@
 ||8wvyxelh9ztzx3xeqeqg.15cl6.ru^
 ||www.8wvyxelh9ztzx3xeqeqg.15cl6.ru^
 ||ahoy.15five.com^
+||15huhu.cn^
 ||ebis.15jikai.com^
 ||sadbmetrics.15kvalencia.es^
 ||16-merchant-s.com^
@@ -18955,6 +18956,7 @@
 ||b0a0bb3621.com^
 ||d0556a9fe2.b0e610e078.com^
 ||b0e8.com^
+||b0eb63.xyz^
 ||b0f1d2.com^
 ||b0oie4xjeb4ite.com^
 ||b0omr3wn6u4b.com^
@@ -77997,6 +77999,7 @@
 ||hzr0dm28m17c.com^
 ||hzrghx.xyz^
 ||hzsanjiaomao.com^
+||hzstats.com^
 ||www.hzxfmc.com^
 ||i-afk.com^
 ||ads.i-am-bored.com^
@@ -111684,6 +111687,7 @@
 ||nkbkor.icu^
 ||nkbobsj.com^
 ||nkbpft.xyz^
+||nkdgnsfsk.com^
 ||nkewdzp.com^
 ||nkfinsdg.com^
 ||nkfith.xyz^
@@ -139139,6 +139143,7 @@
 ||sdhjak.com^
 ||reports.sdiapi.com^
 ||services.sdiapi.com^
+||sdjbvskjvds.com^
 ||sdjlbg.xyz^
 ||sdjskt.com^
 ||sdkfjxjertertry.com^
@@ -161352,6 +161357,7 @@
 ||tryanimalemale.com^
 ||track.tryarcadian.com^
 ||linkd.trybany.com^
+||p2ro4u.trybawaryjny.pl^
 ||trybest.click^
 ||trybikowo.pl^
 ||nice.tryboobs.com^
