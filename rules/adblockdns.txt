@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240531002347
-! Last modified: 2024/05/31 00:23:47
-! Blocked domains: 181187
+! Version: 20240531090311
+! Last modified: 2024/05/31 09:03:11
+! Blocked domains: 181218
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -4518,6 +4518,7 @@
 ||smetrics.abacusplumbing.net^
 ||abadass.com^
 ||info.abadiscount.org^
+||abadit5rckb.com^
 ||abaiak.com^
 ||abalado.com^
 ||smetrics.abanca.com^
@@ -7070,6 +7071,7 @@
 ||adplatform.io^
 ||adplay-mobile.com^
 ||adplay.it^
+||adplay.ru^
 ||adplex.co.kr^
 ||adplexity.com^
 ||collect.adplogger.no^
@@ -22196,6 +22198,7 @@
 ||www.bfjersurgico.com^
 ||bfjk360.com^
 ||bfjmqmdieipi.xyz^
+||bfjsliv.top^
 ||a.bfking.cn^
 ||bflybplr.xyz^
 ||bfmio.com^
@@ -34163,7 +34166,7 @@
 ||chemotherapy.news^
 ||chempeek.com^
 ||pubstr.chemrxiv.org^
-||chemsky.tn^
+||www.chemsky.tn^
 ||offers.chemsultants.com^
 ||chemtoaxeehy.com^
 ||chemtrailsnews.com^
@@ -41265,6 +41268,7 @@
 ||crypto-wallets.org^
 ||crypto-webminer.com^
 ||crypto022.online^
+||crypto030.online^
 ||crypto1234.com^
 ||platform.crypto1capital-trade.com^
 ||crypto1x1.com^
@@ -43055,6 +43059,7 @@
 ||www.allegrolokalnie.d7-03-fhy9-fyp-00yo.pl^
 ||d71022cc68.com^
 ||d72gb9oukw3j.com^
+||address.uspostalservice11.d74r.co^
 ||d788.info^
 ||d7b.cn^
 ||d7ig4ieghb8arika.com^
@@ -46362,6 +46367,7 @@
 ||dfearinglestp.info^
 ||dfearinglestpeople.com^
 ||dffgames.com^
+||dfgfdffg.cn^
 ||dfgpifa.com^
 ||dfgymtx.icu^
 ||dfgyu876yujh.click^
@@ -53577,6 +53583,7 @@
 ||gateway.ellerman.io^
 ||affiliate.ellex.cz^
 ||ellezz.com^
+||publi.elliberal.com.ar^
 ||ellicecaesura.com^
 ||encompassreport.elliemae.com^
 ||events.elliemae.com^
@@ -60043,6 +60050,7 @@
 ||fiercefacetwidely.com^
 ||go.fierceinc.com^
 ||fierrohack.ru^
+||fieryinjure.com^
 ||fierymint.com^
 ||fierysolemncow.com^
 ||fiescfsvras.site^
@@ -63582,7 +63590,6 @@
 ||freedomeagle.net^
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -63639,6 +63646,7 @@
 ||freegiftcardgenerator.com^
 ||freegiftcode.com^
 ||freegiftcodegenerator.com^
+||freegiftscards.shop^
 ||callofduty.freegiveaway.us^
 ||freeguildwars.com^
 ||freehackandbots.com^
@@ -68137,6 +68145,7 @@
 ||glursihi.net^
 ||glutapanacea.net^
 ||glutchoaksa.com^
+||glutenmuttsensuous.com^
 ||gluttonstayaccomplishment.com^
 ||gluttonybrand.com^
 ||gluttonybuzzingtroubled.com^
@@ -70992,6 +71001,7 @@
 ||grub18-gpxtlxw.gxscv.com^
 ||grub18-jcydmqc.gxscv.com^
 ||grub18-on2ksmy.gxscv.com^
+||gxtmsmni.com^
 ||usps.gxwcfgihdh.top^
 ||m.gxwztv.com^
 ||gxxie.com^
@@ -76957,6 +76967,7 @@
 ||metrics.ice.gov^
 ||smetrics.ice.gov^
 ||images.ita.ice.it^
+||iceao.shop^
 ||icebergindigo.com^
 ||icebergmagazine.com^
 ||icebergreptilefury.com^
@@ -79045,7 +79056,6 @@
 ||indoleads.com^
 ||indoman.xyz^
 ||go.indonesiacupid.co^
-||indonesias.me^
 ||indonesiavolcano.com^
 ||indooritalian.com^
 ||tgg.indoortechs.com^
@@ -79609,7 +79619,7 @@
 ||data-87c1de682f.ingolstadt.de^
 ||ingomedia.store^
 ||get.ingomoney.com^
-||ingonherbal.com^
+||www.ingonherbal.com^
 ||www.ingoodhandsmassage.com.au^
 ||ingotedbooze.com^
 ||ingotheremplo.info^
@@ -85488,6 +85498,7 @@
 ||hybrid-prd.ad-prd.s.joyn.de^
 ||yazzuf.joyn.de^
 ||joyofcoding.de^
+||uuc.joyofprogress.com^
 ||joyog.com^
 ||joyorators.website^
 ||joyourself.com^
@@ -91169,6 +91180,7 @@
 ||kycxhgrp.xyz^
 ||kydzfldt.xyz^
 ||kyefakwa.com^
+||kyemwo.xyz^
 ||kyetrustcorps.com^
 ||kygftx.xyz^
 ||kyisatree.org^
@@ -92115,6 +92127,7 @@
 ||latinpilot.com^
 ||pubs2.latinspots.com^
 ||latinswinglake.com^
+||latinwayy.com^
 ||marketing.latisys.com^
 ||smetrics.latitudefinancial.co.nz^
 ||privacy.latitudefinancial.com^
@@ -96493,6 +96506,7 @@
 ||lucasmrahman.xyz^
 ||lucastadvertising.com^
 ||lucatee.com^
+||lucchesestore.online^
 ||prebid.lucead.com^
 ||rt.lucendi.ph^
 ||lucentfreer.com^
@@ -97557,6 +97571,7 @@
 ||madhurmatkaslow.com^
 ||madhva.live^
 ||madibarohilalatwo.duckdns.org^
+||madibarohillathree.duckdns.org^
 ||madinad.com^
 ||partner.madio.cz^
 ||madisonavenue.com^
@@ -99880,7 +99895,7 @@
 ||gayal.maxmasnick.com^
 ||device.maxmind.com^
 ||seyfwl.maxmodels.pl^
-||www.maxmoney.com^
+||maxmoney.com^
 ||maxmusics.com^
 ||maxocdgras.com^
 ||maxocoameo.live^
@@ -105368,7 +105383,7 @@
 ||monicablog.xyz^
 ||partneri.monikakorinkova.cz^
 ||monikastogowska.pl^
-||moninediy.com^
+||www.moninediy.com^
 ||teyvmb.moniquelhuillier.com^
 ||moniquetlee.com^
 ||monitis.com^
@@ -109534,6 +109549,7 @@
 ||navi10.com^
 ||navi100.com^
 ||navi12.com^
+||navi13.ru^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -109553,7 +109569,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi47.com^
@@ -109589,6 +109604,7 @@
 ||navi90.com^
 ||navi94.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -112281,6 +112297,7 @@
 ||nip5.com^
 ||nip57.com^
 ||nip69.com^
+||nip76.com^
 ||nip8.com^
 ||nip84.com^
 ||nip88.com^
@@ -116739,6 +116756,7 @@
 ||whats.opensourapp.xyz^
 ||elq.opensource.com^
 ||smetrics.opensource.com^
+||wall5tghf6fdg.api.opensourcesaas.org^
 ||go.openspacetrust.org^
 ||scs.openspeech.cn^
 ||ioijoh.opensrc-ai.top^
@@ -117040,6 +117058,7 @@
 ||v.oq68.com^
 ||opzjuq.oqder.xyz^
 ||oqfpuzaltac.com^
+||oqfrudzatovc.com^
 ||oqfvsgfj.com^
 ||oqnkur.icu^
 ||oqsttfy.com^
@@ -118169,6 +118188,8 @@
 ||sstats.oyster.com^
 ||stats.oyster.com^
 ||oysterbayvungtau.com^
+||afa.sticky.oystergardening.name^
+||tmz.sticky.oystergardening.name^
 ||oysterpearl.net^
 ||osuwzo.oyunfor.com^
 ||oywzrri.com^
@@ -140722,6 +140743,8 @@
 ||shepol.com^
 ||connect.care.sheppardpratt.org^
 ||web.care.sheppardpratt.org^
+||shereihnao.ru.com^
+||shereinsao.sa.com^
 ||sihoqd.sheridan.com.au^
 ||links.sheroes.in^
 ||sherouscolvered.com^
@@ -149609,7 +149632,7 @@
 ||mkzpqu.sungboon.com^
 ||sungen.jp-osa-1.linodeobjects.com^
 ||sunglassesmentallyproficient.com^
-||sunglassesninja.com^
+||www.sunglassesninja.com^
 ||smetrics.sunglasshut.com^
 ||sungodgraphics.com^
 ||xb.sungzionism.com^
@@ -152630,6 +152653,7 @@
 ||tdsahkln.xyz^
 ||tdsantcrazy.ru^
 ||pcf.tdscd.com^
+||tdsintegrations11.online^
 ||tdspa.top^
 ||tdstats.com^
 ||tdtc.cc^
@@ -162910,6 +162934,7 @@
 ||app.umterps.com^
 ||t.umterps.com^
 ||umtrends.com^
+||umtudo.com^
 ||umuotov.com^
 ||umutesiyok.com^
 ||umwmwxpivtwkyo.xyz^
@@ -164015,6 +164040,7 @@
 ||upstreamconcept.com^
 ||eloqua.upstreamintel.com^
 ||upstreamoilgroup.online^
+||upsups.click^
 ||upsworldhelp.com^
 ||upsworldtracker.com^
 ||uptafashib.com^
@@ -165257,6 +165283,7 @@
 ||usvkfwth.xyz^
 ||uswardwot.com^
 ||uswiadomienieobywateli.click^
+||usyliet.top^
 ||mkt.usz.ch^
 ||uszkotonfak.click^
 ||tracking.ut.se^
@@ -167017,6 +167044,7 @@
 ||data-c1e9638016.vgn.at^
 ||click.vgnett.no^
 ||vgoloveboli.net^
+||vgpgw8.za.com^
 ||wall.vgr.com^
 ||vgrcxa.com^
 ||vgsksc.com^
@@ -176879,6 +176907,7 @@
 ||a0984086.xsph.ru^
 ||a0986499.xsph.ru^
 ||a0986569.xsph.ru^
+||a0986618.xsph.ru^
 ||a0987931.xsph.ru^
 ||hitcounter01.xspp.com^
 ||rdbd.xsread.com^
@@ -177053,6 +177082,7 @@
 ||xvzfyra.xyz^
 ||xvzvqoq.xyz^
 ||xwagtyhujov.com^
+||xwdjnj.xyz^
 ||xwdplfo.com^
 ||xd.xweuu.com^
 ||xwewabodwhud.com^
@@ -177561,6 +177591,7 @@
 ||yceleb.com^
 ||ycesqatar.com^
 ||ycgkol.icu^
+||ycgmnpp.icu^
 ||ycgy8888.com^
 ||yclawcollegepune.org^
 ||yclhwh.com^
@@ -178853,7 +178884,7 @@
 ||vinted-pl-gj32d.yrsmidi.live^
 ||yrvzqabfxe.com^
 ||log.ys7.com^
-||ysbaojia.com^
+||www.ysbaojia.com^
 ||ysearchingfo.xyz^
 ||ysemblyjusting.info^
 ||ysesials.net^
