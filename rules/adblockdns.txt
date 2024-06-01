@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240601162315
-! Last modified: 2024/06/01 16:23:15
-! Blocked domains: 184637
+! Version: 20240602002411
+! Last modified: 2024/06/02 00:24:11
+! Blocked domains: 184648
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -8540,6 +8540,7 @@
 ||af-next.com^
 ||af-z.jp^
 ||af60f3d6b4.com^
+||af9dc9.xyz^
 ||go.afa.org^
 ||afahivar.com^
 ||afaiphee.xyz^
@@ -24324,6 +24325,7 @@
 ||bhjuy10.com^
 ||bhklubwindsor.com^
 ||bhlom.com^
+||bhohazozps.com^
 ||bhojanorder.com^
 ||ads.bhol.co.il^
 ||ban.bhol.co.il^
@@ -38944,6 +38946,7 @@
 ||metrics.combinedinsurance.com^
 ||smetrics.combinedinsurance.com^
 ||combineencouragingutmost.com^
+||combinestronger.com^
 ||combitly.com^
 ||comboapp.com^
 ||combofile4u.click^
@@ -40447,6 +40450,7 @@
 ||coordinatedbedroom.com^
 ||smetrics.coordinatedcarehealth.com^
 ||coordinatedcoat.com^
+||coordinatereopen.com^
 ||coordino.com^
 ||coorgazestrk.com^
 ||coorgexports.com^
@@ -53604,6 +53608,7 @@
 ||track.eg-innovations.net^
 ||elq.eg.co.uk^
 ||egadvertising.com^
+||egalitysarking.com^
 ||egamingonline.com^
 ||egamiplatform.tv^
 ||egazedatthe.xyz^
@@ -55038,6 +55043,7 @@
 ||encirclehumanityarea.com^
 ||encirclesheriffemit.com^
 ||enclosedsponge.com^
+||enclosedswoopbarnacle.com^
 ||encloselavanga.com^
 ||encodehelped.com^
 ||encodeinflected.com^
@@ -58736,6 +58742,7 @@
 ||f77j6t2b.com^
 ||f8260adbf8558d6.com^
 ||f853150605ccb.com^
+||f8a070.xyz^
 ||f8bet.com^
 ||f8bet.homes^
 ||f8bet0.com^
@@ -63193,6 +63200,7 @@
 ||xfbuv.footprintintime.com^
 ||footprintlive.com^
 ||pre.footprintpredict.com^
+||footprintsfurnish.com^
 ||footprintssoda.com^
 ||footprintswarming.com^
 ||qyvnic.footshop.cz^
@@ -65647,6 +65655,7 @@
 ||fznpq.com^
 ||fznxvf.xyz^
 ||fzontuovkown.com^
+||fzpzrqou.icu^
 ||fzszuvb.com^
 ||fztyrv.xyz^
 ||g--o.info^
@@ -70268,6 +70277,7 @@
 ||gooiskeukenmontage.com^
 ||gool1.site^
 ||rferl.c.goolara.net^
+||goole20.shop^
 ||goolges.com^
 ||goolpter.com^
 ||goomaphy.com^
@@ -153001,6 +153011,7 @@
 ||sstats.sumitomo-pharma.jp^
 ||summaryjustlybouquet.com^
 ||summaryvalued.com^
+||summer-notifications.com^
 ||summerbestapp.com^
 ||summerboycottrot.com^
 ||aff.summercart.com^
