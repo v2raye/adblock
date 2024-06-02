@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240602002411
-! Last modified: 2024/06/02 00:24:11
-! Blocked domains: 184648
+! Version: 20240602090517
+! Last modified: 2024/06/02 09:05:17
+! Blocked domains: 184698
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -11795,6 +11795,7 @@
 ||amatrice-partouzeuse.com^
 ||amatrices-sexy.fr^
 ||amattepush.com^
+||amatvip36sc.cc^
 ||amazaon.com^
 ||amazbot.com^
 ||amazementpink.com^
@@ -11914,6 +11915,7 @@
 ||amazonefashion.com^
 ||analytics.id.amazongames.com^
 ||amazongiftcardgenerator.org^
+||amazonl3.com^
 ||amazonlogistics.jp^
 ||amazonml999.com^
 ||dl.amazonmusic.com^
@@ -14717,6 +14719,7 @@
 ||ap.lc^
 ||discover.ap.org^
 ||te.ap.org^
+||ap2h9d2g3.com^
 ||ap3lorf0il.com^
 ||capture-api.ap3prod.com^
 ||ads.publick.apa.net^
@@ -31320,6 +31323,7 @@
 ||pear.ca-eko-globetrotter.fr^
 ||pcnphysio-com.ca-eulerian.net^
 ||canadapost.ca-help-h.top^
+||ca-nhan-vpb.com^
 ||a8cv.ca-rent.jp^
 ||ca-url.com^
 ||secure.adata.ca.com^
@@ -34475,6 +34479,7 @@
 ||chamsocthekhachang-truc-tuyen.com^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
 ||chamsocthekhachhang-thang4.com.vn^
+||chamsocthekhachhang-uudai-tructuyen.com^
 ||mor.chance-10dayful.com^
 ||chance-ad.com^
 ||a8clk.chance.com^
@@ -44137,6 +44142,7 @@
 ||da3uf5ucdz00u.cloudfront.net^
 ||bk.da520.top^
 ||da5h676k6d22w.cloudfront.net^
+||da6555.com^
 ||da90link.com^
 ||daabet-oglink.com^
 ||daailynews.com^
@@ -44469,6 +44475,7 @@
 ||www.dajean.com^
 ||a.dajex.club^
 ||da.daji.com^
+||dajiahao9.top^
 ||cdn.dajkq.com^
 ||dakawm.cc^
 ||gyydua.dakine.com^
@@ -48838,6 +48845,7 @@
 ||divsly.com^
 ||go.divulge-discoveries.com^
 ||divx.it^
+||divxrj.xyz^
 ||divyadixitips.com^
 ||diwapa3051.wixsite.com^
 ||diwenganzaoji.com^
@@ -68693,6 +68701,7 @@
 ||glevoloo.com^
 ||pixel.gliacloud.com^
 ||player.gliacloud.com^
+||static-pixel.gliavideo.com^
 ||acton.glic.com^
 ||enrolldi.glic.com^
 ||ebis.glico-direct.jp^
@@ -90457,6 +90466,7 @@
 ||khushidreamhome.com^
 ||khusikosamachar.com^
 ||khuyenkhichsangtaoviet.net^
+||khvib-canhan.com^
 ||ki-datenrettung.de^
 ||webftp.ki-oon.com^
 ||res.ki.de^
@@ -99202,6 +99212,7 @@
 ||ad2.maho.jp^
 ||img.ad2.maho.jp^
 ||maholfinance.com^
+||ze.mahonetranvia.com^
 ||mahourup.xyz^
 ||mai-tel.jp^
 ||mai1b0x.com^
@@ -101425,12 +101436,14 @@
 ||www.s.mbc-card.com^
 ||vinted-pl-gj32d.mbc1.xyz^
 ||www.vinted-pl-gj32d.mbc1.xyz^
+||mbcanhan-cskh.com^
 ||t.mbcentre.ca^
 ||mbdfidszzlo.com^
 ||mbdippex.com^
 ||mbdkb.com^
 ||mbet.co.za^
 ||mbfhwag.xyz^
+||mbfn-fic.com^
 ||ad.sp.mbga.jp^
 ||ptcdn.mbicash.nl^
 ||bid.mbidtg.com^
@@ -103533,6 +103546,7 @@
 ||miamribud.com^
 ||mianbrothersanitary.com^
 ||miaomu139.cn^
+||miaoniter.com^
 ||miaouedcrevass.com^
 ||miaozhen.com^
 ||target.miaprova.com^
@@ -105833,6 +105847,7 @@
 ||mnorkc.xyz^
 ||lp.mnp.ca^
 ||tr.email.mnpaf.fr^
+||mnpkxgfp.xyz^
 ||protection.mnpolice.com^
 ||mnpzrgz.xyz^
 ||ea.mnt.fr^
@@ -116873,6 +116888,7 @@
 ||ojgvteduhsko.com^
 ||ojj258.com^
 ||ojjbuxohmk.com^
+||ojlmkywcenhu.com^
 ||ojmvywz.com^
 ||inpost-pl.ojoevoip.pw^
 ||lnpost.ojoevoip.pw^
@@ -119373,6 +119389,7 @@
 ||oscarsara.com^
 ||visit.oschina.net^
 ||oscism.com^
+||stats.osd.vn^
 ||ads.osdn.com^
 ||ads2.osdn.com^
 ||fmads.osdn.com^
@@ -119489,6 +119506,7 @@
 ||we.care.oswegohealth.org^
 ||oswieconykochanek.pl^
 ||oswowg.xyz^
+||osyliek.top^
 ||oszlnxwqlc.com^
 ||oszukacruletke.blogspot.com^
 ||ot6axolwh.com^
@@ -122126,6 +122144,7 @@
 ||pchznf.xyz^
 ||smetrics.pcid.ca^
 ||pcirurrkeazm.com^
+||pcispotzera.com^
 ||ivy.pclady.com.cn^
 ||z1.pclady.com.cn^
 ||images.e.pcm.com^
@@ -123370,6 +123389,7 @@
 ||phasofexile.site^
 ||phastoag.com^
 ||adserver.phatmax.net^
+||phattai247.com^
 ||phaucmoa.net^
 ||phauftee.xyz^
 ||phaurtuh.net^
@@ -133853,6 +133873,7 @@
 ||qyoqeq.xyz^
 ||qyparuazyu.com^
 ||qywapiugeo.live^
+||qywbslk.top^
 ||qyzigio.com^
 ||qyzyd.top^
 ||ads.qz.com^
@@ -144228,6 +144249,7 @@
 ||shellstore.info^
 ||shelly.rs^
 ||guanaco.shelter.stream^
+||sheltermilligrammillions.com^
 ||go.shelterpoint.com^
 ||f164.sheltonherald.com^
 ||shelvessawwort.com^
@@ -144277,6 +144299,7 @@
 ||shenhirdasting.com^
 ||shenhl.top^
 ||shenouth.com^
+||sg-open-set-api.shenshiads.com^
 ||shensor.com^
 ||shenzo.xyz^
 ||shepeekr.net^
@@ -144686,6 +144709,7 @@
 ||pciidk.shopee.vn^
 ||userstats.shopee.vn^
 ||shopee1.org^
+||shopee123.vip^
 ||shopee14.com^
 ||shopee15.com^
 ||shopee1666.com^
@@ -148838,6 +148862,7 @@
 ||sopital.com^
 ||ts.sopornvideos.com^
 ||soportempresa.com^
+||soppe68.shop^
 ||eloqua.soprasteria.co.uk^
 ||news.soptv.ws^
 ||soraad.jp^
@@ -149185,6 +149210,7 @@
 ||sowfairytale.com^
 ||sowisconsintimes.com^
 ||sowlettuce.com^
+||sowsuwm.icu^
 ||sowuroeraa.life^
 ||xmyvhu.soxo.pl^
 ||a8cv.soyafarm.com^
@@ -149211,6 +149237,7 @@
 ||sp-up2.net^
 ||metrics.sp0n.io^
 ||sp11cesavvy.xyz^
+||sp15569p.com^
 ||news.sp2.org^
 ||sp9hb5jy81iw.ru^
 ||lravwm.spa.cz^
@@ -156098,6 +156125,7 @@
 ||tdkd02.com^
 ||tdkd03.com^
 ||tdkdigitalaudio.com^
+||tdkt01.com^
 ||tdle.ru^
 ||tdljuuw.xyz^
 ||tdlyfz.xyz^
@@ -159978,6 +160006,7 @@
 ||tinancefa.org^
 ||tinbuadserv.com^
 ||tinchap-nganhang.online^
+||tinchaphd.com^
 ||go.tinder.com^
 ||etl.tindersparks.com^
 ||ggcake.tindersplus.net^
@@ -160532,6 +160561,7 @@
 ||banners.todoconsolas.com^
 ||trk.todocouplings.com^
 ||todolize.com^
+||todopick.com^
 ||ads.todoti.com.br^
 ||todtview.com^
 ||todyhuafao.live^
@@ -161769,6 +161799,7 @@
 ||tp1jcgl644jk.com^
 ||share.tp666.vip^
 ||tp930.com^
+||tpb-vayuudai.com^
 ||tpbankvn.com^
 ||tpbid.com^
 ||tpc.hu^
@@ -164146,6 +164177,20 @@
 ||wsytyz.tts.ru^
 ||track.ttsave.app^
 ||allegro.ttsl.pl^
+||blog.ttssonine.top^
+||da.ttssonine.top^
+||das.ttssonine.top^
+||fam.ttssonine.top^
+||gas.ttssonine.top^
+||gax.ttssonine.top^
+||has.ttssonine.top^
+||jal.ttssonine.top^
+||kas.ttssonine.top^
+||lat.ttssonine.top^
+||law.ttssonine.top^
+||mal.ttssonine.top^
+||qa.ttssonine.top^
+||wtapril.ttssonine.top^
 ||ttsycqxjvgrya.xyz^
 ||tttserv.com^
 ||tttuliao.com^
@@ -170015,6 +170060,7 @@
 ||a-teamallbills.vev.site^
 ||vevatom.com^
 ||veve.com^
+||vevhjj.xyz^
 ||vevlysingar.fo^
 ||gg.vevor.com^
 ||go.vevox.com^
@@ -172037,6 +172083,7 @@
 ||vnsrher.mypi.co^
 ||vntanktransport.com^
 ||shopee.vntheme.com^
+||vntiki11.com^
 ||vntkm.com^
 ||vntop88.com^
 ||ads.vnumedia.com^
@@ -172782,6 +172829,7 @@
 ||vsports88.asia^
 ||vsports88.com^
 ||vsrjdy.com^
+||vssid.cc^
 ||vstar79.com^
 ||www.vstats.net^
 ||vstvstsa.com^
@@ -178145,6 +178193,7 @@
 ||workona.com^
 ||workoperation.com^
 ||l.workoutparty.co^
+||tpbankvn.workplace.com^
 ||workplacenotchperpetual.com^
 ||a8clk.www.workport.co.jp^
 ||workru.online^
@@ -182330,6 +182379,7 @@
 ||yshhfig.com^
 ||yshlor.icu^
 ||ysjkbk.com^
+||yskicm.xyz^
 ||a8cv.store.yslabo.net^
 ||ysldrop.top^
 ||ysloutletbags.com^
