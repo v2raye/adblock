@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240604162420
-! Last modified: 2024/06/04 16:24:20
-! Blocked domains: 184919
+! Version: 20240605002431
+! Last modified: 2024/06/05 00:24:31
+! Blocked domains: 184922
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -25383,6 +25383,7 @@
 ||commerce.bing.com^
 ||dps.bing.com^
 ||bat.bing.net^
+||bing003.shop^
 ||bing005.shop^
 ||bingads.com^
 ||bingdianhuanyuan.cn^
@@ -116002,6 +116003,7 @@
 ||marketing.nyi.com^
 ||ads.nyi.net^
 ||marketing.nyi.net^
+||nyihcpzdloe.com^
 ||nyittc.com^
 ||nyjfgbvrgyjmgb.de^
 ||prod-events.nykaa.com^
@@ -179523,6 +179525,7 @@
 ||xb11766.com^
 ||xb11776.com^
 ||js1.xbaixing.com^
+||xbbhwggj.icu^
 ||xbc8fsvo5w75wwx8.pro^
 ||cdn.xbcpcn.com^
 ||vinted-pl-gj32d.xbdh8.top^
