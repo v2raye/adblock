@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240605002431
-! Last modified: 2024/06/05 00:24:31
-! Blocked domains: 184922
+! Version: 20240605090223
+! Last modified: 2024/06/05 09:02:23
+! Blocked domains: 184950
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -2980,6 +2980,7 @@
 ||558ao12sqrok.top^
 ||558kbet.com^
 ||55bdsm.com^
+||55cc9d.xyz^
 ||union.55haitao.com^
 ||55labs.com^
 ||websocket.55online.news^
@@ -3353,7 +3354,7 @@
 ||51fdc70d17.622bcf2c86.com^
 ||623762.com^
 ||62b70ac32d4614b.com^
-||ae2a82cf20.62ca04e27a.com^
+||62ca04e27a.com^
 ||m.62mao.com^
 ||fca88bf71e.632c96af3c.com^
 ||634d520205.com^
@@ -17319,7 +17320,7 @@
 ||asricewaterho.com^
 ||cdn.asriran.com^
 ||asrntiljustetyerec.info^
-||cdn.asrop.xyz^
+||asrop.xyz^
 ||asropaten.com^
 ||asrowjkagg.com^
 ||asrv-a.akamaihd.net^
@@ -20104,6 +20105,7 @@
 ||c348ffe089.b7f977b78d.com^
 ||b7tp47v2nb3x-a.akamaihd.net^
 ||b81oidrmy82w.com^
+||b82978.xyz^
 ||b88ag.com^
 ||b8fd375760.com^
 ||b8pfulzbyj7h.com^
@@ -24846,6 +24848,7 @@
 ||ads.bianca.com^
 ||biancasunlit.com^
 ||biance-pl.com^
+||biancitiao.com^
 ||biancosta.xyz^
 ||ws.bianjieshop.top^
 ||pixel.biano.cz^
@@ -74858,6 +74861,7 @@
 ||hfglobel.com^
 ||hfhytx.xyz^
 ||hfjk3wa.com^
+||hfjsliu.top^
 ||p0741g8syqizjfv.hfjyochmnn.ru^
 ||www.p0741g8syqizjfv.hfjyochmnn.ru^
 ||hflwgg.xyz^
@@ -79289,6 +79293,7 @@
 ||member.freefiregarena.id.vn^
 ||vinted-uk.id04313.com^
 ||postecan-canpost.id0471.link^
+||yandex.putin-huilo.sberbank.id05196219.com^
 ||aruba-paga-fattura.id2008898.com^
 ||vlnted-gb.id2022013.info^
 ||id23.pl^
@@ -85063,6 +85068,7 @@
 ||ithimenttat.site^
 ||ithinkthereforeiam.net^
 ||itadapi.ithome.com.tw^
+||ithoughtsustache.info^
 ||itiarrappossirrthe.site^
 ||marketing.itiball.com^
 ||elk.itiden.se^
@@ -86881,6 +86887,7 @@
 ||marmot.jfontana.fr^
 ||jfoowqditdf.com^
 ||jfraction.al^
+||jfremovals.com^
 ||jfveak.com^
 ||ade.jfx.co.jp^
 ||jfy-stone.cn^
@@ -96030,6 +96037,7 @@
 ||libertyvideos.org^
 ||libertywritersnews.com^
 ||libetyn.pics^
+||libhzf.xyz^
 ||libidinizing.live^
 ||track.libii.cn^
 ||static.ad.libimseti.cz^
@@ -107610,6 +107618,7 @@
 ||panda.moritz-petersen.de^
 ||ypqgnx.morizon.pl^
 ||morlsucpgf.site^
+||morlyes.com^
 ||mornayter.xyz^
 ||metrics.morningadvertiser.co.uk^
 ||morningamidamaruhal.com^
@@ -111357,16 +111366,20 @@
 ||navi10.com^
 ||navi100.com^
 ||navi12.com^
+||navi16.ru^
+||navi17.ru^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
 ||navi20.ru^
 ||navi21.com^
+||navi21.ru^
 ||navi22.com^
 ||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
 ||navi24.ru^
+||navi25.ru^
 ||navi3.com^
 ||navi30.ru^
 ||navi32.com^
@@ -111380,6 +111393,7 @@
 ||navi444.com^
 ||navi45.ru^
 ||navi47.com^
+||navi49.ru^
 ||navi5.com^
 ||navi50.com^
 ||navi53.com^
@@ -111409,7 +111423,9 @@
 ||navi9.com^
 ||navi90.com^
 ||navi94.com^
+||navi94.ru^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -114084,6 +114100,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
+||nip30.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -119204,6 +119221,7 @@
 ||track.oportalmaisvida.com^
 ||track.oportalsaudeemfoco.com^
 ||partneri.oportskem.cz^
+||opositeasysemblyjus.info^
 ||opottionas.site^
 ||opouglie.com^
 ||opowiescidnia.click^
@@ -133111,6 +133129,7 @@
 ||qpalliance.com^
 ||qpawkw.xyz^
 ||qpdownload.com^
+||qpesok.xyz^
 ||qpinsurance.com^
 ||qpoewiopieruut.site^
 ||qpolitical.com^
@@ -141508,6 +141527,7 @@
 ||adebis.sbpayment.jp^
 ||sbplus.hr^
 ||sbqecomagency.com^
+||sbqptosht.com^
 ||sbrakepads.com^
 ||sbs-ad.com^
 ||ad1.sbs.co.kr^
@@ -155207,6 +155227,7 @@
 ||a.tainengchong.com^
 ||taintvistacredulous.com^
 ||taiopr.site^
+||taipeivermeil.top^
 ||taiphanmempc.net^
 ||taiqingjiu.com^
 ||taiqqlive.pro^
@@ -158422,6 +158443,7 @@
 ||thechesslabs.com^
 ||thechhapas.com^
 ||engage.thechicagocouncil.org^
+||thechildhooddream.com^
 ||partner.thechillidoctor.cz^
 ||b.thechive.com^
 ||click1.e.thechive.com^
@@ -168764,6 +168786,7 @@
 ||uuuzuu.xyz^
 ||uuwwbb.github.io^
 ||uuxfznnf.xyz^
+||uuysiaq.com^
 ||uuzsfpju.xyz^
 ||static.flv.uuzuonline.com^
 ||l.uvcr.me^
@@ -174263,6 +174286,7 @@
 ||t.wayfair.com^
 ||t.wayfair.de^
 ||wayfcoin.space^
+||wayfgwbipgiz.com^
 ||wayhacks.com^
 ||waylandermix.com^
 ||dc.waylet.es^
@@ -177761,6 +177785,7 @@
 ||wkimoveis.com^
 ||wkindiaweb.com^
 ||m.wkjava.top^
+||wkjyxcheng.top^
 ||wkladpompy.pl^
 ||wkmg.co.kr^
 ||wknaczrxjrj.com^
@@ -180896,6 +180921,7 @@
 ||xynter-invest.pro^
 ||xyrkl.com^
 ||xyryjt.xyz^
+||xysefte.icu^
 ||xytcboyz.icu^
 ||f.xyu.tv^
 ||xyust.com^
@@ -181292,6 +181318,7 @@
 ||ybs2ffs7v.com^
 ||ybtkzjm.com^
 ||ihcamp.ybtour.co.kr^
+||ybutoakqkct.com^
 ||yc-ads.s3.amazonaws.com^
 ||aeno.co.jp.yc-zg.com^
 ||yceleb.com^
@@ -184643,6 +184670,7 @@
 ||ztcadx.com^
 ||images.mkt.zte.com.cn^
 ||ztgame.com^
+||zthxobgk.icu^
 ||ztm-post.com^
 ||ztm-waw.com^
 ||ztomy.com^
