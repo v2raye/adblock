@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240606162437
-! Last modified: 2024/06/06 16:24:37
-! Blocked domains: 183939
+! Version: 20240607002400
+! Last modified: 2024/06/07 00:24:00
+! Blocked domains: 183953
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -16443,6 +16443,7 @@
 ||ardslediana.com^
 ||ardspalkiator.com^
 ||ardsvenipedeon.com^
+||arduino.uk.eu.org^
 ||ardunifertmaroc.com^
 ||arduousyeast.com^
 ||area51.to^
@@ -25871,6 +25872,7 @@
 ||www.bitstarz41.com^
 ||www.bitstarz42.com^
 ||www.bitstarz49.com^
+||bitstenali.com^
 ||bittads.com^
 ||bittenlacygreater.com^
 ||bitterbragging.com^
@@ -44529,6 +44531,7 @@
 ||a.dajex.club^
 ||da.daji.com^
 ||cdn.dajkq.com^
+||dajkqqpz.top^
 ||dakawm.cc^
 ||gyydua.dakine.com^
 ||dakiwen.com^
@@ -44942,6 +44945,7 @@
 ||data-7899267776.daskochrezept.de^
 ||data-f16abe2047.daskochrezept.de^
 ||dcclaa.daskochrezept.de^
+||dasljfoq.top^
 ||partner.dasoertliche-marketing.de^
 ||data-02011e6008.dasoertliche.de^
 ||data-8b77a703e0.dasoertliche.de^
@@ -45623,6 +45627,7 @@
 ||teams.de-php.info^
 ||skinbaron.de-save.com^
 ||de17a.com^
+||de214f.xyz^
 ||data-cf38608471.de24live.de^
 ||de2nsnw1i3egd.cloudfront.net^
 ||de3hzpms0kfq9.cloudfront.net^
@@ -61691,6 +61696,7 @@
 ||firenzepunk.pl^
 ||ydtzzw.firenzeviola.it^
 ||fireplaceroundabout.com^
+||firersale.com^
 ||firesinfamous.com^
 ||analytics.firespring.com^
 ||firestarcreative.com^
@@ -64413,7 +64419,6 @@
 ||freedomeagle.net^
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -76856,6 +76861,7 @@
 ||hrmresources3.com^
 ||hrnecek.com^
 ||hrnkdr.xyz^
+||hrnvfp.xyz^
 ||hrogrpee.de^
 ||hrom.site^
 ||mas.hronboard.me^
@@ -94568,6 +94574,7 @@
 ||ledaren.cn^
 ||ledcopyboard.com^
 ||info.ledcrew.com^
+||ledger-liveweb3app.com^
 ||pages.ledger.com^
 ||ledger.ink^
 ||ledgerlivewallets.com^
@@ -99324,6 +99331,7 @@
 ||jn23.madeindesign.it^
 ||mgt7.madeindesign.it^
 ||madeintex.com^
+||madeinusas.com^
 ||madeinvasionneedy.com^
 ||wttd.madeleine-fashion.be^
 ||wttd.madeleine-fashion.nl^
@@ -109794,6 +109802,7 @@
 ||ac.mz-web.de^
 ||consent.mz-web.de^
 ||sanalytics.mz-web.de^
+||ad.dl.mz.de^
 ||data-11c63b1cbc.mz.de^
 ||data-5492b7d422.mz.de^
 ||share.mzaalo.com^
@@ -110752,6 +110761,7 @@
 ||navi90.com^
 ||navi94.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -113354,6 +113364,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
+||nip30.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -133023,6 +133034,7 @@
 ||qwmamh.icu^
 ||qwmdblogpro.site^
 ||qwnmfiti.xyz^
+||qwoofao.top^
 ||qwoyfys.com^
 ||jdbs56hs.qwrk.my.id^
 ||qwudbhasdwq8h.sa.com^
@@ -151263,6 +151275,7 @@
 ||kentent.stre4mplay.one^
 ||streakappealmeasured.com^
 ||streakattempt.com^
+||metrics.streaks.jp^
 ||app.streaktrivia.com^
 ||bot.streaktrivia.com^
 ||go.streakwave.com^
@@ -178452,6 +178465,7 @@
 ||b.wxebgpj.cn^
 ||in.wxebgpj.cn^
 ||s.wxebgpj.cn^
+||wxemjmxevy.com^
 ||wxfdmri.xyz^
 ||wxhiojortldjyegtkx.bid^
 ||v066.wxii12.com^
