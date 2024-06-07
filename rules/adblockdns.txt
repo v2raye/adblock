@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240607002400
-! Last modified: 2024/06/07 00:24:00
-! Blocked domains: 183953
+! Version: 20240607090408
+! Last modified: 2024/06/07 09:04:08
+! Blocked domains: 183967
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -3060,6 +3060,7 @@
 ||pic1.59wd.com^
 ||5a46641450.com^
 ||5advertise.com^
+||5afc476a.xyz^
 ||47dff461d7.5afd9ec0ab.com^
 ||5btekl14.de^
 ||5buddies.com^
@@ -3791,6 +3792,7 @@
 ||7bpeople.com^
 ||7c0616849b.com^
 ||7ca78m3csgbrid7ge.com^
+||7ca989e1.xyz^
 ||sadbmetrics.7canibales.com^
 ||7car.com.cn^
 ||7cc70.com^
@@ -36184,6 +36186,7 @@
 ||ciieplakurtka.site^
 ||ciimamore.com^
 ||ciimar.icu^
+||ciizxsdr.com^
 ||olx-pol-kxlsw2.cijilu.xyz^
 ||vinted-pl-gj32d.cijilu.xyz^
 ||cikelly.com^
@@ -44239,6 +44242,7 @@
 ||marketing.dacocorp.com^
 ||dacodelab.com^
 ||dacounter.com^
+||dacpibaqwsa.com^
 ||ads.dada.it^
 ||dadablogger.com^
 ||dadajitimes.com^
@@ -52828,7 +52832,7 @@
 ||ajgkdt.eazy.de^
 ||www.eazywalkers.com^
 ||eb-nav.com^
-||3289892c83.eb36c9bf12.com^
+||eb36c9bf12.com^
 ||as.ebacdn.com^
 ||ebadar.com^
 ||ebadore.com^
@@ -58885,7 +58889,7 @@
 ||f3663618ff.com^
 ||f3dcc.cc^
 ||f3udfa7nfguhni.com^
-||a1391330c0.f43f5a2390.com^
+||f43f5a2390.com^
 ||f4u.pl^
 ||email.social.f5.com^
 ||mktg.aa.f5.com^
@@ -62922,6 +62926,7 @@
 ||fnlojkpbe.com^
 ||oms.fnlondon.com^
 ||analytics.fnni.com^
+||fnnvyvxiu.com^
 ||data-f1e447fbcf.fnp.de^
 ||data-f59db3288b.fnp.de^
 ||utiq.fnp.de^
@@ -73903,6 +73908,7 @@
 ||ostrich.hegic-tokenizer.co^
 ||heheffeshk.shop^
 ||hehighursoo.com^
+||hehnpryefuq.com^
 ||data-f1e447fbcf.heidelberg24.de^
 ||data-f59db3288b.heidelberg24.de^
 ||owl.heidipay.com^
@@ -86279,6 +86285,7 @@
 ||jfixhuovpa.com^
 ||jfjle4g5l.com^
 ||jfjlfah.com^
+||jfjslia.top^
 ||jfkc5pwa.world^
 ||jflwhf.xyz^
 ||statistics.jfmedier.dk^
@@ -87393,6 +87400,7 @@
 ||jswyrt.jp1880.de^
 ||jp88.cc^
 ||jpassport.jp^
+||jpcctez.icu^
 ||jpchnews32.click^
 ||jpcj9txvbu.shop^
 ||jpcrypto.io^
@@ -87805,6 +87813,7 @@
 ||junglehikingfence.com^
 ||l.junglekouen.com^
 ||jungroup.com^
+||analytics.junia.ai^
 ||track.juninhogreen.com^
 ||al.junior-onlineshop.jp^
 ||juniorapplesconsonant.com^
@@ -89860,6 +89869,7 @@
 ||kdokgcf.com^
 ||kdosimp.com^
 ||1p.kdowwqko.com^
+||kdqlbm.cn^
 ||kdqnaec.cn^
 ||api.protonaosp.kdrag0n.dev^
 ||kdropsusaoriginal.com^
@@ -115507,6 +115517,7 @@
 ||oaphoace.net^
 ||oaphooftaus.com^
 ||oapyrzde.xyz^
+||oaqrui.xyz^
 ||oarcompartmentexaggerate.com^
 ||oardilin.com^
 ||oarsmorsel.com^
@@ -138327,6 +138338,7 @@
 ||rpyor0k.xyz^
 ||rq7em6han40i.com^
 ||rqauutf.icu^
+||rqazepammrl.com^
 ||rqgourxmjie.click^
 ||rqhere.com^
 ||rqhere2.com^
@@ -155117,6 +155129,7 @@
 ||tcellcelulares.com^
 ||tcenavoprosa.ru^
 ||user-saieoncard-co-jp-7a1eec5782c224734ef2a7b2.tcf746.com^
+||tcfgtd.xyz^
 ||tcgjpib.com^
 ||marketing.tcgrecycling.com^
 ||tcgtrkr.com^
@@ -183611,6 +183624,7 @@
 ||sw.zpetna.top^
 ||wa.zpetna.top^
 ||zpgetworker11.com^
+||zphgadwnjro.com^
 ||zpotkvpy.icu^
 ||getresponse-login.microsoftonline.zpovdbsyft.click^
 ||www.getresponse-login.microsoftonline.zpovdbsyft.click^
