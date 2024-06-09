@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240609162308
-! Last modified: 2024/06/09 16:23:08
-! Blocked domains: 183996
+! Version: 20240610002303
+! Last modified: 2024/06/10 00:23:03
+! Blocked domains: 184013
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -876,6 +876,7 @@
 ||www.1cont.ru^
 ||1cpbac.ru^
 ||1d54fr.cc^
+||1dd6e9ba.xyz^
 ||f3eb26169e.1de34fcfeb.com^
 ||url7061.support.1dental.com^
 ||1directory.ru^
@@ -67639,6 +67640,7 @@
 ||5.gf54.cc^
 ||www3.gfa.org^
 ||gfcad.com^
+||gfdgfhh.cn^
 ||photo.gfer4.xyz^
 ||data-3d7fa37729.gff-magazin.de^
 ||data-93b38cb75f.gff-magazin.de^
@@ -69281,7 +69283,17 @@
 ||parked-content.godaddy.com^
 ||parking.godaddy.com^
 ||seal.godaddy.com^
-||godaddysites.com^
+||affordableforyouusa5.godaddysites.com^
+||bevinted.godaddysites.com^
+||interiapl2558.godaddysites.com^
+||konto5.godaddysites.com^
+||mailorange4.godaddysites.com^
+||pocztainteria0.godaddysites.com^
+||pocztao2.godaddysites.com^
+||pslcpdfhjmxpldvfrhttxxdqzgr2.godaddysites.com^
+||universityofqatarrectorate.godaddysites.com^
+||username29.godaddysites.com^
+||zimbra-freefr8.godaddysites.com^
 ||godaieducation.org^
 ||godamorx.com^
 ||tracking.godatafeed.com^
@@ -79073,6 +79085,7 @@
 ||member.freefiregarena.id.vn^
 ||vinted-uk.id04313.com^
 ||postecan-canpost.id0471.link^
+||yandex.putin-huilo.sberbank.id05196219.com^
 ||aruba-paga-fattura.id2008898.com^
 ||id23.pl^
 ||id3103.com^
@@ -89515,6 +89528,7 @@
 ||a8.kajitaku.com^
 ||kajoabrig.com^
 ||kajt24.pl^
+||kak17p.xyz^
 ||log.kaka.me^
 ||kakablog.net^
 ||kakadu-interior.com.ua^
@@ -100710,6 +100724,7 @@
 ||marketgrower.site^
 ||markethealth.com^
 ||tracking.markethero.io^
+||markethops.com^
 ||marketimpacts.site^
 ||data.mail.marketing-bcthk.com^
 ||marketing-guerilla.de^
@@ -111190,6 +111205,7 @@
 ||navi10.com^
 ||navi100.com^
 ||navi12.com^
+||navi17.com^
 ||navi18.com^
 ||navi2.com^
 ||navi20.com^
@@ -111209,12 +111225,12 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi47.com^
 ||navi5.com^
 ||navi50.com^
+||navi51.ru^
 ||navi53.com^
 ||navi56.com^
 ||navi58.com^
@@ -111243,7 +111259,6 @@
 ||navi90.com^
 ||navi94.com^
 ||navi96.com^
-||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -125886,6 +125901,7 @@
 ||s.po.st^
 ||po.trade^
 ||po18.in^
+||po2qgo.xyz^
 ||www.poac24ak.top^
 ||poacauceecoz.com^
 ||poacawhe.net^
@@ -181301,6 +181317,7 @@
 ||tp.your-look-for-less.se^
 ||your-markettrader.com^
 ||your-notice.com^
+||auspost.your-redelivery-au.com^
 ||your-surveys.com^
 ||your-tales.ru^
 ||your-wage-pet.com^
