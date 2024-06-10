@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240610002303
-! Last modified: 2024/06/10 00:23:03
-! Blocked domains: 184013
+! Version: 20240610090437
+! Last modified: 2024/06/10 09:04:37
+! Blocked domains: 184020
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -44952,6 +44952,7 @@
 ||comunicaciones.daviviendacorredores.com^
 ||publicidad.daviviendaintl.com^
 ||dav.davrontech.com^
+||davtvd.xyz^
 ||davultozu.com^
 ||dawaiorganicfood.com^
 ||pass.dawat.uk^
@@ -53389,6 +53390,7 @@
 ||efindertop.com^
 ||efirbet.com^
 ||smetrics.efirstbank.com^
+||efjsliw.top^
 ||eflashmedia.com^
 ||marketing.efleets.com^
 ||efljiccdztabg.com^
@@ -75444,6 +75446,7 @@
 ||hkl4h1trk.com^
 ||lnxzj.hklae.pl^
 ||rayt.hklae.pl^
+||hkpeghqu.icu^
 ||protection.hkpolice.com^
 ||smetrics.hks-power.co.jp^
 ||hkscldggm.xyz^
@@ -86630,6 +86633,7 @@
 ||jggjh.com^
 ||jggldfvx.com^
 ||jghjhtz.com^
+||jglgjz.xyz^
 ||jglowkonsultasi.com^
 ||jgntjtyf.icu^
 ||jgrjldc.com^
@@ -95818,6 +95822,7 @@
 ||ligatus.com^
 ||ligatus.de^
 ||ligeia-gip.com^
+||ligfdjnfd.cn^
 ||lighes.com^
 ||s.platform.lightad.com^
 ||lightbet.com^
@@ -120600,6 +120605,7 @@
 ||stats.ozwebsites.biz^
 ||ozwolnonnotv.com^
 ||ozwwawcaxoxh.com^
+||ozykeor.icu^
 ||images.bio.ozyme.fr^
 ||lararforbundet.analytics.ozzi.io^
 ||ozzruxazcoxc.com^
@@ -181919,6 +181925,7 @@
 ||v1-ad.video.yximgs.com^
 ||v2-ad.video.yximgs.com^
 ||v3-ad.video.yximgs.com^
+||yxkbgg.xyz^
 ||yxmrqc.com^
 ||yxptcrss.xyz^
 ||yxrxsov.xyz^
