@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240611162505
-! Last modified: 2024/06/11 16:25:05
-! Blocked domains: 185611
+! Version: 20240612002421
+! Last modified: 2024/06/12 00:24:21
+! Blocked domains: 185613
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -3440,6 +3440,7 @@
 ||app.68win.co^
 ||69-13-59.ru^
 ||trace.690.co^
+||691f42ad.xyz^
 ||692881.com^
 ||html.696157.com^
 ||69688qp.com^
@@ -3911,6 +3912,7 @@
 ||www.810251.com^
 ||m1.81312.com^
 ||8139b82e6e.com^
+||814272c4.xyz^
 ||81794ea37a.com^
 ||cc.8181zx.com^
 ||d.8181zx.com^
