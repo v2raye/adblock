@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240612002421
-! Last modified: 2024/06/12 00:24:21
-! Blocked domains: 185613
+! Version: 20240612090338
+! Last modified: 2024/06/12 09:03:38
+! Blocked domains: 185639
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -352,6 +352,7 @@
 ||smetrics.1075daverocks.com^
 ||1080872514.rsc.cdn77.org^
 ||nafmxc.1083.fr^
+||1089006802.rsc.cdn77.org^
 ||108shot.com^
 ||1090pjopm.de^
 ||1097834592.rsc.cdn77.org^
@@ -628,6 +629,7 @@
 ||lyapi.1391.com^
 ||mhdufile.1391.com^
 ||mhjk.1391.com^
+||1396762586.rsc.cdn77.org^
 ||139trainticket.com^
 ||13bt.info^
 ||ywrcqa.13newsnow.com^
@@ -644,6 +646,7 @@
 ||creative.141live.com^
 ||1437953666.rsc.cdn77.org^
 ||www.143nchrtl3.com^
+||1448063843.rsc.cdn77.org^
 ||b73b66d5e6.144a0bcf96.com^
 ||sms.1451515.pw^
 ||www.sms.1451515.pw^
@@ -2420,7 +2423,7 @@
 ||adv.440network.com^
 ||440t1jcs6utnip.xyz^
 ||44288fa514.com^
-||3f6df5f3ef.442fc29954.com^
+||442fc29954.com^
 ||heartbeat.pmd.444.hu^
 ||444sports.com^
 ||445d1bd01a.com^
@@ -13774,6 +13777,7 @@
 ||data-1381d79962.ansbachplus.de^
 ||data-8522662a32.ansbachplus.de^
 ||ansdoc.com^
+||anselmbowwows.com^
 ||ansesurlefleuve.com^
 ||ansheavymachinery.com^
 ||desiretrade.anshuwap.com^
@@ -16754,6 +16758,7 @@
 ||vip.aqdmv181.com^
 ||www.aqedsw4.com^
 ||xnjty.aqeew.my.id^
+||aqeivzm.icu^
 ||aqibshah.com^
 ||aqiemc.xyz^
 ||aqilk66444a.xyz^
@@ -28471,6 +28476,7 @@
 ||bnds7.site^
 ||bnds8.site^
 ||bnet.com^
+||bnevymqyjji.com^
 ||bnewsblite.me^
 ||link.email.bnext.es^
 ||link.team.bnext.es^
@@ -37294,6 +37300,7 @@
 ||ckojwaarrruc.com^
 ||ckpcommunity.org^
 ||ckpsensor.com^
+||ckqebz.cn^
 ||ckre.net^
 ||ckrf.store^
 ||ckrf1.com^
@@ -45288,6 +45295,7 @@
 ||www.dana8herb.com^
 ||danaburkart.com^
 ||partneri.danahanouskova.cz^
+||danainstan.xyz^
 ||www.danair.es^
 ||danakelinci.net^
 ||danapintar.club^
@@ -49012,6 +49020,7 @@
 ||diptaich.com^
 ||dipusdream.com^
 ||dipvpofhuosr.com^
+||dipxmakuja.com^
 ||diqomoofai.live^
 ||r5.dir.bg^
 ||dircont3.com^
@@ -49706,6 +49715,7 @@
 ||ssa.diynetwork.com^
 ||diyology.com^
 ||diyscripts.com^
+||diytsi.shop^
 ||diz4z73aymwyp.cloudfront.net^
 ||dizain-proekt.com^
 ||dizifex.com^
@@ -51248,6 +51258,7 @@
 ||dq95d35.com^
 ||dqcgkpp.icu^
 ||dqdrsgankrum.org^
+||dqeaa.com^
 ||dqgmtzo.com^
 ||dqhezw.com^
 ||dqhxmbx.cn^
@@ -58528,6 +58539,7 @@
 ||offers.everywherehero.com^
 ||everywheresavourblouse.com^
 ||evestailors.com^
+||evgaow.xyz^
 ||analytics.evgcdn.net^
 ||evgywgur.com^
 ||eviclick.pro^
@@ -65106,7 +65118,6 @@
 ||freedomeagle.net^
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -68724,6 +68735,7 @@
 ||www3.gfa.org^
 ||gfcad.com^
 ||gfdfegg.cn^
+||gfdfgfgr.cn^
 ||photo.gfer4.xyz^
 ||data-3d7fa37729.gff-magazin.de^
 ||data-93b38cb75f.gff-magazin.de^
@@ -69315,6 +69327,7 @@
 ||roosevelt.gjbig.com^
 ||gjfeblixctsojx.xyz^
 ||gjftt.mypi.co^
+||gjhjjhgc.cn^
 ||gjigle.com^
 ||central.gjirafa.com^
 ||gjc.gjirafa.com^
@@ -78218,6 +78231,7 @@
 ||https-apple.com^
 ||https-roblox.com.kg^
 ||https-roblox.com.tr^
+||https-ticketnotice.com^
 ||https443.net^
 ||httpsecurity.org^
 ||httpsleveringe.wpenginepowered.com^
@@ -85554,6 +85568,7 @@
 ||iwtserve.com^
 ||iwuh.org^
 ||iwwmaq.xyz^
+||iwyrldaeiyv.com^
 ||ix-event.com.tr^
 ||ix-orp.net^
 ||cvhefd.ixbt.com^
@@ -98910,6 +98925,7 @@
 ||lucasmrahman.xyz^
 ||lucastadvertising.com^
 ||lucatee.com^
+||lucchesedeal.store^
 ||prebid.lucead.com^
 ||rt.lucendi.ph^
 ||lucentfreer.com^
@@ -111827,6 +111843,7 @@
 ||navi-match.net^
 ||app.navi.com^
 ||m.navi.com^
+||navi0.ru^
 ||navi1.com^
 ||navi10.com^
 ||navi100.com^
@@ -111839,6 +111856,7 @@
 ||navi22.com^
 ||navi22.ru^
 ||navi23.com^
+||navi23.ru^
 ||navi24.ru^
 ||navi3.com^
 ||navi30.ru^
@@ -134003,6 +134021,7 @@
 ||qfgtepw.com^
 ||qfhzki.com^
 ||qfjherc.com^
+||qfjsliy.top^
 ||qfoacmmuda.com^
 ||qfoodskfubk.com^
 ||1s6.qfxa4n8.ru^
@@ -135889,6 +135908,7 @@
 ||rapeporn.name^
 ||rapepush.net^
 ||share.rapfame.app^
+||rapfdf.xyz^
 ||raphanysteers.com^
 ||raphidewakener.com^
 ||hokkaidobank.rapi.jp^
@@ -151738,6 +151758,7 @@
 ||3.ssqzj.com^
 ||ssr1000.com^
 ||ssrj.net^
+||ssrodeolivestock.com^
 ||ssrv7.com^
 ||sssbet.com^
 ||sssexxx.net^
@@ -156992,6 +157013,7 @@
 ||tauron-investments.com^
 ||taurse.com^
 ||taursinhofako.com^
+||tausaakcntiwp.com^
 ||wtdpkq.tausendkind.de^
 ||tauvoojo.net^
 ||tavelscape.com^
@@ -159059,6 +159081,7 @@
 ||thaveksi.net^
 ||thaverebasttare.site^
 ||thavoive.site^
+||thavrils.com^
 ||thavwver.site^
 ||thawbootsamplitude.com^
 ||thawedmeddler.com^
@@ -179419,6 +179442,7 @@
 ||ndstage.wpengine.com^
 ||trmff.wpengine.com^
 ||wpfc.ml^
+||geo.wpforms.com^
 ||v1.wphonelife.com^
 ||wphosting2212.com^
 ||wphostme.com^
@@ -181420,6 +181444,7 @@
 ||xuhuqeokau.live^
 ||xukpresesmr.info^
 ||xukuruifuo.live^
+||xuldtcip.icu^
 ||xulikuisae.live^
 ||xulizui6.com^
 ||xuminasa.com^
@@ -183270,6 +183295,7 @@
 ||yqragd.com^
 ||yquqoj.com^
 ||yqxhslsqaqkbd.com^
+||yqxrjthpbolqq.com^
 ||yr9n47004g.com^
 ||yrals.com^
 ||yrenterom.xyz^
