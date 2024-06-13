@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240613162439
-! Last modified: 2024/06/13 16:24:39
-! Blocked domains: 185321
+! Version: 20240614002558
+! Last modified: 2024/06/14 00:25:58
+! Blocked domains: 185324
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -71667,6 +71667,7 @@
 ||groagnoaque.com^
 ||groameeb.com^
 ||groamth.com^
+||groapeeque.com^
 ||grobbe.xyz^
 ||grobido.info^
 ||eventsapi.grocerkey.com^
@@ -121635,6 +121636,7 @@
 ||paifi.net^
 ||paigarohauja.com^
 ||huechl.paige.com^
+||paiglumousty.net^
 ||paikingcor.com^
 ||paikoasa.tv^
 ||pailcrime.com^
@@ -180658,6 +180660,7 @@
 ||cmm.xmfish.com^
 ||c.xminz.com^
 ||xmjajv.xyz^
+||xmjnohwneqe.com^
 ||xmkbrfyu.cn^
 ||xmkmryu.icu^
 ||xmkmuadkefzav.com^
