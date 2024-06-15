@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240615162422
-! Last modified: 2024/06/15 16:24:22
-! Blocked domains: 184295
+! Version: 20240616002425
+! Last modified: 2024/06/16 00:24:25
+! Blocked domains: 184303
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -838,6 +838,7 @@
 ||1betandgonow.com^
 ||tracking.1betternetwork.com^
 ||1bg.net^
+||1bliq.io^
 ||1bm3n8sld.de^
 ||1bv.cn^
 ||1bz.com^
@@ -52827,6 +52828,7 @@
 ||echelonplug.com^
 ||info.echelonprint.com^
 ||a8clk.shop.echigofuton.jp^
+||echinusandaste.com^
 ||echo-nomic.com^
 ||data-39822b659f.echo-online.de^
 ||data-a01a8a1ba4.echo-online.de^
@@ -54595,6 +54597,7 @@
 ||embodygoes.com^
 ||embodyopenlyoppose.com^
 ||embogsoarers.com^
+||embolipokies.com^
 ||embols.com^
 ||embosknitos.com^
 ||embrace.io^
@@ -67244,6 +67247,7 @@
 ||gervertix.com^
 ||geryangro.com^
 ||geryzaycoe.live^
+||gesanbarrat.com^
 ||gesas.it^
 ||turtle.geshem.space^
 ||gesrg.com^
@@ -68108,6 +68112,7 @@
 ||gimnsr.com^
 ||gimoguvi.ru^
 ||gimp.es^
+||gimpsgenips.com^
 ||a8cv.gimuiko.com^
 ||gimwcpketr.com^
 ||gin.co.il^
@@ -129799,6 +129804,7 @@
 ||proracingsimuladores.com.br^
 ||track.proradiantroute.com^
 ||proranktracker.com^
+||proreancostaea.com^
 ||prorentisol.com^
 ||prorify.de^
 ||prorodeosportmed.com^
@@ -158903,6 +158909,7 @@
 ||thuonghieunhacai.net^
 ||thuongkingfun.biz^
 ||thuphedsaup.com^
+||thupsirsifte.xyz^
 ||ens.thurgauerzeitung.ch^
 ||thurnflfant.com^
 ||thursailso.com^
@@ -170117,6 +170124,7 @@
 ||data-5d621ddc78.videogameszone.de^
 ||data-c5925d7d99.videogameszone.de^
 ||videogenetic.com^
+||adv-analytics-collector.videograph.ai^
 ||videohead.tech^
 ||videohub.tv^
 ||dt.videohub2.tv^
