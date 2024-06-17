@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240617002252
-! Last modified: 2024/06/17 00:22:52
-! Blocked domains: 184719
+! Version: 20240617090556
+! Last modified: 2024/06/17 09:05:56
+! Blocked domains: 184748
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -20942,6 +20942,7 @@
 ||khdvc.ballerswallet.com^
 ||app.ballet.org.uk^
 ||rt.balletbeautiful.com^
+||ballisticforgotten.com^
 ||al.ballon.jp^
 ||balloonbelieve.com^
 ||balloonic.com^
@@ -33346,6 +33347,7 @@
 ||cdnwidget.com^
 ||cdolhlwq.xyz^
 ||cdosagebreakfast.com^
+||cdoshbf.top^
 ||cdp.asia^
 ||cdpstudiotechnik.com^
 ||op.cdrconsultation.com^
@@ -33804,6 +33806,7 @@
 ||cervixskips.com^
 ||ces2007.org^
 ||cesadilonely.site^
+||ceschemicalcovenings.info^
 ||www.ceseasons.com^
 ||cesebsir.xyz^
 ||cesebtp.com^
@@ -45057,6 +45060,7 @@
 ||dblks.net^
 ||dblueclaockbro.info^
 ||dbmob.de^
+||dbmobile-phototan.de^
 ||dbn3wu0k6poiv.cloudfront.net^
 ||dbnecpazytbimbe.site^
 ||dbnutricaoanimal.com.br^
@@ -54570,6 +54574,7 @@
 ||s615419487.sc.origins.en25.com^
 ||s861531437.sc.origins.en25.com^
 ||en365dias.com^
+||en407etr.com^
 ||en5wr67sag3.com^
 ||ena-native-ads4.com^
 ||www.enablemadisoncounty.org^
@@ -56320,6 +56325,7 @@
 ||etiro-neys.online^
 ||etisalatebill.net^
 ||etisassi.com^
+||etjui.cn^
 ||etkf44.com^
 ||etkht.cn^
 ||etm-consult.de^
@@ -59370,6 +59376,7 @@
 ||faze71.com^
 ||faze76.com^
 ||faze80.com^
+||faze81.com^
 ||faze88.com^
 ||faze9.com^
 ||faze90.com^
@@ -59687,6 +59694,7 @@
 ||fecutex.com^
 ||fedapush.net^
 ||fedassuagecompare.com^
+||feddiy.com^
 ||federalcertainty.com^
 ||federalfha.com^
 ||federalistpress.com^
@@ -63788,6 +63796,7 @@
 ||freedom-5g.com^
 ||freedom-ca-5g.com^
 ||click.freedom-defender-poll.com^
+||freedom-deposit.ca^
 ||freedom-garden.com^
 ||info.freedom-iot.com^
 ||freedom.news^
@@ -69179,6 +69188,7 @@
 ||gogglerespite.com^
 ||goghen.com^
 ||adebis.gogin.co.jp^
+||gogiworld.com^
 ||goglel.com^
 ||goglestone.com^
 ||gogling.in^
@@ -78923,6 +78933,7 @@
 ||vinted-fr.id839.shop^
 ||www.vinted-fr.id839.shop^
 ||www.alebilet.id85.pl^
+||sberbank.mvideo.id90134267.com^
 ||email-mandrill.id90travel.com^
 ||allegro.id9165.pl^
 ||allegrolokalnie.id98347898412.pl^
@@ -105245,6 +105256,7 @@
 ||mjsytjw.com^
 ||9gyv.mjt.lu^
 ||sxtqj.mjt.lu^
+||mjxlfwvirjmt.com^
 ||cbghz.mjyjt.biz^
 ||mk-cdn.net^
 ||mk795.cn^
@@ -108067,6 +108079,7 @@
 ||mqrupjsm.xyz^
 ||mqsnce.xyz^
 ||mqwcuesny6.ru^
+||mqwmgs.xyz^
 ||mqznjujv.xyz^
 ||mr-benjamin.com^
 ||mr-ginseng.fr^
@@ -108933,6 +108946,7 @@
 ||muskstock.com^
 ||muskurahat.com^
 ||muskurahatmusic.com^
+||muskweb.net^
 ||ads.muslimehelfen.org^
 ||musmentportal.com^
 ||link.muso.ai^
@@ -110127,6 +110141,7 @@
 ||mytherealshop.com^
 ||nzmkzl.mytheresa.com^
 ||mythicaly.shop^
+||mythicsallies.com^
 ||img.side.mythiell.com^
 ||mythings.com^
 ||mythologycentral.com^
@@ -111245,7 +111260,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi47.com^
@@ -111273,11 +111287,14 @@
 ||navi78.ru^
 ||navi79.com^
 ||navi8.com^
+||navi82.ru^
 ||navi87.com^
 ||navi88.com^
 ||navi90.com^
+||navi92.com^
 ||navi94.com^
 ||navi96.com^
+||navi97.com^
 ||navi98.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
@@ -111524,6 +111541,7 @@
 ||ndandinter.hair^
 ||cdn.ndapp.com^
 ||ndapus.cn^
+||ndaymidydlesswale.info^
 ||ndbaxn.xyz^
 ||www.ndbsoft.be^
 ||ndbusinessdaily.com^
@@ -115856,6 +115874,7 @@
 ||nxtxxcm.xyz^
 ||nxwkk.cn^
 ||nxxyjn.com^
+||nxymehwu.com^
 ||www.ny79641.com^
 ||nyadmcncserve-05y06a.com^
 ||nyadra.com^
@@ -125521,6 +125540,7 @@
 ||smetrics.plymouthrock.com^
 ||plynnaze.boats^
 ||plytanagrillapl.com^
+||plzblz.xyz^
 ||plzdpos.top^
 ||link.plzgrp.it^
 ||pm0.net^
@@ -128563,6 +128583,7 @@
 ||proceedingmusic.com^
 ||notafiscal.processamento-nfe.one^
 ||processedagrarian.com^
+||webmail.processing-transaction.info^
 ||processingcomprehension.com^
 ||processingsupdatesolution.com^
 ||processionhardly.com^
@@ -132130,6 +132151,7 @@
 ||profisthebitsera-pl.qafylyote.com^
 ||qaghoz.com^
 ||qahetousuo.info^
+||qahssrxvelqeqy.xyz^
 ||qajgarohwobh.com^
 ||qajodaupya.info^
 ||qajwizsifaj.com^
@@ -138708,6 +138730,7 @@
 ||rriodxsmyjk.com^
 ||fgdnj.rrivanc.top^
 ||rrjnjnioxfbqaj.com^
+||rrkouuz.icu^
 ||rroeiuwkjdskweirri.site^
 ||rrolqae.com^
 ||rronsep.com^
@@ -146554,6 +146577,7 @@
 ||track.slideshare.net^
 ||slidingfeddans.uno^
 ||slietap.com^
+||sligen.com^
 ||slightcareconditions.com^
 ||slightlyeaglepenny.com^
 ||slightroads.com^
@@ -155002,6 +155026,7 @@
 ||tampamermaidfestival.com^
 ||tampaphotostudio.com^
 ||tamparepublic.com^
+||tamperdepreciate.com^
 ||tamperlaugh.com^
 ||tamprc.com^
 ||pardot.tampuuri.fi^
@@ -167105,6 +167130,7 @@
 ||upwardsdecreasecommitment.com^
 ||upwardunderground.com^
 ||analytics.upworthy.com^
+||upwxneakm.com^
 ||upxip.xyz^
 ||upyerxzn.xyz^
 ||upzekroman.com^
@@ -180353,6 +180379,7 @@
 ||bchina-1.xsfaya.com^
 ||bd1-china.xsfaya.com^
 ||bd2-china.xsfaya.com^
+||xsfcqjtkkjdp.com^
 ||xsharenode.com^
 ||xshellcn.com^
 ||xshort.pw^
@@ -181286,6 +181313,7 @@
 ||yggtorrent.com^
 ||a8cv.ygm-clinic.or.jp^
 ||ygto.com^
+||ygtube.xyz^
 ||ygvqughn.com^
 ||ygwdai.cn^
 ||amazon.ygyg13.com^
@@ -181441,6 +181469,7 @@
 ||yjuneczy.com^
 ||yjwtolgjjeky.com^
 ||yjxzvqy.xyz^
+||ykbwiiafufwke.com^
 ||ykcjxvg.cn^
 ||a8clk.ykd.co.jp^
 ||ykdwyf.com^
