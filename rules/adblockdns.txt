@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240618162541
-! Last modified: 2024/06/18 16:25:41
-! Blocked domains: 184448
+! Version: 20240619002505
+! Last modified: 2024/06/19 00:25:05
+! Blocked domains: 184459
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -4282,6 +4282,7 @@
 ||9911789.com^
 ||w18.9939.com^
 ||9966789.com^
+||996js123.com^
 ||999-proxy.com^
 ||999.com^
 ||999.money^
@@ -16840,7 +16841,7 @@
 ||aryaearth.org^
 ||aryana.io^
 ||aryancrack.com^
-||qr.arylidealchemy.com^
+||arylidealchemy.com^
 ||aryteam.com^
 ||arz487.com^
 ||arzaalimentos.com.br^
@@ -22860,7 +22861,7 @@
 ||app.bergenkino.no^
 ||images.corp.berger-levrault.com^
 ||trk.berger-levrault.com^
-||dj.bergertubbie.com^
+||bergertubbie.com^
 ||data-44a005f23c.bergfex.at^
 ||openx.bergfex.at^
 ||partner.bergfex.at^
@@ -30172,6 +30173,7 @@
 ||bungaloweighteenbore.com^
 ||bungalowlame.com^
 ||bungalowsimply.com^
+||bungeedubbah.com^
 ||a8clk.bungeisha.co.jp^
 ||bunintruder.com^
 ||external-ad.bunjang.co.kr^
@@ -33244,6 +33246,7 @@
 ||insights.cdt.ch^
 ||cdttxdqe.xyz^
 ||cdu.cc^
+||cduno.cn^
 ||cduporno.fr^
 ||cdvn.vip^
 ||cdwmpt.com^
@@ -49992,6 +49995,7 @@
 ||drawandruna.cyou^
 ||drawbackcaptiverusty.com^
 ||drawbacksubdue.com^
+||draweesoutkiss.com^
 ||qohlsl.drawer.fr^
 ||drawerenter.com^
 ||drawerfontactual.com^
@@ -61303,6 +61307,7 @@
 ||e951211a2ef10c0878afabfa0071d456.fjao.pl^
 ||ec7c66fef979e79d2a1b99ea1b9a868c.fjao.pl^
 ||f206b417e95ecbe5ef7cc47314c819fb.fjao.pl^
+||fjbglfrv.com^
 ||fjdiscounts.store^
 ||fywfld.fjellsport.no^
 ||fjiorox.com^
@@ -80971,6 +80976,7 @@
 ||infoarabe.com^
 ||click.infoblox.com^
 ||infobtc.store^
+||infocab888.life^
 ||support-for-business-open-appeal.infocampaign.cyou^
 ||imgdisp.infocart.jp^
 ||ranking.infocart.jp^
@@ -85321,7 +85327,7 @@
 ||jatinmehtaco.com^
 ||jatltd.com^
 ||jatomayfair.life^
-||bn.jatosbathkol.com^
+||jatosbathkol.com^
 ||jattepush.com^
 ||jattsingh.com^
 ||jatxt.com^
@@ -115263,6 +115269,7 @@
 ||www.nutaku.com^
 ||nutaku.net^
 ||nutakuhackgold.com^
+||nutantvirific.com^
 ||nutattorneyjack.com^
 ||nutchaungong.com^
 ||tr.n.nutella.fr^
@@ -163863,6 +163870,7 @@
 ||tt128.net^
 ||tt128viet.com^
 ||tj.tt1386.com^
+||ttad125.com^
 ||ttaj.cn^
 ||ttarget.ru^
 ||log.ttbc-hcm.gov.vn^
@@ -165318,6 +165326,7 @@
 ||grado.ufv.es^
 ||ufzanvc.com^
 ||t.pac.uga.edu^
+||ugailidsay.xyz^
 ||ugalia.com^
 ||track.ugamezone.com^
 ||marketing.ugamsolutions.com^
@@ -165778,6 +165787,7 @@
 ||umoughtcallm.com^
 ||umownynastroj.click^
 ||umpcaptans.com^
+||umpedshumal.com^
 ||pages.contact.umpquabank.com^
 ||trk.contact.umpquabank.com^
 ||app.griztix.umt.edu^
@@ -175743,6 +175753,7 @@
 ||westernwaynetoday.com^
 ||westernwhetherowen.com^
 ||info.westerville.org^
+||westeselva.com^
 ||westessexnews.com^
 ||data-16d7ec9a30.westfaelischenachrichten.de^
 ||data-5a078ffbef.westfalen-blatt.de^
