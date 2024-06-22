@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240622162347
-! Last modified: 2024/06/22 16:23:47
-! Blocked domains: 184464
+! Version: 20240623002352
+! Last modified: 2024/06/23 00:23:52
+! Blocked domains: 184472
 ! unBlocked domains: 47
 !
 ||06362.com^
@@ -1738,6 +1738,7 @@
 ||stat.360safe.com^
 ||update.360safe.com^
 ||www.360shopping.com.cn^
+||p1.360soucha.com^
 ||360switch.net^
 ||360tag.com^
 ||display.360totalsecurity.com^
@@ -19631,6 +19632,7 @@
 ||azcybersec.com^
 ||azdrowieja.site^
 ||azedge.net^
+||azenka.one^
 ||azera-s014.com^
 ||pm.azerioncircle.com^
 ||azeriondigital.com^
@@ -35914,6 +35916,7 @@
 ||cisneseyker.info^
 ||smetrics.cisnfm.com^
 ||stat.ciss.es^
+||cissoidentera.top^
 ||spoluprace.cistapohoda.cz^
 ||cistranfinance.com^
 ||cit-rine.com^
@@ -44229,6 +44232,7 @@
 ||www.news.dapperduos.com^
 ||dapperminecraft.online^
 ||dappextend.org^
+||dapro.cloud^
 ||dapsotsares.com^
 ||daptault.com^
 ||library.daptiv.com^
@@ -55677,6 +55681,7 @@
 ||erate.co.il^
 ||eratelevision.com^
 ||erauthors.com^
+||eravesofefineg.info^
 ||eraygc.xyz^
 ||erayogul.com^
 ||erbiscusysexbu.info^
@@ -104106,6 +104111,7 @@
 ||crystalapp.miguvideo.com^
 ||ggx01.miguvideo.com^
 ||ggx02.miguvideo.com^
+||ggx03.miguvideo.com^
 ||ggx10.miguvideo.com^
 ||ggxwb.miguvideo.com^
 ||v.miguvideo.com^
@@ -118289,6 +118295,7 @@
 ||onraltstor.com^
 ||onrekreacjazeby.shop^
 ||onrunningpolska.pl^
+||onscormation.info^
 ||onscroll.com^
 ||onseleauks.org^
 ||testbranch.onsequel.com^
@@ -120364,6 +120371,7 @@
 ||ozboya.com^
 ||klienci-indywidualne-santander-sa.ozcamera.com^
 ||www.klienci-indywidualne-santander-sa.ozcamera.com^
+||ozdq.cn^
 ||app.oze789.com^
 ||ozectynptd.com^
 ||ozelmedikal.com^
