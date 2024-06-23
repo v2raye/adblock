@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240623002352
-! Last modified: 2024/06/23 00:23:52
-! Blocked domains: 184472
+! Version: 20240623090648
+! Last modified: 2024/06/23 09:06:48
+! Blocked domains: 184468
 ! unBlocked domains: 47
 !
 ||06362.com^
@@ -2195,6 +2195,7 @@
 ||a8cv.489pro.com^
 ||48a16802.site^
 ||48coins.com^
+||48d8e4d6.xyz^
 ||oolx.4902489.xyz^
 ||493b98cce8bc1a2dd.com^
 ||497397.com^
@@ -26331,6 +26332,7 @@
 ||blazt.site^
 ||blbesnuff.digital^
 ||blbinnovation.com^
+||blciqbk.icu^
 ||blcnder.org^
 ||blcoder.com^
 ||marketing.bldgcontrols.com^
@@ -33561,7 +33563,6 @@
 ||cdnmaster.cn^
 ||cdnmaster.com^
 ||rt.cdnmedia.tv^
-||aff.cdnntx.com^
 ||cdnny.com^
 ||cdnondemand.org^
 ||i.cdnpark.com^
@@ -38152,6 +38153,7 @@
 ||m.coenr.com^
 ||coepitta.com^
 ||coepty.com^
+||coertiest.click^
 ||coesolen.xyz^
 ||sejdfu.coeur.de^
 ||coeus-solutions.de^
@@ -52984,6 +52986,7 @@
 ||go.edology.com^
 ||xkgtxj.edomator.pl^
 ||edomz.com^
+||edoshbw.top^
 ||edoumeph.com^
 ||edoumoosseg.com^
 ||edownloader.net^
@@ -58484,6 +58487,7 @@
 ||f6c50a39cd.com^
 ||f773a03dcb.com^
 ||f77j6t2b.com^
+||f816e81d.xyz^
 ||f8260adbf8558d6.com^
 ||f853150605ccb.com^
 ||f8bet.com^
@@ -63957,6 +63961,7 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -82077,6 +82082,7 @@
 ||verizon-dev.inq.com^
 ||virginca.inq.com^
 ||oascentral.inq7.net^
+||inquietgenesee.top^
 ||inquire-pt.top^
 ||inquire.pl^
 ||inquiredcriticalprosecution.com^
@@ -84380,6 +84386,7 @@
 ||isoperimetricalqqber.life^
 ||isopodaupcock.com^
 ||s.isoporno.com^
+||isospinsubsets.top^
 ||isotemp.net^
 ||isotoner.com^
 ||cil.isotope.com^
@@ -90904,6 +90911,7 @@
 ||kiplingpolska.pl^
 ||kipostsl.top^
 ||app.kippo.gg^
+||kipskinwhereof.com^
 ||kipyn.com^
 ||kiqiwuanii.live^
 ||burning-phoenix.kir.jp^
@@ -101437,6 +101445,7 @@
 ||red.maxionresearch.com^
 ||maxiparfum.pl^
 ||maxiplus.cc^
+||maxiprog.xyz^
 ||tr.info.maxis-gbn.com^
 ||ckyhec.maxisport.com^
 ||maxitip.cz^
@@ -102357,6 +102366,7 @@
 ||medrendirectory.com^
 ||go.medreps.com^
 ||om.medreps.com^
+||medrickmafiosi.com^
 ||a.medriz.xyz^
 ||medrol.ru^
 ||ssl.o.medscape.co.uk^
@@ -117012,6 +117022,7 @@
 ||swebmetrics.ok.gov^
 ||ok.uz.ua^
 ||oas.c.oka-pu.ac.jp^
+||okagcw.xyz^
 ||okai.work^
 ||okaks.com^
 ||okaleczenie15laatkii.blogspot.com^
@@ -126315,7 +126326,7 @@
 ||metric.polyone.com^
 ||info.polypak.com^
 ||polyvalent.co.in^
-||ew.pomaceunbloom.com^
+||pomaceunbloom.com^
 ||as.pomcdn.com^
 ||pomegranateheroin.com^
 ||pomegranates.org^
@@ -134944,6 +134955,7 @@
 ||redistedi.com^
 ||redkings.com^
 ||redknibbles.com^
+||redlegsspaniol.com^
 ||smetrics.redletterdays.co.uk^
 ||redlightcenter.com^
 ||info.redlinesolutions.com^
@@ -136144,6 +136156,7 @@
 ||t.restek.com^
 ||restemkonfyt.top^
 ||resterent.com^
+||restermutage.com^
 ||restights.pro^
 ||restinthai.com^
 ||restions-planted.com^
@@ -139626,6 +139639,7 @@
 ||saefcare.com^
 ||marketing.saegissolutions.ca^
 ||saeikr.info^
+||saeo.cn^
 ||saerdstores.com^
 ||saf11onspect1ra.xyz^
 ||safarait.com^
@@ -142409,6 +142423,7 @@
 ||t.seminoles.com^
 ||semiocast.com^
 ||semissourinews.com^
+||semitaestigme.com^
 ||www.staging.semoimprints.com^
 ||semonianosconsulting.com^
 ||semontananews.com^
@@ -145051,6 +145066,7 @@
 ||simarsbisect.top^
 ||simatx.com^
 ||silke.simazac.de^
+||simblumevermo.com^
 ||live.simcitybuildit.com^
 ||go.simco-ion.com^
 ||s.simcoe.com^
@@ -154930,6 +154946,7 @@
 ||talsauve.com^
 ||talsindustrateb.info^
 ||smetrics.taltz.com^
+||talyrt.xyz^
 ||talysu.info^
 ||tamada69.com^
 ||tamago-momo-doll-da191-1261425a1.netlify.app^
@@ -166390,6 +166407,7 @@
 ||unwartortlean.com^
 ||unweezingr.com^
 ||unwice.com^
+||unwieldroselle.com^
 ||unwieldyhealth.com^
 ||unwieldyimpulse.com^
 ||unwieldyplastic.com^
@@ -168046,6 +168064,7 @@
 ||stats.uticorp.com^
 ||utilient.com^
 ||utilieur.com^
+||utiliseoutrung.com^
 ||smetrics.utilityanalyticsweek.com^
 ||utilitypresent.com^
 ||utilitytied.com^
@@ -172604,6 +172623,7 @@
 ||www.vthought.com^
 ||vticket.eu^
 ||vtjforeclosureservices.com^
+||vtlyrj.xyz^
 ||order.vtnd-ordr3283.com^
 ||vtnmxx.xyz^
 ||www.vtoyshop.com^
@@ -177565,32 +177585,7 @@
 ||wolskisklep.pl^
 ||wolsretet.net^
 ||woltagnourgu.com^
-||ass.woltar.live^
-||axa.woltar.live^
-||bava.woltar.live^
-||bok.woltar.live^
-||chi.woltar.live^
-||comp.woltar.live^
-||dim.woltar.live^
-||dva.woltar.live^
-||fen.woltar.live^
-||gog.woltar.live^
-||juh.woltar.live^
-||kat.woltar.live^
-||lat.woltar.live^
-||lov.woltar.live^
-||mak.woltar.live^
-||mal.woltar.live^
-||many.woltar.live^
-||nak.woltar.live^
-||news.woltar.live^
-||noli.woltar.live^
-||oro.woltar.live^
-||pro.woltar.live^
-||snac.woltar.live^
-||taw.woltar.live^
-||troi.woltar.live^
-||woss.woltar.live^
+||woltar.live^
 ||woltarty.com^
 ||woltbox.com^
 ||go2.wolterskluwer.ca^
@@ -178121,6 +178116,7 @@
 ||c.wort-suche.com^
 ||xiuksf.worten.es^
 ||ygmpia.worten.pt^
+||worthas.shop^
 ||worthathousandwords.com^
 ||worthconesquadron.com^
 ||worthless-living.pro^
