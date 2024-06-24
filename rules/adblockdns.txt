@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240624002246
-! Last modified: 2024/06/24 00:22:46
-! Blocked domains: 183404
+! Version: 20240624090449
+! Last modified: 2024/06/24 09:04:49
+! Blocked domains: 183447
 ! unBlocked domains: 47
 !
 ||0-0.fr^
@@ -2873,6 +2873,7 @@
 ||m5.66077.cn^
 ||661291.com^
 ||6613167.cn^
+||663008888.com^
 ||66308888.com^
 ||6651tp.com^
 ||6660003.com^
@@ -14720,6 +14721,7 @@
 ||appearedsuspendedcommands.com^
 ||appearsloin.com^
 ||appeaseprovocation.com^
+||appeaserepose.com^
 ||appeasetruthinclude.com^
 ||appellationlucy.com^
 ||appendad.com^
@@ -18714,6 +18716,7 @@
 ||awvvhicirfti.com^
 ||astro.awwlrd.cn^
 ||cul.awwlrd.cn^
+||awyuge.xyz^
 ||awyyzx.com^
 ||awzbijw.com^
 ||awzvpbg.com^
@@ -24460,6 +24463,7 @@
 ||birthdaytextmessage.com^
 ||birthdependentmillennium.com^
 ||go.birthrightisrael.foundation^
+||birtw.cn^
 ||mapp.biryanibykilo.com^
 ||biryaniontheway.com^
 ||birzha.site^
@@ -33555,6 +33559,7 @@
 ||chamsockhachang.com^
 ||scb.chamsockhachhang-truc-tuyen-the.online^
 ||vib.chamsockhachhang-tructuyen-the-visa.com^
+||vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online^
 ||chamsockhachhang-uudaitructuyen.online^
 ||chamsocthekhachang-truc-tuyen.com^
 ||vib.chamsocthekhachang-tructuyen.com.vn^
@@ -34332,6 +34337,7 @@
 ||childbirthprivaterouge.com^
 ||affiliate.childhoodpotential.com^
 ||ambassadors.childhoodpotential.com^
+||childhoodstudioconversation.com^
 ||childishenough.com^
 ||childlikecrowd.com^
 ||childlikeexample.com^
@@ -36365,7 +36371,6 @@
 ||clonezilla.fr^
 ||clonezilla.it^
 ||clonkfanion.com^
-||clonyjohn.com^
 ||cloodfront.com^
 ||clooinfor.cf^
 ||cloopcard.com^
@@ -37958,6 +37963,7 @@
 ||booklng.com-id27153.info^
 ||www.booklng.com-id27153.info^
 ||com-id334112.com^
+||com-id38106146.date^
 ||jpn-appleid.com-lib.co^
 ||booking.com-long-term-apartment-property6321334.top^
 ||data-be6a291101.com-magazin.de^
@@ -41383,6 +41389,7 @@
 ||cskh-ca-nhan-vpbank.com^
 ||cskh-dienmay-xanh.com^
 ||cskh-the-vpbank.com^
+||cskhcanhanhd.com^
 ||cskhmayxanh.com^
 ||cskilowatt.com^
 ||cslpf.cn^
@@ -42703,6 +42710,7 @@
 ||e2a85b803d.da3432b97e.com^
 ||bk.da520.top^
 ||da6555.com^
+||da8975.com^
 ||da90link.com^
 ||daabet-oglink.com^
 ||daadbusinessforum.com^
@@ -43104,6 +43112,7 @@
 ||dangkyrikvip.win^
 ||dangkysanvip.site^
 ||agribank.dangkyungtuyen.com^
+||dangnhaphoso.com^
 ||dangongshijie.com^
 ||danhale.xyz^
 ||danhloo.com^
@@ -43991,6 +44000,7 @@
 ||webm.b64c611.ddnss.eu^
 ||webm.d2f3df4a.ddnss.eu^
 ||webmail.a4b4a.ddnss.eu^
+||ddnzpr.xyz^
 ||ad.ddo.jp^
 ||ddomb.com^
 ||ddooeklakdfkkdjanri.site^
@@ -47560,6 +47570,7 @@
 ||dkjshka.top^
 ||dkjwbv.xyz^
 ||dkm6b5q0h53z4.cloudfront.net^
+||dkmjxh.info^
 ||dknyleverings.wpenginepowered.com^
 ||tr.dkomaison.info^
 ||dkonto.pl^
@@ -48775,6 +48786,7 @@
 ||doubleclick.host^
 ||doubleclick.ne.jp^
 ||doubleclick.net^
+||pubads.g.doubleclick.uk.net^
 ||doubleclickbygoogle.com^
 ||doubleclicks.co.kr^
 ||doubledeepclick.com^
@@ -50209,6 +50221,7 @@
 ||duxcc.com^
 ||adsmis.duxiaoman.com^
 ||duxingangtiaoban.com^
+||duyetdonlazada.com^
 ||r.m.duyidu.net^
 ||duz64ud8y8urc.cloudfront.net^
 ||duzastronawlasnaprostadrogapolska.space^
@@ -51571,6 +51584,7 @@
 ||ywayoh.ecipo.hu^
 ||ecircle-ag.com^
 ||try.ecisecurepay.com^
+||ecishh.info^
 ||app.network.ecitele.com^
 ||ecityonatallcol.info^
 ||eck4657.com^
@@ -53902,6 +53916,7 @@
 ||engineersclubindia.com^
 ||cname-aa.engineersguide.jp^
 ||engineertrick.com^
+||engineexplicitfootrest.com^
 ||trk.engineleasingandfinance-europe.com^
 ||enginenetwork.com^
 ||engineseeker.com^
@@ -58848,6 +58863,7 @@
 ||feewoajy.net^
 ||feezzer.com^
 ||fefgvh.xyz^
+||fefqkn.org^
 ||cdn.fegivja.com^
 ||fegortius.com^
 ||fehlgeschlagen-paketzustellung.com^
@@ -61291,6 +61307,7 @@
 ||fmi-apple.cloud^
 ||fmi-imap.app^
 ||info.fminet.com^
+||fmjjvb.xyz^
 ||loader.fmkorea.com^
 ||t.fml.rip^
 ||fmlabsonline.com^
@@ -66674,6 +66691,7 @@
 ||giantexit.com^
 ||giantsvessel.com^
 ||gianwho.com^
+||giaodichquoctes.com^
 ||log.giaoduc.net.vn^
 ||log.giaoducthoidai.vn^
 ||s.giaoducthoidai.vn^
@@ -67367,6 +67385,7 @@
 ||a8.global-mobility-service.com^
 ||global-offer-24.com^
 ||global-riward77.com^
+||shop.global-selling.top^
 ||global-shipping-and-logistics.com^
 ||global-shipping-inc.com^
 ||global-smm.ru^
@@ -69926,6 +69945,7 @@
 ||gridsumdissector.com^
 ||go.gridwise.io^
 ||gridxeco.com^
+||griefcube.cc^
 ||grievedclaimed.com^
 ||grievethereafter.com^
 ||grifanme.com^
@@ -98040,6 +98060,7 @@
 ||acc.maimai.cn^
 ||maimcatssystems.com^
 ||trk.mycare.maimo.org^
+||main-card-vib.com^
 ||data.main-ding.de^
 ||data-1381d79962.main-ding.de^
 ||data-8522662a32.main-ding.de^
@@ -99507,7 +99528,6 @@
 ||nohck.mastermindchapeco.com.br^
 ||masterofthewaters.com^
 ||masterpasaran288.com^
-||api.masterprotocols.com^
 ||metrics.masters.com^
 ||sticketsmetrics.masters.com^
 ||get.mastersapp.com^
@@ -100099,6 +100119,7 @@
 ||vinted-pl-gj32d.mbc1.xyz^
 ||www.vinted-pl-gj32d.mbc1.xyz^
 ||mbdippex.com^
+||mbdk99.com^
 ||mbet.co.za^
 ||mbfhwag.xyz^
 ||ad.sp.mbga.jp^
@@ -100256,6 +100277,7 @@
 ||mclude.com^
 ||mcmc.dev^
 ||cdn.mcnn.pl^
+||mcnodes.zapto.org^
 ||mcnt.jp^
 ||mcnvbvccjhcdjdiueyt.site^
 ||wnsn.mcommemutuelle.com^
@@ -100399,6 +100421,7 @@
 ||meapk.com^
 ||meaple-app.com^
 ||mearbuthiight.com^
+||meashstis.ir^
 ||measlyglove.pro^
 ||measlymiddle.com^
 ||measts.com^
@@ -104653,6 +104676,7 @@
 ||mobidriven.com^
 ||viaviet03.mobie.in^
 ||mobifobi.com^
+||adhub.mobifone.vn^
 ||banner.etargeting.mobifone.vn^
 ||a.mobify.com^
 ||cdn.mobify.com^
@@ -105420,6 +105444,7 @@
 ||moneysyst.biz^
 ||somni.moneytips.com^
 ||moneytop.ru^
+||moneytracking137.com^
 ||moneytrap.ru^
 ||moneyveo.vn^
 ||moneyvi.xyz^
@@ -108926,6 +108951,7 @@
 ||nanesbewail.com^
 ||nanfleshturtle.com^
 ||nang-cap-khach-hang.com^
+||nang-cap-ocare-vib.com^
 ||nang-cap-online-vpbank.com^
 ||nang-cap-vip-vpbank.com^
 ||nang-han-muc-ido-vpbank.com^
@@ -109534,7 +109560,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -109564,6 +109589,7 @@
 ||navi88.com^
 ||navi90.com^
 ||navi96.com^
+||navi97.com^
 ||navi99.com^
 ||vinted-polska-rr124.navia.top^
 ||www.vinted-polska-rr124.navia.top^
@@ -115660,6 +115686,7 @@
 ||olympusmarkets.com^
 ||tvguru-lp.olympuswaymarketing.com^
 ||olzatpafwo.com^
+||olzlmemumcwe.com^
 ||om.no^
 ||trk.oma.dk^
 ||marketing.omadi.com^
@@ -135702,6 +135729,7 @@
 ||rgames.org^
 ||rgbk-internal.com^
 ||rgbnqmz.com^
+||rgbppxtvieoytnoej.org^
 ||rgbsoluciones.net^
 ||rgdcrt.xyz^
 ||rgddist.com^
@@ -137171,7 +137199,6 @@
 ||rotation-message.net^
 ||rotation-web.net^
 ||rotationmessage.net^
-||api.rotatornet.com^
 ||rotatuatai.info^
 ||secure.rote8mino.com^
 ||www.rote8mino.com^
@@ -137319,6 +137346,7 @@
 ||royalclass-dm.com^
 ||royalclass.info^
 ||royalcount.de^
+||royaldecorcollection.com^
 ||royaldecorhome.store^
 ||royalegenerator.net^
 ||royalenfieldmodified.com^
@@ -141299,6 +141327,7 @@
 ||sendmepush.com^
 ||sendmini.com^
 ||track.sendo.vn^
+||sendotv.com^
 ||link.sendoutpost.com^
 ||cdn.sendpulse.com^
 ||fbstore.sendpulse.com^
@@ -147563,6 +147592,7 @@
 ||metrics.sp0n.io^
 ||sp11cesavvy.xyz^
 ||sp15569p.com^
+||sp1663p.com^
 ||news.sp2.org^
 ||sp5derapparel.com^
 ||sp5derstyle.com^
@@ -154527,6 +154557,7 @@
 ||tdkd02.com^
 ||tdkd03.com^
 ||tdkdigitalaudio.com^
+||tdkt00.com^
 ||tdkt01.com^
 ||tdle.ru^
 ||tdljuuw.xyz^
@@ -156298,6 +156329,7 @@
 ||thangetsoam.com^
 ||thangiwin.org^
 ||ai.thanhnien.vn^
+||thanhtrapcrt.online^
 ||thaninncoos.com^
 ||spermwhale.thankbox.co^
 ||b.thanksearch.com^
@@ -157830,6 +157862,7 @@
 ||thiscrack.com^
 ||thisgeeksqueaks.blogspot.com^
 ||thisinhthanhlich.com^
+||thisinhthanhlich2024.com^
 ||webtrends.thisis.co.uk^
 ||thisisafreezone.net^
 ||marketing.thisisalpha.com^
@@ -158698,6 +158731,7 @@
 ||tinbuadserv.com^
 ||tinchap-nganhang.online^
 ||tinchaphd.com^
+||tinchapshinhan.online^
 ||tincoffinvest.ru^
 ||go.tinder.com^
 ||tinderguru.com^
@@ -159460,6 +159494,7 @@
 ||cv.tokyowork.jp^
 ||tokyu-dept.site^
 ||electricity2.tokyu-ps.jp^
+||tokyueiklbphqgupc.org^
 ||gitrad.tolaf.site^
 ||www.gitrad.tolaf.site^
 ||tolaoladiji.com^
@@ -162608,6 +162643,7 @@
 ||go.trustedreviewsguide.net^
 ||www.trustedsear.ch^
 ||widgets.trustedshops.com^
+||prebid.trustedstack.com^
 ||trustedstream.life^
 ||promos.trustedtours.com^
 ||trustedzone.info^
@@ -164307,6 +164343,7 @@
 ||uepkcdjgp.com^
 ||uer5.com^
 ||www.uerlqe.com^
+||uessnah.icu^
 ||ueueiiooakdjkoiif.site^
 ||ueumdkc.cn^
 ||ueuodgnrhb.com^
@@ -167411,6 +167448,7 @@
 ||pop.uusee.com^
 ||traffic.uusee.com^
 ||uusmsale.xyz^
+||uutytp.com^
 ||gg.uuu9.com^
 ||stat.uuu9.com^
 ||ads.uuuu.link^
@@ -169140,6 +169178,7 @@
 ||viavideo.digital^
 ||vib-bank.com^
 ||vib-mydiamon-khcn-uutien-vnc1.com^
+||vib-nangcap.com^
 ||vib-tindung-khcn.com^
 ||vib-tindung.online^
 ||matomo.vibb.ax^
@@ -170941,6 +170980,7 @@
 ||vn88vui.live^
 ||vn88win.live^
 ||vn999.club^
+||vn999mall.vip^
 ||vnadsrv.com^
 ||vnadssb.com^
 ||analytic.vnanet.vn^
@@ -172175,6 +172215,7 @@
 ||info.w-systems.com^
 ||fpida.w-wing.jp^
 ||my.w.tt^
+||w0057.com^
 ||w008.com^
 ||w00dlandway.xyz^
 ||w00dlandwisp.xyz^
@@ -173157,6 +173198,7 @@
 ||v.wdmdejd.cn^
 ||bannieres.wdmedia.net^
 ||wdomu24.pl^
+||wdoshbe.top^
 ||wdownthreerfdfg.com^
 ||wdpkx.cn^
 ||wdpylyw.com^
@@ -182547,6 +182589,7 @@
 ||m.zkwsdf.com^
 ||zkzpgz.icu^
 ||banners.zl.lv^
+||zla653.top^
 ||zla963.top^
 ||zlacraft.com^
 ||zlakqiojazzkaie.site^
