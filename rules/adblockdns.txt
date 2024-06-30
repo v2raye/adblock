@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240630162333
-! Last modified: 2024/06/30 16:23:33
-! Blocked domains: 177346
+! Version: 20240701002412
+! Last modified: 2024/07/01 00:24:12
+! Blocked domains: 177350
 ! unBlocked domains: 47
 !
 ||allegro.03-1c-a9-12.pl^
@@ -41160,6 +41160,7 @@
 ||crjpingate.com^
 ||crjugate.com^
 ||crka.com^
+||crlsxny.xyz^
 ||crm-grupoemerita.com^
 ||www.crm-org.cc^
 ||crm-shop.com^
@@ -43698,6 +43699,7 @@
 ||danv01ao0kdr2.cloudfront.net^
 ||danylevych.com^
 ||danzhallfes.com^
+||tms.danzz.ch^
 ||tracksurf.daooda.com^
 ||daotag.com^
 ||daoyoudao.com^
@@ -165511,6 +165513,7 @@
 ||www.allegro39-kd.vsite.top^
 ||vskfeduxg.xyz^
 ||vskin.pro^
+||vsmokhklbw.com^
 ||aeonc.jp.realms-msweb.vsmql.com^
 ||vsmskfkvjwoeoeijfi.com^
 ||vsnoon.com^
@@ -174203,6 +174206,7 @@
 ||yo88vn.vip^
 ||yoads.net^
 ||yoads.network^
+||yoast-schema-graph.com^
 ||yobee.it^
 ||al.yobomedical.clinic^
 ||ifa.yobtcams.com^
