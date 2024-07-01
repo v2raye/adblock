@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240701002412
-! Last modified: 2024/07/01 00:24:12
-! Blocked domains: 177350
+! Version: 20240701090951
+! Last modified: 2024/07/01 09:09:51
+! Blocked domains: 177373
 ! unBlocked domains: 47
 !
 ||allegro.03-1c-a9-12.pl^
@@ -5312,6 +5312,7 @@
 ||m.aclk.jp^
 ||acloudimages.com^
 ||acloudvideos.com^
+||aclsx.cn^
 ||metrics.aclu.org^
 ||smetrics.aclu.org^
 ||acmaknoxwo.com^
@@ -9900,6 +9901,7 @@
 ||coads.akipress.org^
 ||akirkpatrick.com^
 ||akita.kz^
+||akjamv.shop^
 ||akjasjanwhif.com^
 ||gerentegeral.akkarmotors.com.br^
 ||akkdldkjeoeeokdjjdj.site^
@@ -12696,6 +12698,7 @@
 ||animemeat.com^
 ||animenime.ru^
 ||animeplaynow.com^
+||animeshoppers.com^
 ||animesuge.to^
 ||track.animeware.com^
 ||animi2.com^
@@ -14986,7 +14989,7 @@
 ||aprtard.site^
 ||aprtx.com^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||static.ws.apsis.one^
@@ -18114,6 +18117,7 @@
 ||smetrics.avanza.se^
 ||avaparse.ir^
 ||avapp.tv^
+||avarik.web.app^
 ||email.social.avasecurity.com^
 ||avashya.com^
 ||avast-antivirus.com^
@@ -25437,6 +25441,7 @@
 ||blingbucks.com^
 ||blingfiles.com^
 ||delivery.blingsity.com^
+||blingyy.com^
 ||blink-at-me.com^
 ||l4.blink-link.lol^
 ||whvm.blinked.fr^
@@ -33629,6 +33634,7 @@
 ||images.online.chancellors.co.uk^
 ||chancellorstocky.com^
 ||chanceyoupl.top^
+||chancx.io^
 ||chandakgreenairyborivalieast.com^
 ||chandelierandlights.com^
 ||chandigarhcivilservices.com^
@@ -41727,6 +41733,7 @@
 ||app.hornettickets.csus.edu^
 ||landingpages.csustudycentres.edu.au^
 ||cswilliamsburg.com^
+||cswloxhjge.com^
 ||csxindia.com^
 ||m.csypspcs.cn^
 ||csyueye.com^
@@ -57218,6 +57225,7 @@
 ||info.fairwaywholesalelending.com^
 ||fairytaleflame.com^
 ||fairytaleundergoneopenly.com^
+||faisaphoofa.net^
 ||faised.com^
 ||faithaiy.com^
 ||faithe.top^
@@ -71012,6 +71020,7 @@
 ||hehighursoo.com^
 ||data-f1e447fbcf.heidelberg24.de^
 ||data-f59db3288b.heidelberg24.de^
+||privacy.heidi.news^
 ||owl.heidipay.com^
 ||heidoumedia.com^
 ||app.insight.heidrick.com^
@@ -71681,7 +71690,6 @@
 ||ads.hicomm.bg^
 ||hiconversion.com^
 ||hicovjpufo.com^
-||hicpm10.com^
 ||hid24.com^
 ||hidcupcake.com^
 ||hiddenbucks.com^
@@ -73822,6 +73830,7 @@
 ||www.sistem.hstn.me^
 ||hstpnetwork.com^
 ||hstrck.com^
+||hsuitehub.com^
 ||hsusd.com^
 ||hsux.com^
 ||g.hsw.cn^
@@ -73873,6 +73882,7 @@
 ||htpanel.com^
 ||sp.htrnews.com^
 ||srepdata.htrnews.com^
+||htrurb.xyz^
 ||hts45.vip^
 ||http-icloud.com^
 ||606.http602.com^
@@ -80431,6 +80441,7 @@
 ||isusovratnik.com^
 ||isuzi.com^
 ||a8cv.isuzu-rinji.com^
+||sv.isvn.space^
 ||isweb.no^
 ||iswhatappyouneed.net^
 ||iswwwup.com^
@@ -81201,6 +81212,7 @@
 ||jameslico.com^
 ||metrics.jamestowndistributors.com^
 ||smetrics.jamestowndistributors.com^
+||app.jameswoof.com^
 ||jamexistence.com^
 ||data-960dda2233.jamfm.de^
 ||jamiebaillie.net^
@@ -86400,6 +86412,7 @@
 ||smetrics.kioxia-iwate.co.jp^
 ||smetrics.kioxia.com^
 ||smetrics.kioxia.com.cn^
+||uprising.kip.pro^
 ||upload.kipa.co.il^
 ||www.kipasdenim.com^
 ||kiphairg.com^
@@ -90340,6 +90353,7 @@
 ||www.lessplay.com^
 ||lestaigames.com^
 ||letaikay.net^
+||privacy.letemps.ch^
 ||leterthe-gese.com^
 ||lethe.co^
 ||lethimshine.blogspot.com^
@@ -94098,6 +94112,7 @@
 ||mabrainworks.com^
 ||mabtcaraqdho.com^
 ||mabusinessdaily.com^
+||mabwuwhrugro.com^
 ||chromatography.mac-mod.com^
 ||macan-native.com^
 ||macao99.club^
@@ -105235,6 +105250,7 @@
 ||navi22.ru^
 ||navi23.com^
 ||navi23.ru^
+||navi24.com^
 ||navi24.ru^
 ||navi3.com^
 ||navi30.ru^
@@ -105245,7 +105261,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -105271,6 +105286,7 @@
 ||navi78.ru^
 ||navi79.com^
 ||navi8.com^
+||navi81.com^
 ||navi87.com^
 ||navi88.com^
 ||navi94.com^
@@ -106716,7 +106732,6 @@
 ||www.biura.newsrm.tv^
 ||events.newsroom.bi^
 ||newsrosprom.ru^
-||newssale.info^
 ||www.newssegurosbilbao.com^
 ||newssguide.com^
 ||newsshow.click^
@@ -113230,6 +113245,7 @@
 ||s.ourwindsor.ca^
 ||ouryretyequire.info^
 ||ouryretyequirem.info^
+||ousd-vault.com^
 ||ouseoyopersed.info^
 ||ouseswhichtot.org^
 ||ousinouk.xyz^
@@ -118306,6 +118322,7 @@
 ||smetrics.plumblineservices.com^
 ||plumbsplash.com^
 ||analytics.plumbworld.co.uk^
+||miles.plumenetwork.xyz^
 ||go.plumlending.com^
 ||plumpcontrol.pro^
 ||plumpdianafraud.com^
@@ -118577,6 +118594,7 @@
 ||pocketmath.com^
 ||pocketoption.com^
 ||click.pocketoption.world^
+||dash.pocketuniverse.app^
 ||pocketvegas.co.uk^
 ||pockod.top^
 ||pockoi.top^
@@ -124339,6 +124357,7 @@
 ||tybfxw.puma.com^
 ||pumaoutletpl.pl^
 ||www.pumasklep.pl^
+||pump.fun^
 ||pump.to^
 ||secure.pump8walk.com^
 ||www.pump8walk.com^
@@ -125374,6 +125393,7 @@
 ||www.qjw023.cn^
 ||bdgg.qjy168.com^
 ||qkffv.com^
+||qkikkg.xyz^
 ||qkjjuhs.com^
 ||qkscga.xyz^
 ||qksrv.com^
@@ -157054,6 +157074,7 @@
 ||veqvek.tsn.ca^
 ||app.tsongascenter.com^
 ||wl-analytics.tsp.li^
+||tspivyuxoowva.com^
 ||tspops.com^
 ||adebis.tspot.co.jp^
 ||tsrpcf.xyz^
@@ -158794,7 +158815,6 @@
 ||umersheikh.com^
 ||umescomymanda.info^
 ||umexalim.com^
-||umfsyvnufa.com^
 ||cdn.umh.ua^
 ||umiarnarozwaga.skin^
 ||smetrics.umiloans.com.au^
@@ -161887,6 +161907,7 @@
 ||stats.vattenfall.se^
 ||vattingpliable.top^
 ||vatumile.world^
+||vatzxd.xyz^
 ||vaugaiva.net^
 ||vaugroar.com^
 ||marketing.vault49.com^
@@ -165877,6 +165898,7 @@
 ||vx88.bet^
 ||vx88.com^
 ||vx88vnd.com^
+||vxcaphujhns.com^
 ||www.vxcash.net^
 ||partner.vxcp.de^
 ||vxdpmxw.xyz^
@@ -172562,6 +172584,7 @@
 ||xkbinj.xyz^
 ||xkejsns.com^
 ||xkesalwueyz.com^
+||xkesqbp.icu^
 ||inpost.xkezoly.org^
 ||olx.xkezoly.org^
 ||xkiosx.xyz^
