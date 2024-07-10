@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240710162705
-! Last modified: 2024/07/10 16:27:05
-! Blocked domains: 182985
+! Version: 20240711002429
+! Last modified: 2024/07/11 00:24:29
+! Blocked domains: 183013
 ! unBlocked domains: 47
 !
 ||p0czta.00357937.xyz^
@@ -3175,7 +3175,7 @@
 ||71zrh.cn^
 ||720-trail.co.uk^
 ||1297d00838.720171f1e4.com^
-||f35f2cf082.721ffc3ec5.com^
+||721ffc3ec5.com^
 ||7228.eu^
 ||724sports.com^
 ||7299tu75.cc^
@@ -13535,6 +13535,7 @@
 ||announcedseaman.com^
 ||announceflealanding.com^
 ||announcement.ru^
+||announcement317.fun^
 ||announcementlane.com^
 ||announcenutshell.com^
 ||announceproposition.com^
@@ -17433,6 +17434,7 @@
 ||ataxiasfaulds.shop^
 ||atbaamisr.com^
 ||atbdkmt.xyz^
+||atbif.cn^
 ||atbu.edu.ng^
 ||marketing.atcautomation.com^
 ||elq-tracking.genomes.atcc.org^
@@ -33803,6 +33805,7 @@
 ||cf68club.net^
 ||cf68vn.com^
 ||cf6ab9a135.com^
+||cf959857.live^
 ||marketing.cfa.ca^
 ||smetrics.cfainstitute.org^
 ||cfateu.xyz^
@@ -35287,6 +35290,7 @@
 ||iqmetrics.cicero.de^
 ||cichodaje.pl^
 ||follow.ciciunderwear.com^
+||cickofou.com^
 ||cicory.com^
 ||cicqdaqtrws.info^
 ||cideparenhem.com^
@@ -41427,6 +41431,7 @@
 ||cryptotrader.software^
 ||cryptotradingapi.com^
 ||cryptotrials.care^
+||cryptotyc.care^
 ||cryptoupp.com^
 ||stingray.cryptovoxels.com^
 ||cryptowealthsbuilders.com^
@@ -44781,6 +44786,7 @@
 ||deecqem892bg5er.com^
 ||deedbanmagazine.com^
 ||deedeedwinos.com^
+||deedeisasbeaut.info^
 ||deedtampertease.com^
 ||deefauph.com^
 ||deeflix4k.com^
@@ -49967,6 +49973,7 @@
 ||dropbox-eu.com^
 ||beacon.dropbox.com^
 ||consent.dropbox.com^
+||marketing.dropbox.com^
 ||telemetry.dropbox.com^
 ||telemetry.v.dropbox.com^
 ||dropbox54.com^
@@ -54059,6 +54066,7 @@
 ||a8tag.emprorm.com^
 ||emptierbreak.xyz^
 ||emptyescort.com^
+||emqrjjvalnqbm.top^
 ||ads.emqus.com^
 ||emrahkoylu.com^
 ||emrlogistics.com^
@@ -57920,6 +57928,7 @@
 ||f65rt.top^
 ||f6b458fd.xyz^
 ||f6c50a39cd.com^
+||f700fa18.live^
 ||b83ae39d5e.f75c34dd7b.com^
 ||f77j6t2b.com^
 ||f8260adbf8558d6.com^
@@ -60986,6 +60995,7 @@
 ||track.fitup7uae.com^
 ||fitwithrt.com^
 ||o1l1wiimrroqjek0lar.fitzaoz.ru^
+||fivcgqubtfowus.com^
 ||five-star.pro^
 ||marketing.five-startech.com^
 ||marketing.five19creative.com^
@@ -64353,6 +64363,7 @@
 ||fullplayer.pl^
 ||member.fullpotentialtutor.com^
 ||www.member.fullpotentialtutor.com^
+||t.fullres.net^
 ||fullrss.net^
 ||discover.fullsail.edu^
 ||elq-trk.fullsail.edu^
@@ -67348,6 +67359,7 @@
 ||589fdc29.ghmsolutions.com.br^
 ||6e18e713.ghmsolutions.com.br^
 ||c802de16.ghmsolutions.com.br^
+||ghmwlirru.com^
 ||ghnn11.com^
 ||ghnn22.com^
 ||ghnn33.com^
@@ -68579,6 +68591,7 @@
 ||wildebeest.gmk.today^
 ||gmkail.com^
 ||gmkflsdaa.com^
+||gmknz.com^
 ||gml-grp.com^
 ||gml.email^
 ||gmload.com^
@@ -76749,6 +76762,7 @@
 ||hutlockshelter.com^
 ||hutoknepper.de^
 ||ad.hutor.ru^
+||hutoumseet.com^
 ||hutrealebion.com^
 ||hutremindbond.com^
 ||huusk-original.com^
@@ -81853,6 +81867,7 @@
 ||ads.interfacelift.com^
 ||interfacemotleyharden.com^
 ||ads.interfax.ru^
+||interference350.fun^
 ||interfereparagraphinterrogate.com^
 ||interferepenetrate.com^
 ||interflonproductselector.com^
@@ -84253,6 +84268,7 @@
 ||metric.jahnreisen.de^
 ||metrics.jahnreisen.de^
 ||cname.jaic-college.jp^
+||jaifeeveely.com^
 ||jailabridge.com^
 ||jailakolwqwer.space^
 ||jailbaitclub.top^
@@ -86805,6 +86821,7 @@
 ||jrs2igoimq.ru^
 ||jrsa.net^
 ||jrtbjai.com^
+||jrtlisa.top^
 ||www.jrun.net.cn^
 ||jrwygh.cn^
 ||jryymvudjqlraa.com^
@@ -89216,6 +89233,7 @@
 ||kelownasouvenirs.com^
 ||smetrics.kelownatoyota.com^
 ||kelp.website^
+||cdn.kelpo.cloud^
 ||www.kelteksdoo-mysharepoint.com^
 ||kelticsully.guru^
 ||keltysale.com^
@@ -99800,6 +99818,7 @@
 ||js.mangajp.top^
 ||js.mangakl.su^
 ||js.mangalove.top^
+||js.mangaraw.bid^
 ||ad.mangareader.net^
 ||mangensaud.net^
 ||data-f1e447fbcf.mangfall24.de^
@@ -102152,6 +102171,7 @@
 ||mediumpimpin.com^
 ||online.mediums.best^
 ||www.online.mediums.best^
+||mediumtunapatter.com^
 ||start.mediware.com^
 ||www.mediwebinars.com^
 ||tracking.mediwel.net^
@@ -119989,6 +120009,7 @@
 ||doctor.oxo-group.com^
 ||motorist.oxo-group.com^
 ||oxosurf.eu^
+||oxowcjxiffsj.com^
 ||oxrvfsi.xyz^
 ||oxsocks.com^
 ||deeplink.oxstreet.com^
@@ -138571,6 +138592,7 @@
 ||rsdsuperindia.com^
 ||go.rseg.com^
 ||images.healthlink.rsfh.com^
+||rsfmzirxwg.com^
 ||rsgyndxlwfurm.com^
 ||rsipa.com^
 ||rsldfvt.com^
@@ -140556,6 +140578,7 @@
 ||satireunhealthy.com^
 ||satirevegetableshaw.com^
 ||www.satirewire.com^
+||satisfaction399.fun^
 ||satisfactiones.pro^
 ||satisfactionretirechatterbox.com^
 ||satisfactorilyfigured.com^
@@ -142230,6 +142253,7 @@
 ||selvamedic.com^
 ||selwrite.com^
 ||outreach.semaconnect.com^
+||t.semafor.com^
 ||semalt.com^
 ||semalt.net^
 ||semaltmedia.com^
@@ -152011,6 +152035,7 @@
 ||supervision6912305847.jp^
 ||supervisionlanguidpersonnel.com^
 ||supervisionprohibit.com^
+||supervisofosevera.com^
 ||link.superviz.com^
 ||affil.supervykon.cz^
 ||marketing.superwindowsusa.com^
@@ -165119,6 +165144,7 @@
 ||unmistdistune.guru^
 ||unmutedharls.com^
 ||unnathimilk.com^
+||unnaturalstring.com^
 ||pm.unnicemahala.com^
 ||unnish.com^
 ||jdgtgb.unnuetzes.com^
@@ -166593,6 +166619,7 @@
 ||ususyr.top^
 ||usvkfwth.xyz^
 ||uswiadomieni.pl^
+||sa.uswitch.com^
 ||mkt.usz.ch^
 ||tracking.ut.se^
 ||ut13r.space^
@@ -178143,6 +178170,7 @@
 ||utroo.xiproject.top^
 ||xpi.xiproject.top^
 ||yueo.xiproject.top^
+||xipwdvkessqguv.com^
 ||xiqougw.com^
 ||xiriwyawuy.live^
 ||xisihv12n.com^
