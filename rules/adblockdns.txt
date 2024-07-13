@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240713162349
-! Last modified: 2024/07/13 16:23:49
-! Blocked domains: 183054
+! Version: 20240714002312
+! Last modified: 2024/07/14 00:23:12
+! Blocked domains: 183057
 ! unBlocked domains: 47
 !
 ||06362.com^
@@ -19551,6 +19551,7 @@
 ||zesgky.belambra.fr^
 ||belamicash.com^
 ||adobe-analytics-dc.belastingdienst.nl^
+||belatedsafety.pro^
 ||belatips.com^
 ||belavoplay.com^
 ||belbabub.site^
@@ -143502,6 +143503,7 @@
 ||www.shockcounter.com^
 ||shocked-failure.com^
 ||shockgore.com^
+||shocking-profile.pro^
 ||shockinggrass.com^
 ||shockingrobes.com^
 ||shockingship.com^
@@ -175618,6 +175620,7 @@
 ||partner.whoopdedoo.me^
 ||whoostoo.net^
 ||link.kingsnews.whopper.co.za^
+||whopping-sea.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
 ||d.whoscall.com^
