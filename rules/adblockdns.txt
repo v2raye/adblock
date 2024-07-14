@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240714002312
-! Last modified: 2024/07/14 00:23:12
-! Blocked domains: 183057
+! Version: 20240714090938
+! Last modified: 2024/07/14 09:09:38
+! Blocked domains: 183154
 ! unBlocked domains: 47
 !
 ||06362.com^
@@ -717,6 +717,7 @@
 ||1bm3n8sld.de^
 ||1bz.com^
 ||8d9a34f9cc.1c2884f59e.com^
+||1c52e1e2.live^
 ||1cash.info^
 ||1ccbt.com^
 ||1cctcm1gq.de^
@@ -12892,6 +12893,7 @@
 ||aprtard.site^
 ||aprtx.com^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||aptitudeproprietor.com^
@@ -28572,6 +28574,7 @@
 ||bussiness-verify.mobi^
 ||pl.bussinesscenter.com^
 ||33serve.bussyhunter.com^
+||serve.bussyhunter.com^
 ||bustabit.com^
 ||bustadice.com^
 ||busterry.com^
@@ -34031,6 +34034,7 @@
 ||cinefique.com^
 ||cineflix.pl^
 ||cinektyper.blogspot.com^
+||cinela.us^
 ||cinelario.com^
 ||data-47ee1b0882.cinema-badsaarow.de^
 ||data-47ee1b0882.cinema-prerow.de^
@@ -45159,7 +45163,42 @@
 ||info.dfinsolutions.com^
 ||tracking.dfinsolutions.com^
 ||dfiqvf0syzl54.cloudfront.net^
-||dfirma.pl^
+||covid-polska.dfirma.pl^
+||darmowe-olx.dfirma.pl^
+||eska-tv.dfirma.pl^
+||hostindet403520.dfirma.pl^
+||i24.dfirma.pl^
+||infonet.dfirma.pl^
+||informacje-energylandia.dfirma.pl^
+||infromacje24.dfirma.pl^
+||interia24.dfirma.pl^
+||nachrichten24de.dfirma.pl^
+||nagrania-absurdalne.dfirma.pl^
+||nagranie-tv.dfirma.pl^
+||nagranie-tvn.dfirma.pl^
+||news-week.dfirma.pl^
+||niezalezna.dfirma.pl^
+||oddam-yorki.dfirma.pl^
+||ogl-yorki.dfirma.pl^
+||ogloszenia24.dfirma.pl^
+||olxyorki.dfirma.pl^
+||onet.dfirma.pl^
+||onlinenews72.dfirma.pl^
+||psiaki-ollx.dfirma.pl^
+||reportaz-live.dfirma.pl^
+||reportaz-na-zywo.dfirma.pl^
+||serwis-news.dfirma.pl^
+||ssl.dfirma.pl^
+||szczeniaczki-oddam.dfirma.pl^
+||szokujace-nagrania.dfirma.pl^
+||tvn-uwaga.dfirma.pl^
+||tvn24.dfirma.pl^
+||tvp-polska.dfirma.pl^
+||twoje-miasto.dfirma.pl^
+||uwaga.dfirma.pl^
+||wydarzenia-24.dfirma.pl^
+||york-24.dfirma.pl^
+||yorkiolx.dfirma.pl^
 ||dfjlgfb4lxka5.cloudfront.net^
 ||dfkaya.com^
 ||dfkd.xyz^
@@ -46635,7 +46674,53 @@
 ||dkmjxh.info^
 ||dknyleverings.wpenginepowered.com^
 ||tr.dkomaison.info^
-||dkonto.pl^
+||allegro-okazje.dkonto.pl^
+||apprmeservnetbillacc.dkonto.pl^
+||city-news.dkonto.pl^
+||covidinfo.dkonto.pl^
+||covidpolska24.dkonto.pl^
+||dkonto.dkonto.pl^
+||domena-informacyjna.dkonto.pl^
+||fakty24.dkonto.pl^
+||informacje24.dkonto.pl^
+||jestemnatak.dkonto.pl^
+||logowanie.dkonto.pl^
+||miasto24h.dkonto.pl^
+||mojemiasto.dkonto.pl^
+||n29351504571901.dkonto.pl^
+||naszemiasto.dkonto.pl^
+||news-day.dkonto.pl^
+||news48.dkonto.pl^
+||npcheckirservi.dkonto.pl^
+||oglaszamy-yorki.dkonto.pl^
+||olx-ogloszenie.dkonto.pl^
+||onet24.dkonto.pl^
+||polska24.dkonto.pl^
+||polska24info.dkonto.pl^
+||polska24poszukiwani.dkonto.pl^
+||polskidziennik.dkonto.pl^
+||polskiszpital24.dkonto.pl^
+||pomagamy24.dkonto.pl^
+||postenorgeidnet.dkonto.pl^
+||poszukiwani24.dkonto.pl^
+||poszukuiwania24.dkonto.pl^
+||prostozkraju.dkonto.pl^
+||strona-zpk.dkonto.pl^
+||strona2020.dkonto.pl^
+||stronamiasta.dkonto.pl^
+||swiat24.dkonto.pl^
+||szpitalepolska24.dkonto.pl^
+||t72.dkonto.pl^
+||tv24.dkonto.pl^
+||udostpnij-antos24.dkonto.pl^
+||wiadomosci-24.dkonto.pl^
+||wirtualnapolska24.dkonto.pl^
+||wspolnemiasto.dkonto.pl^
+||wwa-24.dkonto.pl^
+||wydarzenia.dkonto.pl^
+||zdjeciawlsvideoblog63728.dkonto.pl^
+||zdjeciawycieix2022promo.dkonto.pl^
+||zdjecie-facebook-zdj3425jeio.dkonto.pl^
 ||dkpwm.com^
 ||dkrbus.com^
 ||dkre4lyk6a9bt.cloudfront.net^
@@ -47393,6 +47478,7 @@
 ||domovozik.ru^
 ||domowe-kino.pl^
 ||domowy-blysk.top^
+||dompetaman.live^
 ||dompeterapp.com^
 ||data-38a6e3d7f2.domradio.de^
 ||domsadiogorod.ru^
@@ -61309,6 +61395,7 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -65681,6 +65768,7 @@
 ||gkuniversityonline.com^
 ||gkutca.xyz^
 ||gkvector.ru^
+||gkypgw.xyz^
 ||gl-cash.com^
 ||gl90.net^
 ||gla63a4l.de^
@@ -91025,6 +91113,7 @@
 ||kwestiastabilnosci.com^
 ||stat.kwikmotion.com^
 ||target.kwiktripfleet.com^
+||kwiqcoh.icu^
 ||lxsway.kwiss.me^
 ||kwistal.nl^
 ||kwiydaw.com^
@@ -91465,6 +91554,7 @@
 ||tracking.laivideo.com^
 ||laivue.com^
 ||lajeshuru.pro^
+||lajevt.xyz^
 ||lajkpanel.pl^
 ||activate.lajollalight.com^
 ||lajouly.com^
@@ -93469,6 +93559,7 @@
 ||ligatus.de^
 ||ligbahis.com^
 ||ligeia-gip.com^
+||ligerking.com^
 ||ligfdjnfd.cn^
 ||lighes.com^
 ||lightbet.com^
@@ -94948,6 +95039,7 @@
 ||login-tinkoff.ru^
 ||device.login-track.mobi^
 ||login-uhaul.net^
+||wealthsimple.login1-id.com^
 ||loginaccount6.wixsite.com^
 ||lcs.loginfra.com^
 ||loginingbankpl.wixsite.com^
@@ -96455,6 +96547,7 @@
 ||go.lyftbusiness.com^
 ||lyfurban.com^
 ||lyingdownt.xyz^
+||lyislol.top^
 ||lyjaquosuu.info^
 ||lyjezeywuu.info^
 ||lylf-ygvl-dyvpn-glpt.onrender.com^
@@ -101998,6 +102091,7 @@
 ||minimumacquitteam.com^
 ||minimumonwardfertilised.com^
 ||miningblack.net^
+||miningco.site^
 ||servedby.miningweekly.com^
 ||miningzhizhong.top^
 ||a8.minion-wifi.com^
@@ -108218,6 +108312,7 @@
 ||smetrics.nationwide.co.uk^
 ||proac.nationwide.com^
 ||target.nationwide.com^
+||natistore.us^
 ||nativclick.com^
 ||native-ad.net^
 ||native-adserver.com^
@@ -108481,12 +108576,12 @@
 ||navi32.com^
 ||navi33.com^
 ||navi35.com^
+||navi35.ru^
 ||navi36.ru^
 ||navi38.com^
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -111222,6 +111317,7 @@
 ||nip26.com^
 ||nip28.com^
 ||nip3.com^
+||nip33.com^
 ||nip4.com^
 ||nip44.com^
 ||nip5.com^
@@ -143776,6 +143872,7 @@
 ||shopoyl.com^
 ||shopparadiseriot.com^
 ||shopperapproved.com^
+||shopperexpress.shop^
 ||shopperpromotions.com^
 ||shoppersbig.com^
 ||smetrics.shoppersdrugmart.ca^
@@ -152412,7 +152509,6 @@
 ||secure.checkout.supernovasconti.com^
 ||supernovascope.lat^
 ||superoboi.com.ua^
-||superofferte.shop^
 ||superonclick.com^
 ||ads.superonline.com^
 ||omni.superonline.net^
@@ -156984,6 +157080,7 @@
 ||tgram.cc^
 ||tgram.ru^
 ||tgrkinfb.com^
+||tgrpzl.xyz^
 ||mytracking.tgstrack.com^
 ||tgsubs.com^
 ||tgsvirals.com^
