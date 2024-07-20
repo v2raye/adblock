@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240720002450
-! Last modified: 2024/07/20 00:24:50
-! Blocked domains: 177618
+! Version: 20240720090430
+! Last modified: 2024/07/20 09:04:30
+! Blocked domains: 177650
 ! unBlocked domains: 47
 !
 ||bbq.007800.xyz^
@@ -1695,6 +1695,7 @@
 ||e1f6a352a1.3ea94c3718.com^
 ||cf545aa526.3eab231aec.com^
 ||3ez1ja1uq3.ru^
+||3fc0ebfea0.com^
 ||ecf076c000.3fe21d10b7.com^
 ||f17583a90e.3feea3f6d1.com^
 ||3file.info^
@@ -16958,6 +16959,7 @@
 ||l.audibook.si^
 ||l.dev.audibook.si^
 ||audicat.net^
+||audience.io^
 ||audience.media^
 ||audience.systems^
 ||audience2media.com^
@@ -19502,6 +19504,7 @@
 ||bashnourish.com^
 ||bashnya.ru^
 ||bashwhoopflash.com^
+||basicallyspacecraft.com^
 ||get.basicprint.co^
 ||basicstat.com^
 ||basictreadcontract.com^
@@ -24322,6 +24325,7 @@
 ||blogonews.com^
 ||counter.blogoscoop.net^
 ||stats.blogoscoop.net^
+||blogostock.com^
 ||blogpatrol.com^
 ||widget.blogram.jp^
 ||blogrankers.com^
@@ -32739,6 +32743,7 @@
 ||chaostear.com^
 ||chaostear.site^
 ||cpm.chaoticinteractions.com^
+||chaoyumiao.com^
 ||chapcompletefire.com^
 ||chapelhillreview.com^
 ||connect.chapman.com^
@@ -35738,6 +35743,7 @@
 ||clumsinesssinkingmarried.com^
 ||clumsycar.com^
 ||clumsyflint.com^
+||clumsyshare.com^
 ||clunder.net^
 ||link.cluno.com^
 ||cluster-news.site^
@@ -40332,6 +40338,7 @@
 ||crsportsbetting.com^
 ||crsystems.it^
 ||crtappsoffer.com^
+||crtlisf.top^
 ||crto.in^
 ||crtracklink.com^
 ||securedata.cru.be^
@@ -48230,6 +48237,7 @@
 ||dosnosnewidoki.click^
 ||a8clk.dospara.co.jp^
 ||dospely.shop^
+||dossestarairi.shop^
 ||tk.dossier.co^
 ||dossierplant.click^
 ||dossmanaventre.top^
@@ -58817,6 +58825,7 @@
 ||learn.fhlbny.com^
 ||mail.fhlbtopekamail.com^
 ||fhlceugidb.xyz^
+||fhnbrx.xyz^
 ||fhrl2018.com^
 ||links.fhsarl.com^
 ||secure.fhserve.com^
@@ -62926,6 +62935,7 @@
 ||cgi2.fxweb.com^
 ||cgi3.fxweb.com^
 ||fxxrllt.com^
+||fyafcyawfevr.com^
 ||fyber.com^
 ||fyblppngxdt.com^
 ||fydczmk.com^
@@ -63147,6 +63157,7 @@
 ||gaja79.com^
 ||gakairohekoa.com^
 ||onenet.gakujutsu.com^
+||gakvrqdquo.com^
 ||data-52a43bc433.gala.de^
 ||data-dcab82fe16.gala.de^
 ||cqpmvc.gala.fr^
@@ -69533,6 +69544,7 @@
 ||headlightgranulatedflee.com^
 ||headlightinfinitelyhusband.com^
 ||headline205.fun^
+||headline3452.fun^
 ||share.headliner.app^
 ||adadmin.headlines.pw^
 ||adpostback.headlines.pw^
@@ -70543,6 +70555,7 @@
 ||hibusinessdaily.com^
 ||hicam.net^
 ||link.hiccup.dev^
+||hichhereallyw.info^
 ||matomo.hicity.vn^
 ||mautic.hicity.vn^
 ||hickclamour.com^
@@ -74005,6 +74018,7 @@
 ||oldcname.ieasyclick.net^
 ||myeca.ieasytest.net^
 ||myecat1.ieasytest.net^
+||iecmca.xyz^
 ||vvv.ieduw.com^
 ||iee5.com^
 ||metrics-ieeexplore.ieee.org^
@@ -79393,6 +79407,7 @@
 ||jeehathu.com^
 ||jeejujou.net^
 ||jeekomih.com^
+||jeelmuyusa.com^
 ||jeeng.com^
 ||jibyrm.jeep-official.it^
 ||target.jeep.com^
@@ -84817,6 +84832,7 @@
 ||kosherpalace.com^
 ||koshiyo.com^
 ||koshto.com^
+||kosininia.com^
 ||koskdd.sbs^
 ||kosmer-news.site^
 ||tqtedm.kosmetik.at^
@@ -96810,6 +96826,7 @@
 ||lp.metodoinesquecivel.com^
 ||metodoverdadeiro.com^
 ||fahmta.metoffice.gov.uk^
+||metogthr.com^
 ||metorealiukz.org^
 ||metosk.com^
 ||metotreatwithdify.info^
@@ -109642,6 +109659,7 @@
 ||observedlily.com^
 ||ssuperstats.observepoint.com^
 ||superstats.observepoint.com^
+||observer3452.fun^
 ||observer384.fun^
 ||observerapp.com^
 ||observerdispleasejune.com^
@@ -111029,6 +111047,7 @@
 ||omiki.com^
 ||omine.org^
 ||ablink.news.omio.com^
+||logger.omio.com^
 ||omisegotoken.com^
 ||omission119.fun^
 ||omissionmexicanengineering.com^
@@ -114473,6 +114492,7 @@
 ||paisii.info^
 ||paisit.top^
 ||paitoucaum.com^
+||paiwena.xyz^
 ||mm.paizi.net^
 ||go.pajamaprogram.org^
 ||pajamasgnat.com^
@@ -115624,6 +115644,7 @@
 ||pccdirect.site^
 ||pccdzkebzm.sa.com^
 ||pcci.pccinnovation.org^
+||pccjtxsao.com^
 ||pccleaner.com^
 ||down.pcclear.com^
 ||pcconelove.xyz^
@@ -126681,7 +126702,7 @@
 ||r2233vip.com^
 ||r2282.com^
 ||trc.r25.jp^
-||delivery.r2b2.cz^
+||r2b2.cz^
 ||r2b2.io^
 ||info.r2cgroup.com^
 ||www.r2prod.com^
@@ -127766,6 +127787,7 @@
 ||rdsgick.icu^
 ||event-api.rdstation.com.br^
 ||rdtk.io^
+||rdtracer.com^
 ||trk.rdtrak.site^
 ||rdtrck2.com^
 ||littlelilistore.rdtrke.com^
@@ -131277,6 +131299,7 @@
 ||qifbmk.rodinnebaleni.cz^
 ||rodione.com^
 ||rodirgix.com^
+||rodmfv.xyz^
 ||rodolforeis.com^
 ||rodoviga.com.br^
 ||rodplayed.com^
@@ -133849,6 +133872,7 @@
 ||sandsiv.com^
 ||sandsonair.com^
 ||sandtheircle.com^
+||sandwich3452.fun^
 ||sandwichdeliveringswine.com^
 ||sandyshore.xyz^
 ||sandysuspicions.com^
@@ -133974,6 +133998,7 @@
 ||santosfeltmanager.com^
 ||santoshjayswal.com^
 ||santosmiddle.com^
+||santtacklingallaso.com^
 ||sanufvuhaf.com^
 ||sanuksandaler.com^
 ||12915784.care.sanvello.com^
@@ -134910,6 +134935,7 @@
 ||scminnesotanews.com^
 ||scmissnews.com^
 ||scmissourinews.com^
+||scmn0di.com^
 ||tagger.ope.scmp.com^
 ||os.scmpacdn.com^
 ||scmplayer.net^
@@ -146763,6 +146789,7 @@
 ||surfsecured.net^
 ||sgad.surfsnow.jp^
 ||tagman.surfstitch.com^
+||surfwestlaw.com^
 ||surge-iq.com^
 ||surge-vista.com^
 ||1sugxu4thwwljctlhca8b.surge.sh^
@@ -158259,6 +158286,7 @@
 ||hhh.u3se3jg3gae.com^
 ||u40cc3twb.com^
 ||u418.info^
+||u4ccj.icu^
 ||ee.u4q2.cn^
 ||m.u4q2.cn^
 ||u51.me^
@@ -161432,6 +161460,7 @@
 ||uvatime.com^
 ||l.uvcr.me^
 ||uvcwj.com^
+||uvekyvs.icu^
 ||uverdnes.cz^
 ||www.mkt.uvg.edu.gt^
 ||uvisagroup.com^
@@ -167249,6 +167278,7 @@
 ||trk.wealthmanagement.com^
 ||wealthmanagementwire.com^
 ||wealthprodigyai.pro^
+||wealthsgraphis.com^
 ||wealthtechvisionary.pro^
 ||t.wealthwisealliance.com^
 ||wealthwithdestiny.com^
@@ -168851,6 +168881,7 @@
 ||werde.xyz^
 ||weredthechild.info^
 ||wereksbeforebut.info^
+||weremoiety.com^
 ||go.werepair.org^
 ||wererxrzmp.com^
 ||werewolfdetective.com^
@@ -176357,6 +176388,7 @@
 ||bebpon.zetronix.com^
 ||zettapetta.com^
 ||zetuna.mx^
+||zetutsooz.net^
 ||zeuqmpe.icu^
 ||test.zeus-wifi.jp^
 ||zeusadx.com^
