@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240721162419
-! Last modified: 2024/07/21 16:24:19
-! Blocked domains: 180958
+! Version: 20240722002528
+! Last modified: 2024/07/22 00:25:28
+! Blocked domains: 180961
 ! unBlocked domains: 47
 !
 ||re-confrm-acclockhelpcenter.000.pe^
@@ -45724,6 +45724,7 @@
 ||newopenx.detik.com^
 ||newrevive.detik.com^
 ||o.detik.com^
+||parsley.detik.com^
 ||rec.detik.com^
 ||detinrubbing.com^
 ||detmir-stats.ru^
@@ -148704,6 +148705,7 @@
 ||m.stripe.com^
 ||r.stripe.com^
 ||stripedbat.com^
+||stripedcover.pro^
 ||stripedonerous.com^
 ||stripeformism.com^
 ||striperaised.com^
@@ -152348,6 +152350,7 @@
 ||teeglimu.com^
 ||teemax.store^
 ||teemcapablespinal.com^
+||teemingweekend.com^
 ||teemooge.net^
 ||teenagerapostrophe.com^
 ||a.teencfnm.com^
