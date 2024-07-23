@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240723162650
-! Last modified: 2024/07/23 16:26:50
-! Blocked domains: 183360
+! Version: 20240724002713
+! Last modified: 2024/07/24 00:27:13
+! Blocked domains: 183372
 ! unBlocked domains: 47
 !
 ||reasucheck-jancuk-pageshelp.000.pe^
@@ -2344,7 +2344,7 @@
 ||461vd.com^
 ||a8cv.464981.com^
 ||4690y10pvpq8.com^
-||43a8f5806e.46bd8e62a2.com^
+||46bd8e62a2.com^
 ||46f4vjo86.com^
 ||46febd8df8.com^
 ||46rtpw.ru^
@@ -13531,7 +13531,6 @@
 ||animenewsmagazine.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||animesuge.to^
 ||track.animeware.com^
 ||animi2.com^
@@ -15796,7 +15795,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -22523,6 +22522,7 @@
 ||believeradar.com^
 ||believersheet.com^
 ||believersymphonyaunt.com^
+||beliketheappyri.info^
 ||belindabeach.com^
 ||belindanbd.com^
 ||track.offer.belisara-it.com^
@@ -28780,6 +28780,7 @@
 ||brexit-millionaire.org^
 ||brexittraders.com^
 ||track.brezinobrwin.site^
+||brfzpaffgni.com^
 ||health.brgeneral.org^
 ||tracking.brgeneral.org^
 ||brgtv.info^
@@ -29987,7 +29988,6 @@
 ||buydocumentation.com^
 ||images.response.buydomains.com^
 ||response2.buydomains.com^
-||buydubuy.com^
 ||trk.buyearthwash.com^
 ||buyeasy.by^
 ||banner.buyee.jp^
@@ -33554,6 +33554,7 @@
 ||charmobedience.com^
 ||charmsection.com^
 ||charmshoist.com^
+||charpente-ramel.com^
 ||charsubsistfilth.com^
 ||chart.dk^
 ||chartaca.com^
@@ -36938,6 +36939,7 @@
 ||coinpirate.cf^
 ||coinpot.co^
 ||coinrail.io^
+||coinreq.com^
 ||download.coinseed.co^
 ||coinshunt.com^
 ||coinspokemongo.com^
@@ -63538,6 +63540,7 @@
 ||trck.frutafrutashop.com^
 ||fruteninja.com^
 ||frutrun.com^
+||frutwafiwah.com^
 ||frwyfaxed.com^
 ||med.frxis.com^
 ||fryawlauk.com^
@@ -64941,6 +64944,7 @@
 ||jdgtgb.gamezone.de^
 ||collector.gamezop.com^
 ||gamezy.com^
+||gamgoing.com^
 ||gamhack.com^
 ||gamidex.com^
 ||ads.gamigo.de^
@@ -98099,6 +98103,7 @@
 ||lumpylumber.com^
 ||lumpyouter.com^
 ||lumupiojea.com^
+||lumustore.top^
 ||lumxts.com^
 ||lynx.lumy.network^
 ||orbit.lun.ua^
@@ -100404,6 +100409,7 @@
 ||marketgid.ru^
 ||markethealth.com^
 ||tracking.markethero.io^
+||markethops.com^
 ||data.mail.marketing-bcthk.com^
 ||marketing-guerilla.de^
 ||marketing-page.de^
@@ -106174,7 +106180,6 @@
 ||mobile-click.biz^
 ||mobile-ent.biz^
 ||mobile-facebook.com.vn^
-||wealthsimple.mobile-id1.com^
 ||a8clk.mobile-norikae.com^
 ||mobile-olx.pl^
 ||mobile-redirection.com^
@@ -130541,6 +130546,7 @@
 ||pupur.net^
 ||pupur.pro^
 ||puqer.cn^
+||puraquealtered.shop^
 ||puratalets.com^
 ||partneri.puravia.cz^
 ||partners.puravidashop.cz^
@@ -138508,6 +138514,7 @@
 ||ruozukk.xyz^
 ||sffyrc.ruparupa.com^
 ||rupekaro.com^
+||rupiahpetiroiuy.xyz^
 ||rupiahsaku.com^
 ||rupicoline.com^
 ||rupifyu1.xyz^
@@ -147569,6 +147576,7 @@
 ||souptacos.com^
 ||soupteewhish.com^
 ||souptightswarfare.com^
+||soupy-user.com^
 ||souqdemo.com^
 ||souqinside.com^
 ||souqizel.com^
@@ -154365,6 +154373,7 @@
 ||tbcgumkadc.xyz^
 ||tberjonk.com^
 ||tbex.ru^
+||tbg-lmtd.xyz^
 ||trk.tbivision.com^
 ||tbli.ir^
 ||metrics.tbliab.net^
@@ -159441,7 +159450,6 @@
 ||tokingsash.com^
 ||toknowall.com^
 ||a8cv.toko-navi.com^
-||toko999.net^
 ||toko999.shop^
 ||artykul-gazeta.tokoapril.com^
 ||artykul-pudelek.tokoapril.com^
@@ -163180,6 +163188,7 @@
 ||tumultmarten.com^
 ||tumultuserscheek.com^
 ||get.tunableapp.com^
+||tunairupiah.xyz^
 ||tunatastesentertained.com^
 ||tundestomyphoy.pro^
 ||tundrafile.com^
@@ -171373,6 +171382,7 @@
 ||tw-api.vpadn.com^
 ||scadobe.vpay.co.kr^
 ||vpbbank.com^
+||vpbpb.com^
 ||m.vpc.ca^
 ||vpclickpv.com^
 ||vpdr.pl^
@@ -177278,6 +177288,7 @@
 ||wqorxfp.com^
 ||wqshui.com^
 ||wqvbuj.icu^
+||wqyjkupqj.com^
 ||wqzyxxrrep.com^
 ||smetrics.wradio.com.co^
 ||smetrics.wradio.com.mx^
@@ -179994,6 +180005,7 @@
 ||yh20230625tu.com^
 ||yhbcii.com^
 ||yhdncj.biz^
+||yhdshop.com^
 ||yhgfoe.xyz^
 ||yhgpuxim.xyz^
 ||yhimpnr.icu^
