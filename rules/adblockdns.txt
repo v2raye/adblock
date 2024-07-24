@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240724002713
-! Last modified: 2024/07/24 00:27:13
-! Blocked domains: 183372
+! Version: 20240724090651
+! Last modified: 2024/07/24 09:06:51
+! Blocked domains: 183383
 ! unBlocked domains: 47
 !
 ||reasucheck-jancuk-pageshelp.000.pe^
@@ -1502,6 +1502,7 @@
 ||pko-auth.283192.com^
 ||a1.289.com^
 ||289931.com^
+||28d287b9.xyz^
 ||metrics.28degreescard.com.au^
 ||smetrics.28degreescard.com.au^
 ||28vulkanvegas.com^
@@ -2336,6 +2337,7 @@
 ||37.44x.io^
 ||t.451.io^
 ||452tapgn.de^
+||45496fee.xyz^
 ||4556.de^
 ||456goodgame.com^
 ||456win.club^
@@ -39176,6 +39178,7 @@
 ||hal.courrierinternational.com^
 ||coursebonfire.com^
 ||coursebrushedassume.com^
+||insights-mxp.coursecareers.com^
 ||coursecopy.com^
 ||explore.coursefinders.com^
 ||stats.coursepad.com^
@@ -54181,6 +54184,7 @@
 ||join.entrylevel.net^
 ||entterto.com^
 ||app.entwickler.de^
+||enuksg.xyz^
 ||log.enuri.com^
 ||ad-api.enuri.info^
 ||t.enuygun.com^
@@ -54578,6 +54582,7 @@
 ||er-dr.com^
 ||top.er.cz^
 ||zip.er.cz^
+||er1h4.icu^
 ||er6785sc.click^
 ||era67hfo92w.com^
 ||erabaru.net^
@@ -78113,6 +78118,7 @@
 ||iessvs.com^
 ||ietalvaromolina.edu.co^
 ||email.ietinfo.org^
+||ietlwso.top^
 ||ietn.hair^
 ||ietyofedinj89yewtburgh.com^
 ||ieurop.net^
@@ -84768,6 +84774,7 @@
 ||jdfabrication.com^
 ||udbatbca1ww47volm7k0.jdfbpem.ru^
 ||www.udbatbca1ww47volm7k0.jdfbpem.ru^
+||jdfzfd.xyz^
 ||100025potwierdz.jdhs.pl^
 ||105030potwierdz-potwierdz.jdhs.pl^
 ||112261dalej-aktualizacja.jdhs.pl^
@@ -89765,7 +89772,6 @@
 ||kicka.xyz^
 ||a.kickassunblock.net^
 ||kickchecking.com^
-||1t2.kicker.de^
 ||2t3.kicker.de^
 ||data-3cd8fb3825.kicker.de^
 ||data-e69b3d32a9.kicker.de^
@@ -125753,6 +125759,7 @@
 ||plt.data.pplive.com^
 ||ppvabs.pplive.com^
 ||web.data.pplive.com^
+||pplkrh.xyz^
 ||pplonet.wixsite.com^
 ||go.ppmglobalservices.com^
 ||att2.ppmpro.com^
@@ -138461,6 +138468,7 @@
 ||runazmakqja.com^
 ||runbornto.com^
 ||runbuddies.org^
+||static.runconverge.com^
 ||runcornintl.com^
 ||runcpa.com^
 ||data-0c700a44f4.rund-ums-baby.de^
@@ -138758,6 +138766,7 @@
 ||investors.spotify.com.sg.ryo.biz.id^
 ||a8cv.ryomon.jp^
 ||cv.ryoutuki-kyujin.com^
+||ryqgdrh.icu^
 ||ryre.cn^
 ||ryremovement.com^
 ||ryrmvd.xyz^
@@ -144248,6 +144257,7 @@
 ||sibergy.com^
 ||siberiabecrush.com^
 ||ads.sibernetworks.com^
+||siberreklam.com^
 ||243cb691.sibforms.com^
 ||28dc069a.sibforms.com^
 ||sibkukla.ru^
@@ -170251,6 +170261,7 @@
 ||tracking.visma.se^
 ||tracking.vismaraet.nl^
 ||tracking.vismaspcs.se^
+||a.visme.co^
 ||visner.click^
 ||visneticllc.com^
 ||visoadroursu.com^
