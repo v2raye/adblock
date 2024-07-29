@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240729002559
-! Last modified: 2024/07/29 00:25:59
-! Blocked domains: 183229
+! Version: 20240729090755
+! Last modified: 2024/07/29 09:07:55
+! Blocked domains: 183247
 ! unBlocked domains: 47
 !
 ||01print.ma^
@@ -4164,6 +4164,7 @@
 ||a4mt150303tl.com^
 ||a4trk.com^
 ||6021bfc225.a5058f0d07.com^
+||a5d2d040.xyz^
 ||a5game.win^
 ||a5jogo.biz^
 ||a63t9o1azf.com^
@@ -9769,6 +9770,7 @@
 ||aipro-iplex.com^
 ||aipt1.com^
 ||aiqidwcfrm.com^
+||aiqks.top^
 ||hpymkg.air-austral.com^
 ||go.air-electra.co.il^
 ||air-feed.com^
@@ -16665,6 +16667,7 @@
 ||asdhhuztul.com^
 ||asdi.ac.id^
 ||asdifgers.com^
+||asdkfefanvt.com^
 ||asdmcm.com^
 ||cdn.asdnow.xyz^
 ||asdpoi.com^
@@ -73192,6 +73195,7 @@
 ||hethongvaynhanh247.com^
 ||hethuwer.xyz^
 ||smetrics.hetjuisteritme.be^
+||hetnu.com^
 ||hetsouds.net^
 ||data-c849cc593c.heuer-dialog.de^
 ||heukmsactivator.com^
@@ -83822,6 +83826,7 @@
 ||adapi.izuiyou.com^
 ||adstat.izuiyou.com^
 ||xladapi.izuiyou.com^
+||izwmfmu.icu^
 ||hcjpbc.j-14.com^
 ||j-a-net.jp^
 ||j-d-m.com^
@@ -88032,6 +88037,7 @@
 ||smetrics2.kaiserpermanente.org^
 ||kaiserslots.com^
 ||ai.kaishabaikyaku.com^
+||kaishq.top^
 ||a8cv.kaiteki.gr.jp^
 ||www.kaitongyewu.com^
 ||a8clk.kaitori-beerecords.jp^
@@ -94551,6 +94557,7 @@
 ||ligatus.com^
 ||ligatus.de^
 ||ligbahis.com^
+||ligerking.com^
 ||ligfdjnfd.cn^
 ||lighes.com^
 ||lightbet.com^
@@ -98450,6 +98457,7 @@
 ||majsterkuje-pasja.online^
 ||partneri.majstervposteli.sk^
 ||partner.majtki.cz^
+||majucash.xyz^
 ||vt.mak.com^
 ||makasiy4.xyz^
 ||make-cute-faces.blogspot.com^
@@ -109692,7 +109700,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -109706,10 +109713,12 @@
 ||navi66.com^
 ||navi66.ru^
 ||navi67.ru^
+||navi68.com^
 ||navi7.com^
 ||navi72.com^
 ||navi72.ru^
 ||navi74.com^
+||navi75.ru^
 ||navi77.com^
 ||navi78.ru^
 ||navi8.com^
@@ -132209,6 +132218,7 @@
 ||qqmhh.com^
 ||vinted-pl-gj32d.qqmzan.top^
 ||www.vinted-pl-gj32d.qqmzan.top^
+||qqoomtwod.com^
 ||shop.qqqjjss.shop^
 ||qqqwes.com^
 ||qqs13.info^
@@ -144639,6 +144649,8 @@
 ||vinted-pl-gj32d.sihailin.top^
 ||sihighlyrecom.xyz^
 ||sihugoods.xyz^
+||sikapo.top^
+||sikaq.top^
 ||a8clk.sikatoru.com^
 ||ehedwd.sikayetvar.com^
 ||cyclops.sikelia.info^
@@ -150611,6 +150623,7 @@
 ||dc.stenaline.ru^
 ||dc.stenaline.se^
 ||dc.stenalinetravel.com^
+||stenchyouthful.com^
 ||stengeholt.com^
 ||stenographs.info^
 ||marketing.stentel.com^
@@ -163517,6 +163530,7 @@
 ||images.info.tupperware.pt^
 ||tupropiopan.com^
 ||tupwiwm.com^
+||tuqgtpirrtuu.com^
 ||tuqnwz.icu^
 ||tuqopea.com^
 ||tur-tur-key.com^
@@ -163543,6 +163557,7 @@
 ||turbogrosz24.com^
 ||turboinfo.click^
 ||turbolion.io^
+||turbolit.biz^
 ||events.turbosquid.com^
 ||turbostats.xyz^
 ||turbotrck.art^
@@ -164715,6 +164730,7 @@
 ||ui02.com^
 ||ui37.net^
 ||ui3o.skin^
+||uiatkc.xyz^
 ||futursalumnes.uic.es^
 ||uidapi.com^
 ||uidhealth.com^
@@ -169469,6 +169485,7 @@
 ||get.videokits.com^
 ||videoklass.ru^
 ||vst.videolink.site^
+||videolute.biz^
 ||videonews247.net^
 ||videonow.ru^
 ||videoo.tv^
@@ -174993,6 +175010,7 @@
 ||mdws.wetaskiwincreditunion.com^
 ||services.wetek.com^
 ||wetlinepursuing.com^
+||wetlwse.top^
 ||wetpeachcash.com^
 ||ads.wetpussy.sexy^
 ||wetrack.it^
