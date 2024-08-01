@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240801002533
-! Last modified: 2024/08/01 00:25:33
-! Blocked domains: 180330
+! Version: 20240801091237
+! Last modified: 2024/08/01 09:12:37
+! Blocked domains: 180360
 ! unBlocked domains: 47
 !
 ||05prok8.com^
@@ -5274,6 +5274,7 @@
 ||acquitfamouscavity.com^
 ||acquitjeans.com^
 ||acrasiatickles.com^
+||acrelicenseblown.com^
 ||acrepantherrecite.com^
 ||acrh.be^
 ||acridangle.com^
@@ -15544,7 +15545,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -17242,6 +17243,7 @@
 ||recs.atgsvcs.com^
 ||static.atgsvcs.com^
 ||athbzeobts.com^
+||atheegrun.net^
 ||atheismcard.com^
 ||atheismperplex.com^
 ||images.response.athenahealth.com^
@@ -29367,6 +29369,7 @@
 ||btkwlsfvc.com^
 ||link.btl.vin^
 ||btloader.com^
+||btmarketing.it^
 ||btnativedirect.com^
 ||btnativenav.com^
 ||web.btncdn.com^
@@ -37957,6 +37960,9 @@
 ||com-host.info^
 ||booking.com-hotel-extrnet.com^
 ||com-id01251.info^
+||com-id129041.info^
+||com-id15421.info^
+||com-id16313.info^
 ||booklng.com-id16385.info^
 ||www.booklng.com-id16385.info^
 ||com-id1800853.com^
@@ -42816,6 +42822,7 @@
 ||d2ox6x0y9xhicd.cloudfront.net^
 ||d2p3vqj5z5rdwv.cloudfront.net^
 ||d2p8taqyjofgrq.cloudfront.net^
+||d2pozfvrp52dk4.cloudfront.net^
 ||d2pppxxtaciku9.cloudfront.net^
 ||d2pxbld8wrqyrk.cloudfront.net^
 ||d2q52i8yx3j68p.cloudfront.net^
@@ -43337,6 +43344,7 @@
 ||affilo.damoda.cz^
 ||dampapproach.com^
 ||dampdock.com^
+||dampedvisored.com^
 ||dampferkreisel.com^
 ||dampingorca.lat^
 ||dampozyczke.pl^
@@ -44195,6 +44203,7 @@
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dca.nl^
+||dcad1d97.xyz^
 ||dcai7bdiz5toz.cloudfront.net^
 ||dad-api.dcard.tw^
 ||dcbbwymp1bhlf.cloudfront.net^
@@ -45956,6 +45965,7 @@
 ||deviceworkshop.com^
 ||deviela.com^
 ||devifoodgrains.com^
+||pop.devil.services^
 ||affiliates.devilfishpartners.com^
 ||devilishdinner.com^
 ||devilnonamaze.com^
@@ -61144,6 +61154,7 @@
 ||rook.flowlens.com^
 ||flowln.com^
 ||ihi.flowplayer.com^
+||pmi.flowplayer.com^
 ||flowpubdom.info^
 ||s4e8.flowrette.com^
 ||flowsearch.info^
@@ -70518,6 +70529,8 @@
 ||www.haag0some.com^
 ||s2s.haan.ai^
 ||ds.haaretz.co.il^
+||services.haaretz.co.il^
+||services.haaretz.com^
 ||data-83d91ea519.haas-mediengruppe.de^
 ||smetrics.haband.com^
 ||receiver.habby.mobi^
@@ -96398,6 +96411,7 @@
 ||cdn.lqm.io^
 ||h.lqm.io^
 ||tracking.lqm.io^
+||lqtiwevsan.com^
 ||tr1.lr001.net^
 ||tr1.lr002.net^
 ||tr1.lr003.net^
@@ -98047,6 +98061,7 @@
 ||maio.jp^
 ||maionesemrrobert.com.br^
 ||maioux.xyz^
+||maipheeg.com^
 ||maipofok.net^
 ||maiptica.com^
 ||mairbeets.com^
@@ -104204,6 +104219,7 @@
 ||mlllllllmmm.ovh^
 ||mllllllmmm.ovh^
 ||mlllllmmmm.ovh^
+||mllqfiucttnuzn.com^
 ||mlm.de^
 ||mlnadvertising.com^
 ||mlnnssapi.com^
@@ -106899,6 +106915,7 @@
 ||cattle.musikschule-bregenzerwald.at^
 ||ffrmwn.musinsa.com^
 ||tracking.musixmatch.com^
+||musk-event.xyz^
 ||musk-project.com^
 ||musk.plus^
 ||musk.site^
@@ -108959,7 +108976,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -112890,6 +112906,7 @@
 ||nrs6ffl9w.com^
 ||sfpd.nrsgroup.co.jp^
 ||mktg.nrucfc.coop^
+||nrxdmssm.com^
 ||www.nrynhss.cn^
 ||a8aspconv.ns-air.net^
 ||a8aspconv.ns-softbank-hikari.com^
@@ -116272,6 +116289,7 @@
 ||opcharizardon.com^
 ||opchikoritar.com^
 ||opclauncheran.com^
+||opclck.com^
 ||tr.newsletter.opcoep.fr^
 ||opdavplcufic.com^
 ||smetrics.opdivo.com^
@@ -132578,6 +132596,7 @@
 ||rapradwye.live^
 ||rapt.com^
 ||affiliate-api.raptive.com^
+||affiliate-cdn.raptive.com^
 ||t.raptorsmartadvisor.com^
 ||go.raptortech.com^
 ||rapturemeddle.com^
@@ -139282,6 +139301,7 @@
 ||www.dashboard.scotiacolpatrri.app^
 ||scotiahelp-loginscotia.com^
 ||scotiaonline-loginscotia.com^
+||scotizeoperae.com^
 ||ads.scott-sports.com^
 ||scottishexaminer.com^
 ||links.banking.scottishwidows.co.uk^
@@ -140652,6 +140672,7 @@
 ||batiandgo.server-prod.com^
 ||server2bkm.com^
 ||server4ads.com^
+||fgn-plausible.serverable.com^
 ||serverads.net^
 ||servereplacementcycle.com^
 ||serverfritterdisability.com^
@@ -145233,6 +145254,7 @@
 ||solreton.xyz^
 ||annoncer.solrodnyt.dk^
 ||solroed.com^
+||solrtrqaitnjy.com^
 ||solsticeinfotech.com^
 ||solsticeserenity.cam^
 ||solsticesongbird.click^
@@ -146706,6 +146728,7 @@
 ||sprostowania.click^
 ||hosting.sproutbuilder.com^
 ||sproutingbag.com^
+||sprtnd.com^
 ||b.sprucehealth.com^
 ||cat.sprucely.net^
 ||smetrics.sprucemoney.com^
@@ -154270,6 +154293,7 @@
 ||theenfu.com^
 ||mp.theepochtimes.com^
 ||theepsie.com^
+||theeptoah.com^
 ||theerrortool.com^
 ||theetholri.xyz^
 ||www.theeventchronicle.com^
@@ -159693,6 +159717,7 @@
 ||trockedtawpy.top^
 ||trocsaw.xyz^
 ||trodkskdmp.site^
+||trodspivery.com^
 ||trofvid.com^
 ||bannerexchange.troglod.com^
 ||adserver.trojaner-info.de^
@@ -159843,6 +159868,7 @@
 ||truecrypt.fr^
 ||truecrypt.it^
 ||truecrypt.pl^
+||e.truedata.co^
 ||truedevelopments.ca^
 ||cure.trueface.org^
 ||trueffect.com^
@@ -161946,6 +161972,7 @@
 ||nerldv.ullapopken.pl^
 ||ullasa.click^
 ||web.ullifeandhealth.com^
+||ullucupuces.click^
 ||ulmdb.cn^
 ||ulmoyc.com^
 ||ulmujev.com^
@@ -165483,6 +165510,7 @@
 ||odds.vebo.xyz^
 ||vebupaakue.live^
 ||vebv8me7q.com^
+||vecggfp.icu^
 ||vechain.foundation^
 ||veclaim.com^
 ||vecohgmpl.info^
@@ -172777,6 +172805,7 @@
 ||willysy.com^
 ||wilmaconfort.com^
 ||marketing.wilmingtonandbeaches.com^
+||wilrimowpaml.com^
 ||go.wilshirefp.com^
 ||wilslide.com^
 ||smetrics.wilson.com^
@@ -176290,6 +176319,7 @@
 ||xuffojr.com^
 ||xugodaeliy.life^
 ||xuhuqeokau.live^
+||xukpqemfs.com^
 ||xukpresesmr.info^
 ||xukuruifuo.live^
 ||xuldtcip.icu^
