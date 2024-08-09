@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240809162757
-! Last modified: 2024/08/09 16:27:57
-! Blocked domains: 177148
+! Version: 20240810002620
+! Last modified: 2024/08/10 00:26:20
+! Blocked domains: 177154
 ! unBlocked domains: 47
 !
 ||003games.com^
@@ -12313,6 +12313,7 @@
 ||tr.info.annoncesbateau.com^
 ||ads.annonsbladet.com^
 ||annonseweb.s3-eu-west-1.amazonaws.com^
+||annonsserver.se^
 ||annopause.com^
 ||annotationdiverse.com^
 ||annotationmadness.com^
@@ -14975,7 +14976,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -27486,6 +27487,7 @@
 ||metrics.boq.com.au^
 ||smetrics.boq.com.au^
 ||1121.boqiansw.com^
+||boqmjxtkwn.com^
 ||boqsxdpx.xyz^
 ||data.marketing.boradetop.com.br^
 ||borasurucukursu.com^
@@ -61838,6 +61840,7 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -86138,6 +86141,7 @@
 ||kevinschartner.com^
 ||kevinsmithson.com^
 ||kevinsnow.online^
+||kewal.shop^
 ||rusekgrzegorz.kewinkamil.nieruchomosci.pl^
 ||www.rusekgrzegorz.kewinkamil.nieruchomosci.pl^
 ||kewoirenfx.site^
@@ -106938,6 +106942,7 @@
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
+||navi34.com^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
@@ -109412,7 +109417,6 @@
 ||nip69.com^
 ||nip8.com^
 ||nip84.com^
-||nip89.com^
 ||nip9.com^
 ||mds.nipa.co.th^
 ||secure.nipe4head.com^
@@ -141727,6 +141731,7 @@
 ||top.softweb.ru^
 ||softwebinars.com^
 ||go.softwebsolutions.com^
+||softzspot.com^
 ||smetrics.sofy.jp^
 ||smetrics.sofygirls.com^
 ||adx.sogaha.cn^
@@ -163655,6 +163660,7 @@
 ||zxqrdm.vinomofo.com^
 ||vinosedermol.com^
 ||vinpost.life^
+||vinsgcs.com^
 ||vinshisolutions.com^
 ||vinsight.de^
 ||data.vinsolutions.com^
