@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240810002620
-! Last modified: 2024/08/10 00:26:20
-! Blocked domains: 177154
+! Version: 20240810090738
+! Last modified: 2024/08/10 09:07:38
+! Blocked domains: 177160
 ! unBlocked domains: 47
 !
 ||003games.com^
@@ -16674,6 +16674,7 @@
 ||aterhouseoyop.info^
 ||aterroppop.com^
 ||atesla.ro^
+||atethebenefitsshe.com^
 ||bbva-preview.atfinity.app^
 ||atg.se^
 ||atgallader.com^
@@ -43250,6 +43251,7 @@
 ||d3ngt858zasqwf.cloudfront.net^
 ||d3numuoibysgi8.cloudfront.net^
 ||d3nvrqlo8rj1kw.cloudfront.net^
+||d3nz96k4xfpkvu.cloudfront.net^
 ||d3o9njeb29ydop.cloudfront.net^
 ||d3oep4gb91kpuv.cloudfront.net^
 ||d3ohee25hhsn8j.cloudfront.net^
@@ -65138,6 +65140,7 @@
 ||geziyd.com^
 ||gezlev.com.ua^
 ||www3.gfa.org^
+||gfchck.xyz^
 ||gfdfegg.cn^
 ||gfdfgfgr.cn^
 ||gfdgfhh.cn^
@@ -76272,6 +76275,7 @@
 ||smetrics.ilovematlab.cn^
 ||ilovemobi.com^
 ||marketing.iloveny.com^
+||evt.ilovepdf.com^
 ||ilovetoronto.xyz^
 ||ilovevitaly.com^
 ||ilovevitaly.ru^
@@ -87281,6 +87285,7 @@
 ||sxjfhh.knoxnews.com^
 ||knoxtimes.com^
 ||marketing.knoxville.org^
+||knuinws.icu^
 ||knurleddeblock.guru^
 ||knutenegros.pro^
 ||knxabzznddtc.com^
@@ -138982,6 +138987,7 @@
 ||signalspotsharshly.com^
 ||signalsuedejolly.com^
 ||marketing.signaltheory.com^
+||signamentswithded.com^
 ||signatu.com^
 ||signature-web.com^
 ||signaturecommercialsolutions.com^
