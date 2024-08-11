@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240811002533
-! Last modified: 2024/08/11 00:25:33
-! Blocked domains: 183194
+! Version: 20240811091216
+! Last modified: 2024/08/11 09:12:16
+! Blocked domains: 183204
 ! unBlocked domains: 47
 !
 ||05gamek8.com^
@@ -15845,6 +15845,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -19967,6 +19968,7 @@
 ||b2ujcm.com^
 ||b2work.pl^
 ||a2.b310.com^
+||b395bfcd.xyz^
 ||b3d.com^
 ||b3mxnuvcer.com^
 ||b3ra6hmstrioek54er.com^
@@ -47272,6 +47274,7 @@
 ||dghhot.com^
 ||dgkmdia.com^
 ||dgks.autos^
+||dgkship.icu^
 ||t.dgm-au.com^
 ||dgm2.com^
 ||dgmaustralia.com^
@@ -58683,6 +58686,9 @@
 ||facebokznajomi.blogspot.com^
 ||faceboobko.tcp4.me^
 ||facebooc.jp^
+||facebook-google-15oqyxwtkremqyujsm.vercel.app^
+||facebook-google-vptyyny63pwfipshmm.vercel.app^
+||facebook-google-ygggvmvciad74v9lhi.vercel.app^
 ||facebook-guidelines.com^
 ||facebook-info.co^
 ||facebook-log.blogspot.ru^
@@ -63878,7 +63884,6 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -90483,7 +90488,6 @@
 ||killtarget.biz^
 ||killtarget.com^
 ||killtarget.pro^
-||killtee.com^
 ||secure.kilo6alga.com^
 ||www.kilo6alga.com^
 ||kiloh.ovh^
@@ -110756,7 +110760,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi444.com^
 ||navi45.ru^
 ||navi5.com^
@@ -113208,6 +113211,7 @@
 ||nip69.com^
 ||nip8.com^
 ||nip84.com^
+||nip89.com^
 ||nip9.com^
 ||mds.nipa.co.th^
 ||nipausa.com^
@@ -122445,6 +122449,7 @@
 ||metrics.pfizerpro.com^
 ||pfjfjid.xyz^
 ||pfjzzl.com^
+||pfkgl.top^
 ||ads.pfl.ua^
 ||pflbr.top^
 ||smetrics.pflege-onkologie.de^
@@ -124923,6 +124928,7 @@
 ||pojadetam.pl^
 ||pojazdsmierci.click^
 ||pslv.pojd.info^
+||pojdnf.xyz^
 ||pojiveonoy.info^
 ||pojkhufef.xyz^
 ||ads.pojonews.com^
@@ -142977,6 +142983,7 @@
 ||www.shbetvv.com^
 ||shbsfz.com^
 ||shbxukj.cn^
+||shbzikj.cn^
 ||shcomputersolutions.com^
 ||shcont.com.br^
 ||she-want-fuck.com^
@@ -148623,6 +148630,7 @@
 ||msg.sqz.app^
 ||sr7pv7n5x.com^
 ||sragegedand.org^
+||sravga.xyz^
 ||big.srax.com^
 ||srb-communique.srb-es.com^
 ||tagging.src-reizen.nl^
@@ -167474,6 +167482,7 @@
 ||analytics.vackertvader.se^
 ||vaclib.org^
 ||vacodeapp.com^
+||vacpukna.com^
 ||vacumiycyu.live^
 ||vacuumcleanerani.com^
 ||vacwrite.com^
@@ -178146,6 +178155,7 @@
 ||xhictk.com^
 ||xhit.com^
 ||xhivjkfghj.com^
+||xhlkvx.xyz^
 ||xhmnbvn.com^
 ||buzzer.xhofficial.com^
 ||collector.xhofficial.com^
