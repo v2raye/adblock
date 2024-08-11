@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240811162531
-! Last modified: 2024/08/11 16:25:31
-! Blocked domains: 181777
+! Version: 20240812002503
+! Last modified: 2024/08/12 00:25:03
+! Blocked domains: 181781
 ! unBlocked domains: 47
 !
 ||05gamek8.com^
@@ -336,6 +336,7 @@
 ||11bet.vin^
 ||11bet.win^
 ||11betvnd.com^
+||11dyw.com^
 ||data-664e19af6d.11freunde.de^
 ||data-d687fc47c0.11freunde.de^
 ||iqmetrics.11freunde.de^
@@ -47485,6 +47486,7 @@
 ||disinheritbottomwealthy.com^
 ||disintegratenose.com^
 ||disintegrateredundancyfen.com^
+||diskaa.com^
 ||diskdiggerapk.com^
 ||dislikequality.com^
 ||disloyalmeddling.com^
@@ -82788,6 +82790,7 @@
 ||irtyc.com^
 ||web.iru.org^
 ||irun.org^
+||irutvnco.top^
 ||ox.irv.si^
 ||consent.irvinecompany.com^
 ||aa.irvinecompanyapartments.com^
@@ -112280,6 +112283,7 @@
 ||nordsarthe.com^
 ||sid.nordstrom.com^
 ||nordtales.com^
+||applytics.nordvpn.com^
 ||cm.nordvpn.com^
 ||go.nordvpn.net^
 ||norentisol.com^
