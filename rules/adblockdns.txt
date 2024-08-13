@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240813162647
-! Last modified: 2024/08/13 16:26:47
-! Blocked domains: 184659
+! Version: 20240814002538
+! Last modified: 2024/08/14 00:25:38
+! Blocked domains: 184665
 ! unBlocked domains: 47
 !
 ||dppd.0053122.xyz^
@@ -7366,6 +7366,7 @@
 ||ads-click.com^
 ||ads-connect.com^
 ||ads-dot-fbc-web-2018.uc.r.appspot.com^
+||cdn.ads-flipp.com^
 ||ads-game-187f4.firebaseapp.com^
 ||ads.ads-goodstream.homes^
 ||ads-i2i.jp^
@@ -33121,6 +33122,7 @@
 ||cdnny.com^
 ||cdnondemand.org^
 ||i.cdnpark.com^
+||t3.cdnpure.com^
 ||cdnquality.com^
 ||cdnral.com^
 ||cdnreference.com^
@@ -34584,6 +34586,7 @@
 ||chilyregistrycleaner.com^
 ||chimamanndgaocozmi.com^
 ||chimbleceige.com^
+||event-router.chime.com^
 ||alt63.chimeratool.com^
 ||hvdt8.chimeratool.com^
 ||chimneylouderflank.com^
@@ -91779,6 +91782,7 @@
 ||ad.krutilka.ru^
 ||krutilki.ru^
 ||krutona.com^
+||krutvncd.top^
 ||krux.net^
 ||cyber-folks.kruzineser.org^
 ||www.cyber-folks.kruzineser.org^
@@ -158745,6 +158749,7 @@
 ||thjwxz.xyz^
 ||images.information.thmarch.co.uk^
 ||thnqemehtyfe.com^
+||thnuvgme.icu^
 ||thoalugoodi.com^
 ||thoartuw.com^
 ||swordtail.thocstock.com^
@@ -168646,6 +168651,7 @@
 ||uudaikhachhang-tructuyen.com.vn^
 ||uudzfbzthj.com^
 ||uuff.com^
+||uuiaoq.top^
 ||uuidksinc.net^
 ||uujdd.github.io^
 ||uujhveglpo.xyz^
