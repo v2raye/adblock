@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240815002839
-! Last modified: 2024/08/15 00:28:39
-! Blocked domains: 180277
+! Version: 20240815090529
+! Last modified: 2024/08/15 09:05:29
+! Blocked domains: 180287
 ! unBlocked domains: 47
 !
 ||0llx.0373825492.xyz^
@@ -8215,6 +8215,7 @@
 ||advrich.com^
 ||advrts.s3.amazonaws.com^
 ||advrush.com^
+||advscdn.com^
 ||advservert.com^
 ||advsmedia.net^
 ||advsnx.net^
@@ -15206,6 +15207,7 @@
 ||supportmetrics.apple.com^
 ||weather-analytics-events.apple.com^
 ||widgets.itunes.apple.com^
+||xp.apple.com^
 ||securemetrics.apple.com.cn^
 ||apple012.com^
 ||fpb1.apple886.com^
@@ -20541,6 +20543,7 @@
 ||bup.bankofamerica.com^
 ||click.customerassist.bankofamerica.com^
 ||click.ealerts.bankofamerica.com^
+||glassbox-hlx-igw.bankofamerica.com^
 ||metrics.bankofamerica.com^
 ||smetrics.bankofamerica.com^
 ||smetrics.merch.bankofamerica.com^
@@ -28472,6 +28475,7 @@
 ||bowlprick.com^
 ||bowlpromoteintimacy.com^
 ||bowlsolicitor.com^
+||bowoprf.icu^
 ||mdws.bowvalleycu.com^
 ||analytics.box.com^
 ||client-log.box.com^
@@ -54518,6 +54522,7 @@
 ||enfreine.com^
 ||eng-sub.xyz^
 ||ampmetrics.engadget.com^
+||guce.engadget.com^
 ||sdk.engage.co^
 ||engage.com^
 ||tracker.engageclick.com^
@@ -83580,6 +83585,7 @@
 ||jrfwfwk.com^
 ||www.jrhaigou.com^
 ||jriravntivf.com^
+||jrjtibez.icu^
 ||jrlybr.cn^
 ||loon.jrmyfranck.com^
 ||jrofvedr.xyz^
@@ -133989,6 +133995,7 @@
 ||rivalo.com^
 ||rivalpout.com^
 ||rivalry.com^
+||guce.rivals.com^
 ||rivalvictory.com^
 ||auth.rivarr.com^
 ||rivatedqualizebruisi.info^
@@ -140292,6 +140299,7 @@
 ||api.shbetvv.com^
 ||www.shbetvv.com^
 ||shbsfz.com^
+||shbzhkj.cn^
 ||shbzkgs.cn^
 ||shcomputersolutions.com^
 ||shcont.com.br^
@@ -152167,6 +152175,7 @@
 ||techcombank.hicam.net^
 ||cmp.techconnect.com^
 ||techconverter.com^
+||guce.techcrunch.com^
 ||marketing.techcxo.com^
 ||smetrics.techdata.com^
 ||solutions.techdata.com^
@@ -173372,6 +173381,7 @@
 ||wnrusisedprivatedq.info^
 ||wnrvrwabnxa.com^
 ||wnsr23js1.site^
+||wnstug.xyz^
 ||wnt-s0me-push.net^
 ||wnt-some-psh.net^
 ||wnt-some-push.com^
