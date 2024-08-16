@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240816002745
-! Last modified: 2024/08/16 00:27:45
-! Blocked domains: 176123
+! Version: 20240816090743
+! Last modified: 2024/08/16 09:07:43
+! Blocked domains: 176129
 ! unBlocked domains: 47
 !
 ||www.0321356934.com^
@@ -1362,6 +1362,7 @@
 ||2wink.com.au^
 ||tr.nl.2wls.net^
 ||2ww.me^
+||2x1gratis.com^
 ||2x2.kz^
 ||2x2mfeed.com^
 ||2x3x.com^
@@ -3331,7 +3332,6 @@
 ||99bithcoins.com^
 ||99box.com^
 ||99cheats.com^
-||99count.com^
 ||collector-api.99designs.com^
 ||99loz.xyz^
 ||p.99mssj.com^
@@ -37993,6 +37993,7 @@
 ||smetrics.crainsnewyork.com^
 ||crajeon.com^
 ||crakbanner.com^
+||crakedquartin.com^
 ||crakmedia.com^
 ||craktocous.com^
 ||craktraffic.com^
@@ -60550,6 +60551,7 @@
 ||m.futengbao.com.cn^
 ||futeratools.com^
 ||fhrpqp.futfanatics.com.br^
+||futharcconny.shop^
 ||futileharrystephen.com^
 ||futilepreposterous.com^
 ||futilereposerefreshments.com^
@@ -126317,10 +126319,12 @@
 ||pwxlbsie.icu^
 ||pwxtock.com^
 ||b.px-cdn.net^
+||collector-pxebumdlwe.px-cdn.net^
 ||collector-pxk3bezzfo.px-cdn.net^
 ||collector-pxrf8vapwa.px-cdn.net^
 ||collector-px12xk43jk.px-cloud.net^
 ||collector-px8fcgygk4.px-cloud.net^
+||collector-pxebumdlwe.px-cloud.net^
 ||collector-pxikkul2rm.px-cloud.net^
 ||collector-pxrf8vapwa.px-cloud.net^
 ||collector-pxu4k0s8nx.px-cloud.net^
@@ -128162,6 +128166,7 @@
 ||rassegnavermentino.it^
 ||rastreamentosedex.org^
 ||rastrobel.com.br^
+||rasurescaribou.com^
 ||analytics.rasyotek.com.tr^
 ||ratalslibra.com^
 ||ratcovertlicence.com^
@@ -174675,6 +174680,7 @@
 ||zailoanoy.com^
 ||zaimads.com^
 ||zainstniale24h.click^
+||zaipousu.net^
 ||zaistnialewatki.click^
 ||zaitaku-baito.com^
 ||zajazduzenka.pl^
