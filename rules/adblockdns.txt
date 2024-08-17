@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240817002827
-! Last modified: 2024/08/17 00:28:27
-! Blocked domains: 176463
+! Version: 20240817090528
+! Last modified: 2024/08/17 09:05:28
+! Blocked domains: 176496
 ! unBlocked domains: 47
 !
 ||0432.com^
@@ -4868,6 +4868,7 @@
 ||absorptionsuspended.com^
 ||abspeamode.live^
 ||abstortvarna.com^
+||ipgeolocation.abstractapi.com^
 ||abstractapps.com^
 ||abstractedamount.com^
 ||abstractedauthority.com^
@@ -11680,6 +11681,7 @@
 ||1t2.alpin.de^
 ||code.alpin.de^
 ||data-89254d05a3.alpin.de^
+||es.alpin.de^
 ||vates.alpin.de^
 ||alpine-vpn.com^
 ||alpineactor.com^
@@ -17990,6 +17992,7 @@
 ||tr.info.aussois.com^
 ||austaihauna.com^
 ||austaits.xyz^
+||austaptool.net^
 ||metrics.austar.com.au^
 ||austeemsa.com^
 ||olx-pol-kxlsw2.austenyo.shop^
@@ -21873,6 +21876,7 @@
 ||cdn.beaconpush.com^
 ||server1.beaconpush.com^
 ||ir.beaconroofingsupply.com^
+||sgmnt.beacons.ai^
 ||beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com^
 ||beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com^
 ||beaconstreetservices.com^
@@ -29622,6 +29626,7 @@
 ||browserr.top^
 ||browsers.support^
 ||browsersjsfiles.com^
+||stats.browsertrix.com^
 ||browsesafe-page.info^
 ||browsfincandidate.com^
 ||xdadevelopers.browsi.mobi^
@@ -33632,6 +33637,7 @@
 ||chatchu.jp^
 ||track.chateauberne-vin.com^
 ||oms.chatelaine.com^
+||ab.chatgpt.com^
 ||access.chathamfinancial.com^
 ||s.chatie.ai^
 ||chatigabe.com^
@@ -47884,6 +47890,7 @@
 ||dreamlog.ru^
 ||dreamnews.biz^
 ||dreampay4u.com^
+||cmp.dreamplusgames.com^
 ||findomestic.dreampooldubai.com^
 ||dreamsandsleep.com^
 ||dreamsaukn.org^
@@ -48715,6 +48722,7 @@
 ||securecookies.dustinhome.se^
 ||securecookiesdustininfo.dustinhome.se^
 ||dustratebilate.com^
+||dustupsstekan.com^
 ||dustyautoabduct.com^
 ||dustydime.com^
 ||dustyhammer.com^
@@ -51862,6 +51870,8 @@
 ||embeamratline.top^
 ||js.embedarticle.com^
 ||widget.embedarticle.com^
+||data.embeddables.com^
+||sessions.embeddables.com^
 ||embeddedanalytics.com^
 ||embeddedblackbox.com^
 ||embedx.name^
@@ -59977,6 +59987,7 @@
 ||sanalytics.fnbsd.com^
 ||fncash.com^
 ||fnd-inc.com^
+||fndrsp.net^
 ||fnelqqh.com^
 ||fnjoomqa.icu^
 ||fnkyyrgraizy.com^
@@ -62989,6 +63000,7 @@
 ||gaghygienetheir.com^
 ||gagitaa.com^
 ||gagnifie.com^
+||gahejiao.com^
 ||gahelrasoul.com^
 ||go.gaia.com^
 ||trk.gaiamilano.com^
@@ -64751,6 +64763,7 @@
 ||wildfowl.getmoneyoff.com^
 ||y.getmorelocalhelp.com^
 ||getmspcodes.com^
+||getmsx2.com^
 ||getmyads.com^
 ||getmyads24.com^
 ||clk.getmycashcard.com^
@@ -75111,6 +75124,7 @@
 ||www.apps.id.net^
 ||ff.memberships-garena.id.vn^
 ||member.freefiregarena.id.vn^
+||yandex.avito.avito.pay.booking.id05196219.com^
 ||blocket.id322.com^
 ||id5-sync.com^
 ||dhl-de.id532321.info^
@@ -83753,6 +83767,7 @@
 ||kickchecking.com^
 ||data-3cd8fb3825.kicker.de^
 ||data-e69b3d32a9.kicker.de^
+||es.kicker.de^
 ||jdgtgb.kicker.de^
 ||shop.kicker.de^
 ||ues.kicker.de^
@@ -88773,6 +88788,7 @@
 ||lidlkampanija.com^
 ||usermetrics.lidlplus.com^
 ||haoofb.lidlviaggi.it^
+||lido-pass.org^
 ||www.lidolepalme.it^
 ||shop.lids.ca^
 ||lidsaich.net^
@@ -104410,6 +104426,7 @@
 ||nbet.vip^
 ||nbet.win^
 ||nbet88.org^
+||nbfsvreu.icu^
 ||www.nbgcw.com^
 ||nbgmr.cn^
 ||trk.nbgrandbonusnow.com^
@@ -106907,6 +106924,7 @@
 ||nip69.com^
 ||nip8.com^
 ||nip84.com^
+||nip85.com^
 ||nip89.com^
 ||nip9.com^
 ||mds.nipa.co.th^
@@ -116371,6 +116389,7 @@
 ||pinion.gg^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamdana.live^
 ||pinjamteman.top^
 ||pinjamuang.top^
 ||ebgagg.pink.rs^
@@ -118676,6 +118695,8 @@
 ||posindoesia.top^
 ||posinpl.top^
 ||positiiveenergy.site^
+||positional-bucket.com^
+||positional.ai^
 ||positionavailreproach.com^
 ||positioner.info^
 ||info.positioninteractive.com^
@@ -124820,6 +124841,7 @@
 ||pydybuu4.pro^
 ||pyerc.com^
 ||pygopodwrytailbaskett.sbs^
+||pygopustimawa.com^
 ||pyh-news.click^
 ||pyknrhm5c.com^
 ||comunicaciones.pymas.com.co^
@@ -127420,7 +127442,6 @@
 ||secure.checkout.re-brand-de.com^
 ||re-captha-version-3-243.buzz^
 ||re-captha-version-3-263.buzz^
-||re-captha-version-3-277.buzz^
 ||re-captha-version-3-29.top^
 ||re-captha-version-3-33.top^
 ||re-experiment.sbs^
@@ -127866,6 +127887,7 @@
 ||reconstructalliance.com^
 ||reconstructcomparison.com^
 ||reconstructshutdown.com^
+||help.record-x-center.com^
 ||mail.record360.com^
 ||recorded-email.com^
 ||recordedthereby.com^
@@ -131857,6 +131879,7 @@
 ||rudderwebmy.com^
 ||rudimentarydelay.com^
 ||rudisell614-7812goldie755.pages.dev^
+||rudolphfly.com^
 ||ruecksendungen-gratis.com^
 ||ruefulauthorizedguarded.com^
 ||ruefultest.com^
@@ -136642,6 +136665,7 @@
 ||api.shbetvv.com^
 ||www.shbetvv.com^
 ||shbsfz.com^
+||shbzgkj.cn^
 ||shbzigs.cn^
 ||shcomputersolutions.com^
 ||shcont.com.br^
@@ -142286,6 +142310,7 @@
 ||webmail.sportechrnexico.com^
 ||sportevents.news^
 ||sportfanatik.com^
+||sportfirestore.com^
 ||sportfishermanudner.life^
 ||sportfocal.com^
 ||partneri.sportfotbal.cz^
@@ -144795,6 +144820,7 @@
 ||styfun.com^
 ||affilbox.stygremvkleci.cz^
 ||seyfwl.styl.pl^
+||papi.stylar.ai^
 ||stylartykulu.click^
 ||tracking.style24.it^
 ||sponsor.styleblueprint.com^
@@ -147757,6 +147783,7 @@
 ||taumeln.com^
 ||iuxzgl.tauntonleisure.com^
 ||taurse.com^
+||taurunperch.shop^
 ||wtdpkq.tausendkind.de^
 ||tauvoojo.net^
 ||tavelscape.com^
@@ -152194,6 +152221,7 @@
 ||toolbotx.com^
 ||toolcapital.com^
 ||toolcheat.com^
+||tooledvacant.com^
 ||solutions.toolepeet.com^
 ||go.toolingu.com^
 ||www.toolingu.com^
@@ -155653,6 +155681,7 @@
 ||to.tryreviveclublifestyle.com^
 ||to.tryrevivelifestylebook.com^
 ||to.tryreviveskylifestyle.com^
+||proxy.trysavvy.com^
 ||pd.trysera.com^
 ||trk.tryshameless.com^
 ||clk.trysight.care^
@@ -157559,6 +157588,7 @@
 ||uloaludu.xyz^
 ||ulogin-stats.ru^
 ||ulogix.ru^
+||uloscw.xyz^
 ||ulourgaz.net^
 ||advert.uloz.to^
 ||ulozeniemapy.click^
@@ -158436,6 +158466,7 @@
 ||unsaltyalemmal.com^
 ||unsdmding.site^
 ||unse4u.com^
+||unseamssafes.com^
 ||unseenrazorcaptain.com^
 ||unseenreport.com^
 ||unseenshingle.com^
@@ -164909,6 +164940,7 @@
 ||vwthethao.club^
 ||vwthethao.com^
 ||vwthethao.net^
+||vwvatp.xyz^
 ||vwviet.com^
 ||vww-facebook.com.vn^
 ||vwweb.xyz^
@@ -165534,6 +165566,7 @@
 ||warelilhouse-specp.xyz^
 ||stats.warenform.de^
 ||warepairy.com^
+||waresusmiss.com^
 ||warezaccess.com^
 ||warezrockstar.xyz^
 ||warfarerewrite.com^
