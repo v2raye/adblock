@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240821162753
-! Last modified: 2024/08/21 16:27:53
-! Blocked domains: 183100
+! Version: 20240822002737
+! Last modified: 2024/08/22 00:27:37
+! Blocked domains: 183122
 ! unBlocked domains: 47
 !
 ||0lx.02154812.xyz^
@@ -51888,6 +51888,7 @@
 ||earplugmolka.com^
 ||smetrics.earpros.com^
 ||earringsatisfiedsplice.com^
+||earshambitty.com^
 ||earth-ling.org^
 ||a8.earth-shiho.com^
 ||earth1ygr11n.xyz^
@@ -100613,6 +100614,7 @@
 ||app.me4u.ai^
 ||me6q8.top^
 ||me7x.site^
+||meableabede.click^
 ||meadowaerial.com^
 ||communications.meadowbrook.com^
 ||meadowdocumentcaprizecaprize.com^
@@ -136253,6 +136255,7 @@
 ||rktu.com^
 ||jiu.rktupt.cn^
 ||rkwithcatuk.org^
+||rkwxfi.xyz^
 ||mbox-ibox00.rkyatech.com^
 ||rkymfevzeq.com^
 ||rl3.net^
@@ -167698,6 +167701,7 @@
 ||valtontyler.com^
 ||valuable.one^
 ||valuableenquiry.com^
+||valuatesharki.com^
 ||valuationbothertoo.com^
 ||cache1.value-domain.com^
 ||valuead.com^
@@ -176804,6 +176808,23 @@
 ||wwew.worldinfo-lo.top^
 ||worldinform.ru^
 ||worldjailbreak.com^
+||coin.worldkolf.info^
+||goog.worldkolf.info^
+||kiik.worldkolf.info^
+||kik.worldkolf.info^
+||mom.worldkolf.info^
+||news.worldkolf.info^
+||non.worldkolf.info^
+||ollp.worldkolf.info^
+||ouo.worldkolf.info^
+||rur.worldkolf.info^
+||tem.worldkolf.info^
+||uou.worldkolf.info^
+||vesu.worldkolf.info^
+||vov.worldkolf.info^
+||wew.worldkolf.info^
+||xoi.worldkolf.info^
+||yuy.worldkolf.info^
 ||share.worldleaguelive.com^
 ||worldlever.com^
 ||info.worldlink-us.com^
@@ -180792,6 +180813,7 @@
 ||yterxv.com^
 ||ytezym.xyz^
 ||ytflix.club^
+||ytghtq.xyz^
 ||ythingy.com^
 ||ythjhk.com^
 ||olx.ytilkan.shop^
