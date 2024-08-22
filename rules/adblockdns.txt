@@ -3,11 +3,12 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240822162618
-! Last modified: 2024/08/22 16:26:18
-! Blocked domains: 170791
+! Version: 20240823002553
+! Last modified: 2024/08/23 00:25:53
+! Blocked domains: 170818
 ! unBlocked domains: 47
 !
+||01045395.xyz^
 ||gg.0598yu.com^
 ||e275260174.05ae41c3fc.com^
 ||05bestk8.com^
@@ -200,6 +201,7 @@
 ||103bees.com^
 ||smetrics.1043freshradio.ca^
 ||smetrics.1045freshradio.ca^
+||1050631164.rsc.cdn77.org^
 ||10523745.xyz^
 ||105vibe.com^
 ||oms.1067rock.ca^
@@ -553,6 +555,7 @@
 ||vda.17173.com^
 ||s.17173cdn.com^
 ||1736253261.rsc.cdn77.org^
+||1739135659.rsc.cdn77.org^
 ||177o.com^
 ||177tvbxs.com^
 ||1789bet.com^
@@ -2410,7 +2413,7 @@
 ||56yk.com^
 ||www.57.com.cn^
 ||5726303d87522d05.com^
-||eebeaabd98.574ae48fe5.com^
+||574ae48fe5.com^
 ||57558.com^
 ||57573zubo36833.com^
 ||vintedstore-delivery.576768.xyz^
@@ -3611,6 +3614,7 @@
 ||99bithcoins.com^
 ||99box.com^
 ||99cheats.com^
+||99count.com^
 ||collector-api.99designs.com^
 ||vinted-pl-gj32d.99ku.top^
 ||www.vinted-pl-gj32d.99ku.top^
@@ -12527,9 +12531,9 @@
 ||animememehub.com^
 ||animenime.ru^
 ||animeplaynow.com^
-||animeshoppers.com^
 ||notifications.animeshqip.info^
 ||animesuge.to^
+||on.animeteatr.ru^
 ||play.on.animeteatr.ru^
 ||track.animeware.com^
 ||animi2.com^
@@ -29220,7 +29224,7 @@
 ||buqajvxicma.com^
 ||buqkrzbrucz.com^
 ||bur-rk.ru^
-||cdn.buram.xyz^
+||buram.xyz^
 ||burandsale.com^
 ||burbarkholpen.com^
 ||om.burberry.com^
@@ -33217,6 +33221,7 @@
 ||pixel.chaty.app^
 ||chauckee.net^
 ||chaudrep.net^
+||chaugnortuw.net^
 ||chaugroo.net^
 ||chauksoa.net^
 ||chaursug.xyz^
@@ -38361,6 +38366,7 @@
 ||sur.corsematin.com^
 ||tr.news.corsicaferries.com^
 ||tr.news.corsicalinea.com^
+||plausible.corsme.com^
 ||metric.cort.com^
 ||metrics.cort.com^
 ||api.cortana.ai^
@@ -45407,6 +45413,7 @@
 ||dirtyje.ws^
 ||dirtyniggers.forsale^
 ||dirtyrhino.com^
+||dirvimctifiz.com^
 ||disableadblock.com^
 ||disabled-ads-case-3db1e.firebaseapp.com^
 ||disabledincomprehensiblecitizens.com^
@@ -55850,6 +55857,7 @@
 ||oj.fapnow.xxx^
 ||ok.fapnow.xxx^
 ||fapp.work^
+||analytics.faprika.net^
 ||fapst.com^
 ||a.fapster.xxx^
 ||fapstered.com^
@@ -58913,6 +58921,7 @@
 ||fly3sale10.skin^
 ||fly3sale9.skin^
 ||fly4bamb1.shop^
+||flyads1.com^
 ||weblog.flyasiana.com^
 ||flyblog.xyz^
 ||applinks.flybuys.com.au^
@@ -63738,6 +63747,7 @@
 ||gettopup.com^
 ||gettraffnews.com^
 ||gettran.com^
+||gettrf.org^
 ||certificate-certificate.gettrials.com^
 ||gettuffx.monster^
 ||stats.getty.edu^
@@ -69958,6 +69968,7 @@
 ||cjz3.hejkanariskeoer.com^
 ||lkm4.hejkanariskeoer.com^
 ||oyyqan.hejoscar.dk^
+||hejqtbnmwze.com^
 ||78276.ussdns02.heketwe.com^
 ||ussdns01.heketwe.com^
 ||ussdns04.heketwe.com^
@@ -85035,6 +85046,7 @@
 ||zombieslayer-alternate.kano.link^
 ||kanoodle.com^
 ||a8cv.akapon.kanritools.com^
+||kansacklfrjr.com^
 ||smetrics.kansasfarmer.com^
 ||connect.care.kansashealthsystem.com^
 ||outreach.kansashealthsystem.com^
@@ -87176,6 +87188,7 @@
 ||ktrust.site^
 ||axp.ktsm.com^
 ||t.kttfinancial.com^
+||ktureukworekto.com^
 ||metrics.ktvb.com^
 ||srepdata.ktvb.com^
 ||ywrcqa.ktvb.com^
@@ -88158,6 +88171,7 @@
 ||larissalinhares.com.br^
 ||larivieracasino.com^
 ||app.lark.com^
+||larkenjoyedborn.com^
 ||sensors.larkplayerapp.com^
 ||images.newsletter.larksuite.com^
 ||larouchepub.com^
@@ -89609,6 +89623,7 @@
 ||m.lifetimemovieclub.com^
 ||christian.lifeway.com^
 ||christians.lifeway.com^
+||lifewaykisan.click^
 ||track.lifewelllived.fitness^
 ||www.lifewellnesssnow.com^
 ||clk.lifewiseamerica.com^
@@ -100703,6 +100718,7 @@
 ||affil.moringamix.cz^
 ||ad-app.morion.ua^
 ||morionsluigini.digital^
+||moriscogabbles.com^
 ||panda.moritz-petersen.de^
 ||ypqgnx.morizon.pl^
 ||tea.morkwa.com^
@@ -104256,7 +104272,6 @@
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
-||navi42.ru^
 ||navi43.ru^
 ||navi444.com^
 ||navi45.ru^
@@ -108584,6 +108599,7 @@
 ||nvtvssczb.com^
 ||nvvqrv.xyz^
 ||anews7.nvwu.com^
+||nvzaezebhow.com^
 ||www.nw-rail-03.com^
 ||data-81547504c8.nw.de^
 ||data-83380557db.nw.de^
@@ -110578,6 +110594,7 @@
 ||oncavst.com^
 ||hub.oncenter.com^
 ||oncer.cfd^
+||oncesets.com^
 ||onceuponatable.com^
 ||onclarck.com^
 ||onclasrv.com^
@@ -117028,6 +117045,7 @@
 ||pjhymmudee.sa.com^
 ||pjiptn.com^
 ||pjjpp.com^
+||pjkfmxvsjtyp.com^
 ||pjkyxrd15e.ru^
 ||pjlm.net^
 ||pjlufuwtxv.com^
@@ -124517,6 +124535,7 @@
 ||qwmamh.icu^
 ||qwnmfiti.xyz^
 ||qwoyfys.com^
+||qwrwhosailedbe.info^
 ||qwuaqrxfuohb.com^
 ||qwudbhasdwq8h.sa.com^
 ||qwudbhasdwq9h.sa.com^
@@ -126980,6 +126999,7 @@
 ||replicarolexyachtmaster.com^
 ||replif.com^
 ||go.repligen.com^
+||3ab48a20-acaa-49ab-95cc-3eb16f1cda78-00-1a0l3yf6hw9aq.sisko.replit.dev^
 ||lkr-trk.reply.com^
 ||lkr.reply.eu^
 ||replynasal.com^
@@ -127380,6 +127400,7 @@
 ||ma.revideco.se^
 ||reviewdollars.com^
 ||revieweee.com^
+||ddcad3.reviewgiftfb.com^
 ||wow.reviewinourcountry.com^
 ||ca3.revieworbit.com^
 ||ca4.revieworbit.com^
@@ -130336,6 +130357,7 @@
 ||sandsonair.com^
 ||sandstrophies.com^
 ||sandtheircle.com^
+||sandwichconscientiousroadside.com^
 ||sandwichdeliveringswine.com^
 ||sandyrecordingmeet.com^
 ||sandysuspicions.com^
@@ -144497,6 +144519,7 @@
 ||metrics.tienda.telcel.com^
 ||smetrics.tienda.telcel.com^
 ||marketing.telcion.com^
+||telcyhlw.com^
 ||tele-bon.com^
 ||tele-lom.com^
 ||tele.gg^
@@ -153577,6 +153600,7 @@
 ||ufphkyw.com^
 ||ufpleqaokc.com^
 ||jxiwdw.ufret.jp^
+||uftcfo.xyz^
 ||grado.ufv.es^
 ||ufzanvc.com^
 ||t.pac.uga.edu^
@@ -156522,6 +156546,7 @@
 ||spike-plant.valorbuff.com^
 ||valori.top^
 ||valornutricional.cc^
+||analytics.valotool.com^
 ||valotrick.com^
 ||valourjaguars.com^
 ||go.valpak.com^
@@ -164379,6 +164404,7 @@
 ||axp.wjhl.com^
 ||axp.wjtv.com^
 ||wjudihl.com^
+||wjvavwjyaso.com^
 ||www.wjxcdn.com^
 ||stat.wk-formation.fr^
 ||h1.wk2.com^
@@ -170530,6 +170556,7 @@
 ||hw.zuimeitianqi.com^
 ||hwad.zuimeitianqi.com^
 ||stat.zuimeitianqi.com^
+||zujibumlgc.com^
 ||zujipa.com^
 ||zukafyyziy.com^
 ||zukore.com^
