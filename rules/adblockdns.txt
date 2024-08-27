@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240827162842
-! Last modified: 2024/08/27 16:28:42
-! Blocked domains: 184962
+! Version: 20240828002707
+! Last modified: 2024/08/28 00:27:07
+! Blocked domains: 184993
 ! unBlocked domains: 47
 !
 ||ffb7c5bd32.05951bf6a3.com^
@@ -430,12 +430,14 @@
 ||stat.ws.126.net^
 ||webstat.ws.126.net^
 ||yt-adp.ws.126.net^
+||1266417098.rsc.cdn77.org^
 ||iadmat.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^
 ||pg-ad-b1.nosdn.127.net^
 ||wanproxy.127.net^
 ||yt-adp.nosdn.127.net^
 ||127d5ef6e1.com^
+||1284260525.rsc.cdn77.org^
 ||go.128technology.com^
 ||12b99.com^
 ||12bet.com^
@@ -505,6 +507,7 @@
 ||152media.com^
 ||152media.info^
 ||153in.net^
+||1547513774.rsc.cdn77.org^
 ||1548164934.rsc.cdn77.org^
 ||154886c13e.com^
 ||1551235f72.com^
@@ -655,6 +658,7 @@
 ||18tlm4jee.de^
 ||18xtube.com^
 ||19093.jp^
+||1939661642.rsc.cdn77.org^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -4517,6 +4521,7 @@
 ||aboardamusement.com^
 ||aboardhotdog.com^
 ||aboardlevel.com^
+||aboardstepbugs.com^
 ||aboarea.com^
 ||abochro.com^
 ||abodealley.com^
@@ -16240,6 +16245,7 @@
 ||arnditluplfa.com^
 ||razor.arnes.si^
 ||smetrics.arnette.com^
+||arnffunhoos.com^
 ||arnhhwo.xyz^
 ||arnimalconeer.com^
 ||cmp.arnnet.com.au^
@@ -21130,6 +21136,7 @@
 ||smetrics.barracuda.com^
 ||barraplay.com^
 ||adserver.barrapunto.com^
+||barrenhatrack.com^
 ||barrenusers.com^
 ||barrhavenasiandragon.com^
 ||barringjello.com^
@@ -38652,6 +38659,7 @@
 ||cdn.cohesionapps.com^
 ||www2.cohort-software.com^
 ||cohortgripghetto.com^
+||cohtsfkwaa.com^
 ||www.cohysdh.cc^
 ||coifcouture.xyz^
 ||coife.com.br^
@@ -46179,6 +46187,7 @@
 ||deefauph.com^
 ||deegraun.com^
 ||deehalig.net^
+||collect.deel.com^
 ||www.deelen-wageningen.nl^
 ||deema.agency^
 ||deemaagency.ir^
@@ -52598,7 +52607,7 @@
 ||eadsrv.com^
 ||eadv.it^
 ||eadvertisingd.biz^
-||264c95d3e9.eaed8c304f.com^
+||eaed8c304f.com^
 ||eaezoi.xyz^
 ||assets.eafit.edu.co^
 ||eloqua.eafit.edu.co^
@@ -65775,6 +65784,7 @@
 ||a8.fxism.jp^
 ||fxiuuaa.com^
 ||fxjnfn.xyz^
+||fxjpbpxvfofa.com^
 ||fxkfhbn.xyz^
 ||www.fxlayer.net^
 ||7345023508.fxm9485766783.com^
@@ -69149,6 +69159,7 @@
 ||gloos-zus.info^
 ||glootang.net^
 ||gloovids.com^
+||gloozoutchu.net^
 ||glopages.ru^
 ||cdn-redirector.glopal.com^
 ||glopoi.com^
@@ -69201,6 +69212,7 @@
 ||www.glotgrx.com^
 ||gloucestertoday.com^
 ||gloufteglouw.com^
+||gloumoonees.net^
 ||gloumsee.net^
 ||gloumsie.net^
 ||gloupa.com^
@@ -72146,6 +72158,7 @@
 ||gugletkvarner.top^
 ||fbapi.guguread.com^
 ||smetrics.guhl.com^
+||guhomnfuzq.com^
 ||guhtoken.org^
 ||stat.guiasjuridicas.es^
 ||pzajdh.guicheweb.com.br^
@@ -72393,6 +72406,7 @@
 ||gwpcomqsyflewv.com^
 ||app.gwsportsapp.in^
 ||apptest.gwsportsapp.in^
+||gwsvikubsgwpic.com^
 ||gwtixda.com^
 ||engage.gsehd.gwu.edu^
 ||gwx-11054-ybk.web.app^
@@ -76516,6 +76530,7 @@
 ||homicidewoodenbladder.com^
 ||homierceston.top^
 ||homify.com.mx^
+||homjjfdwex.com^
 ||homka.pl^
 ||hommetendance.fr^
 ||hommmaq.com^
@@ -91704,6 +91719,7 @@
 ||anita.kladiuszpawlik.pl^
 ||bazi.kladiuszpawlik.pl^
 ||brand.kladiuszpawlik.pl^
+||klagqlhjocbsp.com^
 ||app.klaim.us^
 ||klakus.com^
 ||klamm-counter.de^
@@ -104433,6 +104449,7 @@
 ||mfeigl6.wixsite.com^
 ||mfemiac.icu^
 ||mfhlsdd.com^
+||mfihwtbtwl.com^
 ||mfilecloud.com^
 ||xqzqdj.mfind.pl^
 ||chui.tristes.mfisswger.com^
@@ -110742,6 +110759,7 @@
 ||rawo.mysurveyfollow.com^
 ||siyucu.mysurveyfollow.com^
 ||vibato.mysurveyfollow.com^
+||mysuyuslaq.com^
 ||myswalletaverified.com^
 ||mysweetsconnect.click^
 ||mysweetteam.com^
@@ -115726,6 +115744,7 @@
 ||nutshellwhipunderstood.com^
 ||nutsmargaret.com^
 ||hello.nutter.com^
+||nuttinghoised.com^
 ||link.nutty.chat^
 ||stats.nuvenia.it^
 ||notify.nuviad.com^
@@ -132880,6 +132899,7 @@
 ||qservz.com^
 ||qshare.ru^
 ||qskin.pro^
+||qskxpvncyjly.com^
 ||qslkthj.com^
 ||qsptv.net^
 ||newnet.qsrch.com^
@@ -146634,6 +146654,7 @@
 ||smartconvert.co^
 ||smartcookies.it^
 ||marketing.smartcoversystems.com^
+||smartcpatrack.com^
 ||popunder.smartcpx.com^
 ||app.smartcredit.com^
 ||link.uat.my.smartcrowd.ae^
@@ -152159,6 +152180,7 @@
 ||suddenlyp.cfd^
 ||suddenplot.com^
 ||suddensoda.com^
+||suddenvampire.com^
 ||suddslife.com^
 ||sudhaamritam.org^
 ||sudklsfderea.site^
@@ -155769,6 +155791,7 @@
 ||info.techwave.net^
 ||img.techweb.com^
 ||reg.techweb.com^
+||tongji.techweb.com.cn^
 ||techwoology.com^
 ||techyshells.com^
 ||t.techytrendie.com^
@@ -167281,6 +167304,7 @@
 ||data-3fb5262fad.unsersalzburg.at^
 ||unsettledfederalrefreshing.com^
 ||unsettledfencing.com^
+||unshellbrended.com^
 ||unsigilyphor.com^
 ||unskilfulwalkerpolitician.com^
 ||unskilledexamples.com^
@@ -167330,6 +167354,7 @@
 ||goldfish.untitledspreadsheet.com^
 ||untrendenam.com^
 ||untriedcause.pro^
+||untriednegative.com^
 ||untrk.xyz^
 ||untrol.com^
 ||untropiuson.com^
@@ -170263,6 +170288,7 @@
 ||info.vcsolutions.com^
 ||sp.vcstar.com^
 ||sxjfhh.vcstar.com^
+||vcstzmoevdw.com^
 ||fb-item-nr-8238482.vctechnic.com^
 ||click.campaign.vctrainings.com^
 ||c.vcty.co^
@@ -170799,6 +170825,7 @@
 ||vesuvinaqueity.top^
 ||horse.vesuvius-publishing.com^
 ||vetbvc.ru^
+||vetchesthiever.com^
 ||www.vetdolakha.gov.np^
 ||mail.vetementesmail.com^
 ||vetemsi.pl^
@@ -173627,6 +173654,7 @@
 ||dacdn.vwo.com^
 ||vwonwkaqvq-a.global.ssl.fastly.net^
 ||smetrics.vwpfs.nl^
+||vwpttkoh.xyz^
 ||a.vws4brkfst.com^
 ||s.vws4brkfst.com^
 ||vwsgmf.icu^
@@ -181691,6 +181719,7 @@
 ||yhz18.com^
 ||yhzjidgc.xyz^
 ||yibam.net^
+||analytics.yicai.com^
 ||yicha.cn^
 ||yicha.jp^
 ||adx.yiche.com^
@@ -183231,6 +183260,7 @@
 ||zaradnedane.click^
 ||zaralandclub.com^
 ||zarame.uno^
+||st.zarebasdezaley.com^
 ||zariumhb.com^
 ||zarobek4u.com^
 ||photo.zarobuv.xyz^
@@ -184540,6 +184570,7 @@
 ||zovihutum.com^
 ||oaizwm.zox.la^
 ||lastmeasure.zoy.org^
+||zoycjhiuor.com^
 ||recycle.zoznam.sk^
 ||refwkk.zoznam.sk^
 ||azq.zozo.jp^
