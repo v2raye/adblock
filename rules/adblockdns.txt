@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240907162645
-! Last modified: 2024/09/07 16:26:45
-! Blocked domains: 178143
+! Version: 20240908002613
+! Last modified: 2024/09/08 00:26:13
+! Blocked domains: 178146
 ! unBlocked domains: 47
 !
 ||054d5c.cc^
@@ -4342,6 +4342,7 @@
 ||acdcmarimo.com^
 ||rt.acdn4you.com^
 ||acdid.acdsystems.com^
+||ace-adserver.com^
 ||aceadsys.net^
 ||acecapprecarious.com^
 ||acederma.com^
@@ -12597,6 +12598,7 @@
 ||obm159.aoscufe.com^
 ||lim.apcerpl.com^
 ||www.lim.apcerpl.com^
+||apsehick.date^
 ||apxl.io^
 ||apxlv.com^
 ||art.apxor.com^
@@ -37107,7 +37109,6 @@
 ||sp.coloradoan.com^
 ||srepdata.coloradoan.com^
 ||news.coloradobiz.com^
-||colorandcotton.com^
 ||ctr.colorbrightpin.com^
 ||track.coloredcaramel.co^
 ||colorfulafterthought.com^
@@ -43607,6 +43608,7 @@
 ||decollhuaca.com^
 ||decompify.com^
 ||decomposedismantle.com^
+||decompraschile.com^
 ||tracker.decomworld.com^
 ||tms.decopactech.com^
 ||www.decorama.arq.br^
@@ -45554,6 +45556,7 @@
 ||dielottozahlende.net^
 ||dienai.ru^
 ||diench.com^
+||diendh.xyz^
 ||marketing.dienerlaw.net^
 ||data-f00aa2a607.dienews.net^
 ||data-da8b646558.dieniederoesterreicherin.at^
@@ -48891,6 +48894,7 @@
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
+||dsaewew21.fun^
 ||dsail-tech.com^
 ||trace21.dsb-ebusiness.com^
 ||dsb6jelx4yhln.cloudfront.net^
@@ -52434,7 +52438,6 @@
 ||elta-vp.top^
 ||elta-vt.top^
 ||eltacargo.top^
-||eltacosu.lol^
 ||eltacourierra.one^
 ||eltalogistic.top^
 ||eltapp.top^
@@ -62207,7 +62210,6 @@
 ||smetrics.freedomfordsales.ca^
 ||freedomforpoles.com^
 ||freedomfromnostalgia.com^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedominfo.net^
 ||freedommedianetwork.com^
@@ -75582,6 +75584,7 @@
 ||etsyverif-eu.id-48723.com^
 ||id-49210.com^
 ||id-52961.com^
+||com.id-7144893.com^
 ||id-icloud.com^
 ||id-visitors.com^
 ||id-ward.com^
