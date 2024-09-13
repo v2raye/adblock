@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240913162824
-! Last modified: 2024/09/13 16:28:24
-! Blocked domains: 177086
+! Version: 20240914002658
+! Last modified: 2024/09/14 00:26:58
+! Blocked domains: 177106
 ! unBlocked domains: 47
 !
 ||santnmob2024.001841.com^
@@ -213,6 +213,7 @@
 ||101flag.ru^
 ||0.101tubeporn.com^
 ||banner.101xp.com^
+||1026750852.rsc.cdn77.org^
 ||pre.102porno.club^
 ||pre.102porno.net^
 ||smetrics.1031freshradio.ca^
@@ -221,6 +222,7 @@
 ||c4038bd4ca.103dc14b45.com^
 ||smetrics.1043freshradio.ca^
 ||smetrics.1045freshradio.ca^
+||1047430889.rsc.cdn77.org^
 ||10523745.xyz^
 ||105vibe.com^
 ||oms.1067rock.ca^
@@ -489,6 +491,7 @@
 ||1437953666.rsc.cdn77.org^
 ||www.143nchrtl3.com^
 ||144e93bbf0.com^
+||1478004088.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
 ||boring-tesla.149-102-231-176.plesk.page^
 ||1493361689.rsc.cdn77.org^
@@ -6686,6 +6689,7 @@
 ||adsharenetwork.com^
 ||adshares.net^
 ||track.adshay.vn^
+||adshere.online^
 ||adshim.com^
 ||adshnk.com^
 ||adshopping.com^
@@ -9406,6 +9410,7 @@
 ||marketing.alaskavisit.com^
 ||madmen2.alastonsuomi.com^
 ||alasvow.com^
+||alaudrup.net^
 ||alawaeltherapy.com^
 ||cnt.alawar.com^
 ||app.albacross.com^
@@ -12129,6 +12134,7 @@
 ||renoma1.anielabozena.pl^
 ||rock2002.anielabozena.pl^
 ||go.anifox.net^
+||anijhatiqseeob.com^
 ||aniketmalandkar.com^
 ||anilahstudio.com^
 ||anilqijs.xyz^
@@ -14797,6 +14803,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -19472,7 +19479,6 @@
 ||msite.baidu.com^
 ||mssp.baidu.com^
 ||mtj.baidu.com^
-||newvector.map.baidu.com^
 ||nj.t.bcsp2p.baidu.com^
 ||nlog.baidu.com^
 ||nsclick.baidu.com^
@@ -41208,6 +41214,7 @@
 ||crasheye.cn^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
+||mdt.crateandbarrel.com^
 ||metric.crateandbarrel.com^
 ||metrics.crateandbarrel.com^
 ||cratecamera.com^
@@ -49284,6 +49291,7 @@
 ||dwnm2295blvjq.cloudfront.net^
 ||usjpb.dwosafe.top^
 ||dwp3ce9c.top^
+||dwqjaehnk.com^
 ||fqcqnb.dwr.com^
 ||dwr3zytn850g.cloudfront.net^
 ||www2.dws-global.com^
@@ -55682,7 +55690,6 @@
 ||faze47.com^
 ||faze5.com^
 ||faze71.com^
-||faze76.com^
 ||faze9.com^
 ||fazebet.com^
 ||fazika.ru^
@@ -58828,6 +58835,7 @@
 ||fpvdrzx.xyz^
 ||fpybtxqfywreqhb.xyz^
 ||fpzpmx.com^
+||fq05.shop^
 ||fqab5xq7qlgt.info^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -59117,6 +59125,7 @@
 ||info.freedomcte.com^
 ||freedomdaily.com^
 ||smetrics.freedomfordsales.ca^
+||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedommedianetwork.com^
 ||strack.freedommobile.ca^
@@ -64620,6 +64629,7 @@
 ||grizzlers30.fun^
 ||grizzlies30.fun^
 ||grizzling33.fun^
+||grkucmja.com^
 ||grlstandards.com^
 ||news.grm.cl^
 ||info.grmdocumentmanagement.com^
@@ -67954,6 +67964,7 @@
 ||hfqnbrrutmyqlo.com^
 ||hfr67jhqrw8.com^
 ||aeon.hfrfyh.top^
+||hftohrepdtz.com^
 ||hfufkifmeni.com^
 ||hfykmfd1.com^
 ||hfyztui.xyz^
@@ -82246,6 +82257,7 @@
 ||dld.jxwan.com^
 ||jxybgyu.com^
 ||jxzlkj.net^
+||jy07.shop^
 ||jy147a.com^
 ||jydyvyoluy.live^
 ||a.jyeoo.com^
@@ -105000,6 +105012,7 @@
 ||navi-caseopener.com^
 ||navi-match.net^
 ||m.navi.com^
+||navi0.ru^
 ||navi1.com^
 ||navi10.ru^
 ||navi100.com^
@@ -105038,6 +105051,7 @@
 ||navi66.ru^
 ||navi67.ru^
 ||navi7.com^
+||navi70.ru^
 ||navi72.com^
 ||navi72.ru^
 ||navi74.com^
@@ -108357,6 +108371,7 @@
 ||norfotball.com^
 ||norfsicecream.com^
 ||norgefotball.com^
+||norgejakke.com^
 ||norgesautomaten.com^
 ||norgeshoes.com^
 ||norgesspill.com^
@@ -137614,6 +137629,7 @@
 ||shamerain.com^
 ||shamining.com^
 ||shammesbyssin.top^
+||shamnmalcwob.com^
 ||shamtick.com^
 ||shanarei.com^
 ||shanaurg.net^
@@ -144985,6 +145001,7 @@
 ||steanncomnnunity.com^
 ||steannconnmunity.com^
 ||stearnccommunity.com^
+||stearncommunjty.net^
 ||hornet.stechstudio.com^
 ||stedrits.xyz^
 ||steea.top^
@@ -149311,6 +149328,7 @@
 ||trk.tbivision.com^
 ||tbli.ir^
 ||metrics.tbliab.net^
+||tblnreehmapc.com^
 ||ad.tbn.ru^
 ||ad.100.tbn.ru^
 ||amphibian.tboa.club^
@@ -158521,6 +158539,7 @@
 ||uniqueideasmumbai.com^
 ||lp.uniqueperformance.site^
 ||uniquepowerbd.com^
+||uniqueshirt.shop^
 ||uniradiant.com^
 ||uniregistry.com^
 ||images.contacto.unis.edu.gt^
@@ -171688,6 +171707,7 @@
 ||cdn.x1cdn.com^
 ||mediacdn.x1hub.com^
 ||x1vv.xyz^
+||x2-promo.net^
 ||marketing.net.x24factory.com^
 ||x24hr.com^
 ||log.x2convert.com^
