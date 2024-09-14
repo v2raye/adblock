@@ -40,4 +40,4 @@
 | SmartTV Blocklist | dns | [原始链接](https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/SmartTV_Blocklist.txt) | 2023/10/11 |
 | 1024 hosts | host | [原始链接](https://someonewhocares.org/hosts/zero/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/1024_hosts.txt) | 2024/09/10 |
 | ad-wars hosts | host | [原始链接](https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/ad-wars_hosts.txt) | 2023/11/17 |
-| StevenBlack hosts | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/StevenBlack_hosts.txt) | 2024/09/11 |
+| StevenBlack hosts | host | [原始链接](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) | [加速链接](https://mirror.ghproxy.com/https://raw.githubusercontent.com/v2raye/adblock/main/rules/StevenBlack_hosts.txt) | 2024/09/14 |
