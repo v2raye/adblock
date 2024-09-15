@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240915002636
-! Last modified: 2024/09/15 00:26:36
-! Blocked domains: 179348
+! Version: 20240915091758
+! Last modified: 2024/09/15 09:17:58
+! Blocked domains: 179354
 ! unBlocked domains: 47
 !
 ||0551huayanbdf.com^
@@ -3131,6 +3131,7 @@
 ||www.777tool.com^
 ||777vnd.vip^
 ||778669.com^
+||77886044.xyz^
 ||7788one.com^
 ||7794.com^
 ||779one.com^
@@ -17079,6 +17080,7 @@
 ||arogulin.com^
 ||arohiglobal.com^
 ||aroidsguide.com^
+||arojgi.xyz^
 ||aromaalllchemy.xyz^
 ||aromaexplode.com^
 ||aromamidland.com^
@@ -57008,6 +57010,7 @@
 ||yanoulamerde-f69b7b.ingress-bonde.ewp.live^
 ||ztyeutrezqf-f9a7c9.ingress-bonde.ewp.live^
 ||ewqkrfjkqz.com^
+||ewqws55.fun^
 ||ewrgryxjaq.com^
 ||ewrolidenratrigh.info^
 ||ewruuqe5p8ca.com^
@@ -118069,6 +118072,7 @@
 ||endljp.pariteni.bg^
 ||paritywarninglargest.com^
 ||info.parivedasolutions.com^
+||mobile.parkandpay-ca.com^
 ||parkawa.com^
 ||parkcircularpearl.com^
 ||parkdues.com^
@@ -164761,6 +164765,7 @@
 ||e.vcty.co^
 ||staging-c.vcty.co^
 ||vcxipynawv.com^
+||vcxv73.fun^
 ||vczypss.com^
 ||go.vdanceclub.com^
 ||www.vdare.com^
@@ -176164,6 +176169,7 @@
 ||yistkechauk.org^
 ||yitongfang.com^
 ||info.yitsoftware.com^
+||yiucfif.icu^
 ||yivkzvog.xyz^
 ||yiwckti.icu^
 ||yiwk.com^
