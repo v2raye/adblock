@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240924163126
-! Last modified: 2024/09/24 16:31:26
-! Blocked domains: 178956
+! Version: 20240925003035
+! Last modified: 2024/09/25 00:30:35
+! Blocked domains: 178980
 ! unBlocked domains: 47
 !
 ||termsof-updatess2024.000.pe^
@@ -1740,6 +1740,7 @@
 ||www.360clg.cn^
 ||domcwlxin.360doc.cn^
 ||dtnaximya.360doc.cn^
+||hjkhxfh.360doc.cn^
 ||pjogndc8ixoidna.360doc.cn^
 ||xne1ocient87zxz.360doc.cn^
 ||eclick.360doc.com^
@@ -7799,6 +7800,7 @@
 ||adtpix.com^
 ||adtr.io^
 ||adtr1.com^
+||adtrace.ai^
 ||adtrace.io^
 ||adtrace.ir^
 ||adtrace.online^
@@ -44930,7 +44932,7 @@
 ||7bb93f4eed.dd01ec0a9f.com^
 ||dd1xbevqx.com^
 ||dd2.ru^
-||c99574de6f.dd4ef151bb.com^
+||dd4ef151bb.com^
 ||dd6zx4ibq538k.cloudfront.net^
 ||dd92fc7c0e.com^
 ||dd9l0474.de^
@@ -54202,6 +54204,7 @@
 ||ets34.cfd^
 ||etsavov.wixsite.com^
 ||etsfshop.xyz^
+||etspukdjrvbiby.com^
 ||etst.net^
 ||ablink.email.etsy.com^
 ||ablink.seller.etsy.com^
@@ -55082,6 +55085,7 @@
 ||duologinsupersdk.ewan.cn^
 ||www.ewao.com^
 ||ewasgilded.info^
+||ewaterw.top^
 ||ewatmidnight.info^
 ||ewatobor.pl^
 ||go.ewb-usa.org^
@@ -59439,6 +59443,7 @@
 ||fokvgxuomu.com^
 ||folarhex.xyz^
 ||foldedabstinenceconsole.com^
+||foldedaddress.com^
 ||foldedprevent.com^
 ||foldercamouflage.com^
 ||endljp.foldercheck.be^
@@ -60394,6 +60399,7 @@
 ||fpybtxqfywreqhb.xyz^
 ||fpyhuktuwatn.com^
 ||fpzpmx.com^
+||fq010.shop^
 ||fqab5xq7qlgt.info^
 ||fqbjzj.xyz^
 ||fqfclmlo.xyz^
@@ -68343,6 +68349,7 @@
 ||gtudkfe.com^
 ||gtvinerti.com^
 ||b4f6da7fa0fc1b0d.gtw3.link^
+||gtyjqipdqsy.com^
 ||cxrfns.gu-global.com^
 ||gu-pix.appspot.com^
 ||gu4f.top^
@@ -74524,6 +74531,7 @@
 ||iaihdexme.com^
 ||reindeer.iainbroome.com^
 ||iainsorong.ac.id^
+||iaiqk.top^
 ||dad.iajwrgvu.top^
 ||iakovosioannidis.com^
 ||l.ialoc.app^
@@ -83148,6 +83156,7 @@
 ||jittromney.com^
 ||jiuduad.com^
 ||jiujiushishi.com^
+||jiujy5r3.fun^
 ||jiumai88.com^
 ||h5.jiumaster.com^
 ||jiusu.shop^
@@ -84667,6 +84676,7 @@
 ||dld.jxwan.com^
 ||jxybgyu.com^
 ||jxzlkj.net^
+||jy010.shop^
 ||jy147a.com^
 ||jydyvyoluy.live^
 ||a.jyeoo.com^
@@ -86182,6 +86192,7 @@
 ||super.kdnet.net^
 ||tracking.kdnet.net^
 ||kdokgcf.com^
+||kdopag.xyz^
 ||kdosimp.com^
 ||kdqnaec.cn^
 ||api.protonaosp.kdrag0n.dev^
@@ -86695,6 +86706,7 @@
 ||metric.khkgears.us^
 ||khmer24.ws^
 ||www.khmerceramics.com^
+||khngkkcwtlnu.com^
 ||khodiyarchem.com^
 ||khogabotoi.com^
 ||khohangdocvip.net^
@@ -107995,6 +108007,7 @@
 ||newportbeachroofs.com^
 ||metrics.newportlexus.com^
 ||newprofitcontrol.com^
+||newregazedatth.com^
 ||newrelic.com^
 ||newrivervalleytimes.com^
 ||mdws.newrosscreditunion.ca^
@@ -113920,6 +113933,7 @@
 ||oogneenu.net^
 ||oohairport.com^
 ||oohirdoadi.com^
+||oojrefcsammcmt.com^
 ||sgtm.ookla.com^
 ||ookrach.com^
 ||ookresit.net^
@@ -125547,6 +125561,7 @@
 ||ptuphotookr.com^
 ||ptupsewo.net^
 ||ptutchiz.com^
+||ptuvmmgiom.com^
 ||confirm.ptvgroup.com^
 ||your.maas.ptvgroup.com^
 ||your.mapandguide.ptvgroup.com^
@@ -128745,6 +128760,7 @@
 ||qewynyijae.live^
 ||qexitv.com^
 ||qf6tm5ug.com^
+||qfavlkgf.com^
 ||qfcdgy.cn^
 ||qfdn3gyfbs.com^
 ||qfgtepw.com^
@@ -137417,6 +137433,7 @@
 ||metrics.sdcvisit.com^
 ||smetrics.sdcvisit.com^
 ||sddan.com^
+||sdegvdvqajiq.com^
 ||sdfeaa.top^
 ||sdfebb.top^
 ||sdfecc.top^
@@ -137947,6 +137964,7 @@
 ||sedoparking.com^
 ||sedotracker.com^
 ||sedotracker.de^
+||sedswmbepgkf.com^
 ||seduceobscure.com^
 ||seducingtemporarily.com^
 ||seductioncursory.top^
@@ -147880,6 +147898,7 @@
 ||stunningstuffs.com^
 ||stunoolri.net^
 ||stunsbarbola.website^
+||stunthypocrisy.com^
 ||stuntoffer.com^
 ||stupendoussleet.com^
 ||stupendoussnow.com^
@@ -161468,6 +161487,7 @@
 ||lhv-ee.ukenggworks.com^
 ||ukenifo.link^
 ||ukenlog.com^
+||ukenthasmeetu.com^
 ||ukepfloi.com^
 ||metrics.ukfoodanddrinkshows.co.uk^
 ||get.ukg.be^
@@ -162524,6 +162544,7 @@
 ||unstoutgolfs.com^
 ||unsubscribed.co^
 ||unsuccessfultesttubepeerless.com^
+||unsulkyposes.click^
 ||unsungpolicy.com^
 ||unsurlysiouan.com^
 ||analytics.unsw.edu.au^
@@ -167979,6 +168000,7 @@
 ||xrcksn.vvf-villages.fr^
 ||vvmblock.ru^
 ||sponsors.vvng.com^
+||vvprcztaw.com^
 ||vvshopee.com^
 ||vvttpn.xyz^
 ||bu1.vvvdj.com^
@@ -168936,6 +168958,7 @@
 ||smetrics.wdeportes.com^
 ||manage.wdfans.cn^
 ||axp.wdhn.com^
+||wdlejalo.com^
 ||track.msadcenter.wdm.com^
 ||wdm29.com^
 ||c.wdmdejd.cn^
@@ -174911,6 +174934,7 @@
 ||xxgslt.com^
 ||xxguan.cn^
 ||www.xxkhh.com^
+||xxkoeqndmm.com^
 ||xxlargepop.com^
 ||xxlfteg.xyz^
 ||xxlproduction.com^
