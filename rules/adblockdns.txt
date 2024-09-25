@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240925003035
-! Last modified: 2024/09/25 00:30:35
-! Blocked domains: 178980
+! Version: 20240925091647
+! Last modified: 2024/09/25 09:16:47
+! Blocked domains: 178999
 ! unBlocked domains: 47
 !
 ||termsof-updatess2024.000.pe^
@@ -3709,6 +3709,7 @@
 ||allegrolokalnie.9872109.shop^
 ||www.allegrolokalnie.9872109.shop^
 ||allegrolokalnie.987324u.shop^
+||98853171.xyz^
 ||988878.com^
 ||988bet.info^
 ||989bet.com^
@@ -5964,6 +5965,7 @@
 ||adcenter.net^
 ||adcentriconline.com^
 ||adcentrum.net^
+||adcept.net^
 ||adchap.com^
 ||adcharriot.com^
 ||adchemical.com^
@@ -7637,6 +7639,7 @@
 ||adsrvs.com^
 ||comms.adss.com^
 ||info.adss.com^
+||adsstat.com^
 ||adstacks.in^
 ||adstage-analytics.herokuapp.com^
 ||adstage.io^
@@ -48171,7 +48174,7 @@
 ||doem.jp^
 ||doesbitesizeadvantages.com^
 ||doesok.top^
-||doesxyz.com^
+||ufz.doesxyz.com^
 ||dof9zd9l290mz.cloudfront.net^
 ||olx-pl.dofbislic.pics^
 ||www.olx-pl.dofbislic.pics^
@@ -51724,6 +51727,7 @@
 ||gbnxhz.ekstralys.no^
 ||ekszgamesoft.com^
 ||ekwa-clientbackup.info^
+||ekykse.xyz^
 ||ekzzed.icu^
 ||active.cache.el-mundo.net^
 ||dmpcdn.el-mundo.net^
@@ -64944,6 +64948,7 @@
 ||gkbhrj49a.com^
 ||gkbvnyk.com^
 ||gkcltxp.com^
+||gkcogyf.icu^
 ||gkcreationyt.com^
 ||50m.gkcyc.com^
 ||gkencyarcoc.com^
@@ -67307,6 +67312,7 @@
 ||grailtoken.com^
 ||trck.graiman.com^
 ||graimoorg.net^
+||harvest.graindata.com^
 ||watchtower.graindata.com^
 ||graindefolie47.com^
 ||wafoub.graindemalice.fr^
@@ -67787,6 +67793,7 @@
 ||greewepi.net^
 ||greezoob.net^
 ||grefagroon.com^
+||grefaunu.com^
 ||grefutiwhe.com^
 ||go.gregabbott.com^
 ||panel-sbcaqhttr.gregdroman.com^
@@ -71872,6 +71879,7 @@
 ||links.evault.history.com^
 ||m.history.com^
 ||sourcepoint-mms.history.com^
+||historyactorabsolutely.com^
 ||historykill.com^
 ||links.e.historyvault.com^
 ||m.historyvault.com^
@@ -81477,6 +81485,7 @@
 ||jailbreakbj.com^
 ||jailbreaktoday.com^
 ||jailbulb.com^
+||jaineshy.com^
 ||jaipan.com^
 ||jaipheeph.com^
 ||jaiqkillyn.com^
@@ -109455,6 +109464,7 @@
 ||nkfith.xyz^
 ||nkiaje.com^
 ||pop.nkiris.com^
+||nkjkvn.xyz^
 ||w.m.nkl-peters.de^
 ||nkmoo.com^
 ||nkmsite.com^
@@ -112480,6 +112490,7 @@
 ||oas.c.oka-pu.ac.jp^
 ||okagcw.xyz^
 ||okai.work^
+||okaidsotsah.com^
 ||okaleczenie15laatkii.blogspot.com^
 ||okaleczon15-lattka.blogspot.com^
 ||okaleczona15--latka.blogspot.com^
@@ -114364,6 +114375,7 @@
 ||opkinglerr.com^
 ||olx-pl.opkisja.shop^
 ||www.olx-pl.opkisja.shop^
+||opkkjh.xyz^
 ||stats.opkode.com^
 ||oplacalnerzeczy.click^
 ||oplaconesvintes.shop^
@@ -125555,6 +125567,7 @@
 ||pttygov-tr.top^
 ||ptugnins.net^
 ||ptugnoaw.net^
+||ptugojaurd.net^
 ||ptulsauts.com^
 ||ptumsess.com^
 ||ptumtaip.com^
@@ -128754,6 +128767,7 @@
 ||qeqokie.info^
 ||hlok.qertewrt.com^
 ||qerusgreyt.com^
+||qeryt111.fun^
 ||qesopaeloa.live^
 ||www.qetup12.com^
 ||qeucuzpbv6jq.jp^
@@ -161066,6 +161080,7 @@
 ||images.engage.ubc.ca^
 ||ubcpm.com^
 ||mdws.ubcu.ca^
+||ubdmfxkh.com^
 ||ube71ki83.com^
 ||ubeaui.xyz^
 ||ubeestis.net^
@@ -167699,6 +167714,7 @@
 ||vpscash.nl^
 ||vpsgu.cn^
 ||vptbn.com^
+||vpuaklat.com^
 ||vpumfeghiall.com^
 ||vpzohx.xyz^
 ||vq1qi.pw^
@@ -167833,6 +167849,7 @@
 ||vtabnalp.net^
 ||join.vtail.co^
 ||www.vtarget.com^
+||vtbfgnf00.fun^
 ||vtbusinessdaily.com^
 ||ads.vtc.vn^
 ||delivery.vtc.vn^
@@ -174832,6 +174849,7 @@
 ||dms.xuexxing.com^
 ||a.xuezizhai.com^
 ||xuffojr.com^
+||xufyxhiu.icu^
 ||xugodaeliy.life^
 ||xuhuqeokau.live^
 ||xuiqxlhqyo.com^
@@ -176713,6 +176731,7 @@
 ||vinted.yuiydz.shop^
 ||www.vinted.yuiydz.shop^
 ||yujianni1314.com^
+||yukbsa.xyz^
 ||yukclick.me^
 ||yukonearshot.com^
 ||arsaqf.yukoyuko.net^
