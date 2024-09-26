@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240926163051
-! Last modified: 2024/09/26 16:30:51
-! Blocked domains: 179927
+! Version: 20240927002938
+! Last modified: 2024/09/27 00:29:38
+! Blocked domains: 179979
 ! unBlocked domains: 47
 !
 ||allegrolokalnie.00912-491-g0a9s.shop^
@@ -664,6 +664,8 @@
 ||181ue.com^
 ||1821z.website^
 ||184c4i95p.de^
+||185.246.188.124^
+||185.246.188.125^
 ||1873083787.rsc.cdn77.org^
 ||18744.com^
 ||18834677.com^
@@ -701,6 +703,12 @@
 ||19093.jp^
 ||1909cyzocouxagikui6.pro^
 ||19199675.xyz^
+||193.200.64.30^
+||193.200.64.31^
+||193.200.65.61^
+||194.63.140.103^
+||194.63.143.61^
+||194.63.143.96^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -990,6 +998,12 @@
 ||20tracks.com^
 ||tracking.21-a4652-bi.co.uk^
 ||ads.211.ru^
+||212.117.190.201^
+||212.117.190.202^
+||212.117.190.210^
+||212.117.190.211^
+||212.117.190.212^
+||212.117.190.213^
 ||212121.ru^
 ||21274758.xyz^
 ||2137dc12f9d8.com^
@@ -1014,6 +1028,7 @@
 ||21wiz.com^
 ||www.22-trk-srv.com^
 ||app2.220cordncode.com^
+||22117898.xyz^
 ||221vw.com^
 ||2222.ro^
 ||www.222627.com^
@@ -2300,6 +2315,7 @@
 ||44erf.info^
 ||www.44tele-infra.com^
 ||37.44x.io^
+||45.82.68.79^
 ||t.451.io^
 ||452tapgn.de^
 ||45496fee.xyz^
@@ -2762,6 +2778,7 @@
 ||56rt2692.de^
 ||track.56txs4.com^
 ||56yk.com^
+||57.128.71.215^
 ||www.57.com.cn^
 ||5726303d87522d05.com^
 ||573d28b35e.com^
@@ -2977,6 +2994,8 @@
 ||61739011039d41a.com^
 ||61t2ll6yy.com^
 ||61zdn1c9.skin^
+||62.76.25.27^
+||62.76.25.28^
 ||hgfh.621307.top^
 ||inpost-pl.621456.xyz^
 ||pl-inpost.621456.xyz^
@@ -3565,6 +3584,7 @@
 ||m1.81312.com^
 ||813d8347e7.com^
 ||allegrolokalnie.81726489.shop^
+||817dae10e1.com^
 ||8181zx.com^
 ||8184.cc^
 ||vdrigb.8190.jp^
@@ -3927,6 +3947,7 @@
 ||data-0420d605d9.90min.de^
 ||data-449cc4329e.90minuten.at^
 ||90yun.net^
+||91.204.226.224^
 ||e.91.com^
 ||911.cc^
 ||91199a.xyz^
@@ -3991,6 +4012,7 @@
 ||327bdba97a.93d6b7d3b1.com^
 ||93mobiles.com^
 ||93ta.cn^
+||94.130.167.163^
 ||allegro.94123.shop^
 ||allegrolokalnie.94123.shop^
 ||allegrolokalnie.9435693.cfd^
@@ -12440,6 +12462,7 @@
 ||amazy.ru^
 ||amb3ramber.xyz^
 ||ambaab.com^
+||ambariafraid.shop^
 ||ambarot1.com^
 ||clickvideo20237979.ambasadapieknosci.pl^
 ||wildcard.ambasadapieknosci.pl^
@@ -16239,7 +16262,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -22316,6 +22339,7 @@
 ||www.bdg001a.com^
 ||bdgadv.ru^
 ||bdhddyknhy.com^
+||bdhsahmg.com^
 ||tracking.bdi-services.de^
 ||trck.bdi-services.de^
 ||ussd.bdiegjsi.top^
@@ -23357,6 +23381,7 @@
 ||best-global-apps.com^
 ||best-gout-remedies.com^
 ||best-hacks.net^
+||counter.best-hit.tv^
 ||best-investment24.pro^
 ||www.best-iphone6s.com^
 ||best-lucky-cat.xyz^
@@ -33397,6 +33422,7 @@
 ||cammak.xyz^
 ||camomantra.xyz^
 ||camomilegentlemennotable.com^
+||creative.camonade.com^
 ||camonster.com^
 ||camouque.net^
 ||refytq.camp-fire.jp^
@@ -38173,6 +38199,7 @@
 ||assets.ckjr001.com^
 ||kpstaticbj.wx.ckjr001.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
+||ckkebt.shop^
 ||ckkpjtkqjqdnyom.xyz^
 ||cklithuw.xyz^
 ||ckmbig.xyz^
@@ -45242,6 +45269,7 @@
 ||www1.cynergysolutions.net^
 ||cynes-gwf.com^
 ||video.cynogage.com^
+||cynoidfudging.shop^
 ||cynuguuautr2.pro^
 ||cypcb.net^
 ||cyperior-store.site^
@@ -52530,6 +52558,7 @@
 ||link.dsctrk.com^
 ||cikvwv.dsdamat.com^
 ||fam.dsdemo.jp^
+||dsdkpgjyvdv.com^
 ||dsethimdownthmo.com^
 ||dsghhbqey6ytg.cloudfront.net^
 ||mdq.dsgn269.vip^
@@ -54417,6 +54446,7 @@
 ||smetrics.edge.ca^
 ||p1-play.edge4k.com^
 ||p2-play.edge4k.com^
+||sapi.edgedb.com^
 ||edgeio.com^
 ||images.edgenuity.com^
 ||metrics.edgepark.com^
@@ -59101,6 +59131,7 @@
 ||eymised.com^
 ||olx.eynasopav.org^
 ||eynicit.com^
+||eyoqubfcpze.com^
 ||eyouv.cn^
 ||eypeole.com^
 ||eypqbjju.xyz^
@@ -64621,6 +64652,7 @@
 ||cmn.ftft155.vip^
 ||hgw.ftft155.vip^
 ||ftgygshutxlpey.com^
+||ftheusysianeduk.com^
 ||blfkmp.fti.de^
 ||url.fti.or.th^
 ||app.info.fticonsulting.com^
@@ -67136,6 +67168,7 @@
 ||gfstrck.com^
 ||gft2.de^
 ||gftkofhnz.com^
+||gfufutakba.com^
 ||gfunwoakvgwo.com^
 ||cat.gfx.io^
 ||gfylyw.xyz^
@@ -67234,6 +67267,7 @@
 ||ghibli.hu^
 ||ghiftshop.com^
 ||smetrics.ghirardelli.com^
+||ghiuge55.fun^
 ||ghldemo.com^
 ||mail.ghmproperties.com^
 ||1930b4bb.ghmsolutions.com.br^
@@ -84068,6 +84102,7 @@
 ||icws.jb51.net^
 ||jbajada.com^
 ||jbbbet.com^
+||jbbyyryezqavb.top^
 ||jbcam.cz^
 ||jbcapsforum.tk^
 ||go.jbihairtrk.com^
@@ -92384,6 +92419,7 @@
 ||lazamaopew.live^
 ||lazar-offers.com^
 ||smetrics.lazarediamond.jp^
+||lazarsunthank.top^
 ||lazieneczka.pl^
 ||qejrwy.lazienkaplus.pl^
 ||lazmail.com.vn^
@@ -109584,12 +109620,14 @@
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
+||navi33.ru^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -114772,6 +114810,7 @@
 ||ocwdkp.icu^
 ||ocxxx.com^
 ||ocycling.com^
+||ocyoxysw.com^
 ||oczamiswiadkow.rest^
 ||oczekujemyinformacji.click^
 ||bvbqyq.odalys-vacances.com^
@@ -115202,6 +115241,7 @@
 ||ogogear.com^
 ||ogorodnic.com^
 ||ogp.me^
+||ogqophjilar.com^
 ||ograuwih.com^
 ||ogrd.pl^
 ||ogrencilerbirligi.com^
@@ -117721,6 +117761,7 @@
 ||webhooks-affiliates.ornament.app^
 ||ornamentbyechose.com^
 ||ornamentik.com^
+||ornatecomputer.com^
 ||ornatomial.click^
 ||trcka8.orobianco-jp.com^
 ||a8cv.orochoku.shop^
@@ -122086,6 +122127,7 @@
 ||smetrics.pictet.com^
 ||telemetry.am.pictet.com^
 ||pictorialtraverse.com^
+||pictunoctette.com^
 ||picturecorrespond.com^
 ||go.picturemarketing.com^
 ||pictureoutdoor.com^
@@ -126986,6 +127028,7 @@
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
 ||profitabledisplaynetwork.com^
+||profitableexactly.com^
 ||profitablegate.com^
 ||profitablegatecpm.com^
 ||profitablegatetocontent.com^
@@ -130236,6 +130279,7 @@
 ||puwolo.com^
 ||puwpush.com^
 ||puyyyifbmdh.com^
+||puzna.com^
 ||puzzio.xyz^
 ||hzyddt.puzzle.de^
 ||puzzleio.com^
@@ -131690,7 +131734,6 @@
 ||quisma.com^
 ||to.quit.guru^
 ||quit9to5solutions.com^
-||quitasueno.com^
 ||quitepoet.com^
 ||quitesousefulhe.info^
 ||quitjav11.fun^
@@ -137143,6 +137186,7 @@
 ||www.royaymail.info^
 ||service.royaymail.services^
 ||www2.royceinvest.com^
+||sashimi.royli.dev^
 ||pixel.roymorgan.com^
 ||royrichie.com^
 ||rozaholshouser.cfd^
@@ -137915,6 +137959,7 @@
 ||runicforgecrafter.com^
 ||cinest.runik.top^
 ||www.cinest.runik.top^
+||runingamgladt.com^
 ||runmixed.com^
 ||runn.fun^
 ||sstats.runnersneed.com^
@@ -148766,6 +148811,8 @@
 ||hentent.stre4mplay.one^
 ||ientent.stre4mplay.one^
 ||kentent.stre4mplay.one^
+||analytics-op.streak.ninja^
+||track.streak.ninja^
 ||streakappealmeasured.com^
 ||streakattempt.com^
 ||metrics.streaks.jp^
@@ -153266,6 +153313,7 @@
 ||terratraf.com^
 ||static.terratraf.io^
 ||app.go.terremark.com^
+||terreproa.shop^
 ||terrex.pl^
 ||static.terrhq.ru^
 ||terribledeliberate.com^
@@ -153621,6 +153669,7 @@
 ||e.thanksearch.com^
 ||thanksgivingdelights.com^
 ||thanksgivingdelights.name^
+||thanksgivingtamepending.com^
 ||thanksthat.com^
 ||thankswrite.com^
 ||metrics.thankyou.com^
@@ -161304,6 +161353,7 @@
 ||jxiwdw.ufret.jp^
 ||www.ufsdrive.com^
 ||grado.ufv.es^
+||ufvxiyewsyi.com^
 ||ufzanvc.com^
 ||t.pac.uga.edu^
 ||track.ugamezone.com^
@@ -165753,6 +165803,7 @@
 ||tracking.vessi.se^
 ||vessoupy.com^
 ||vestabet365.com^
+||vestalsabuna.shop^
 ||info.vestapublicsafety.com^
 ||www.vestavs.shop^
 ||gmxcdm.vestel.com.tr^
@@ -173248,6 +173299,7 @@
 ||ttk.wodmell.top^
 ||ttok.wodmell.top^
 ||zuck.wodmell.top^
+||wodmxcvsis.com^
 ||woefifty.com^
 ||woejh.com^
 ||woespoke.com^
