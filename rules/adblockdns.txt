@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240927163210
-! Last modified: 2024/09/27 16:32:10
-! Blocked domains: 111744
+! Version: 20240928003057
+! Last modified: 2024/09/28 00:30:57
+! Blocked domains: 111764
 ! unBlocked domains: 35
 !
 ||0551huayanbdf.com^
@@ -2017,6 +2017,7 @@
 ||mail1.371.net^
 ||3743e0aeab.com^
 ||tracker.374nnahs.com^
+||ana.3751chat.com^
 ||alegorlokalnie.375421.xyz^
 ||376672.cc^
 ||377bet.com^
@@ -23822,6 +23823,7 @@
 ||ensighten.bhphoto.com^
 ||affiliates.bhphotovideo.com^
 ||bhqfnuq.com^
+||bhqvi.com^
 ||bhs4.com^
 ||r.bhsaccessories.com^
 ||usoh.bhtmqwrt.top^
@@ -44292,6 +44294,7 @@
 ||divehope.com^
 ||divekcl7q9fxi.cloudfront.net^
 ||divergeimperfect.com^
+||diverhaul.com^
 ||marketing.diverseco.com.au^
 ||images.go.diverseeducation.com^
 ||responses.diverseeducation.com^
@@ -44391,6 +44394,7 @@
 ||dk802.com^
 ||dk9ps7goqoeef.cloudfront.net^
 ||dkagiqnjsdoqli.com^
+||dkasdeerw.xyz^
 ||dkbet8casino.com^
 ||dkbet999.com^
 ||ads.dkelseymedia.com^
@@ -46742,6 +46746,7 @@
 ||8869bc0716.e9522e84dc.com^
 ||e99877e518.com^
 ||e9a53154b4.com^
+||e9d13e3e01.com^
 ||e9geolgzk6.com^
 ||e9gon879e6.pages.dev^
 ||adsrv.ea.com^
@@ -48756,6 +48761,7 @@
 ||enoughglide.com^
 ||enoughturtlecontrol.com^
 ||enquoted.com^
+||enqvcaugnkxmx.com^
 ||enrageeyesnoop.com^
 ||mailer.enrichmentjourneys.com^
 ||oficial.enriquecendoonline.com^
@@ -55753,6 +55759,7 @@
 ||ggbets.pl^
 ||ggbetss.com^
 ||ggcorp.me^
+||ggfdgd88.fun^
 ||javguru.gggsss.site^
 ||gghacks.com^
 ||gghhe.com^
@@ -56138,6 +56145,7 @@
 ||gyeongju.glerny.space^
 ||glevoloo.com^
 ||glidesparks.com^
+||glifjhcclyc.com^
 ||glimpsedrastic.com^
 ||glispa.com^
 ||glisteningguide.com^
@@ -61885,6 +61893,7 @@
 ||iias.eu^
 ||eml.iiconferences.com^
 ||deliver.ads2.iid.jp^
+||recruitbox.media.iid.jp^
 ||iifvcfwiqi.com^
 ||jimg.iigs9.com^
 ||www.iiillililllillillilillililililllliiiillllliilili.com^
@@ -61914,6 +61923,7 @@
 ||sj.ijinshan.com^
 ||ijmxco.xyz^
 ||ijnpost-pl.top^
+||ijobloemotherofh.com^
 ||ijquery11.com^
 ||pay.amzon-bills.ijsidw.com^
 ||mail.ijungomail.com^
@@ -71730,6 +71740,7 @@
 ||luuming.com^
 ||rtneys.luuna.mx^
 ||luvieessentials.com^
+||ana.luvul.net^
 ||luvyhomeplus.com^
 ||lux-bn.com.ua^
 ||lux-sothebysrealty.com^
@@ -71924,6 +71935,7 @@
 ||lywituovay.info^
 ||data-b8625c5378.lz.de^
 ||lz618.net^
+||lzukrobrykk.com^
 ||lzvjtxe.xyz^
 ||tr.e.m-entreprise.fr^
 ||cz-cassidi.m-shop.me^
@@ -74175,6 +74187,7 @@
 ||middlebet.com^
 ||go.middleburyinteractive.com^
 ||middlepoint.co.kr^
+||proxima.midjourney.com^
 ||midmaintee.com^
 ||midnightinparisonwheels.com^
 ||link.midnite.com^
@@ -84978,6 +84991,7 @@
 ||pugsgivehugs.com^
 ||puhufuuzei.live^
 ||pukaczu.pl^
+||pukimuki.xyz^
 ||pullhara.com^
 ||track.info.pulmonologyadvisor.com^
 ||pulpyads.com^
@@ -85713,6 +85727,7 @@
 ||track.radiantwaystation.com^
 ||radiation.news^
 ||radicalovertime.com^
+||radicalpackage.com^
 ||data-4f77096dc0.radio-brocken.com^
 ||data-143ac31e30.radio-brocken.de^
 ||data-4f77096dc0.radio-brocken.de^
@@ -86516,6 +86531,7 @@
 ||rentcrisis.com^
 ||rentfromart.com^
 ||rentlybuzz.com^
+||rentlysearchingf.com^
 ||email.rentomojomailer.com^
 ||reolinkglobal.com^
 ||reomanager.pl^
@@ -90165,6 +90181,7 @@
 ||shalltry.com^
 ||ad2.shallwead.com^
 ||shalomhousebnb.com^
+||ana.chat.shalove.net^
 ||shalseey.com^
 ||shamcisale.xyz^
 ||shamelessgoodwill.com^
@@ -91805,6 +91822,7 @@
 ||skype-online0345.web.app^
 ||skypeclass.com^
 ||skypefr.com^
+||ana.skypemeet.net^
 ||log-lb.skyperfectv.co.jp^
 ||skypersystems.ca^
 ||skypersystems.com.pk^
@@ -102800,6 +102818,7 @@
 ||ep.umobile.pl^
 ||umpedshumal.com^
 ||trk.contact.umpquabank.com^
+||umqmxawxnrcp.com^
 ||t09x3ww33fchbqzl.umso.co^
 ||app.griztix.umt.edu^
 ||umyeon.com^
@@ -109600,6 +109619,7 @@
 ||xpidgvrjakkdx.com^
 ||xpj2.net^
 ||xpj3.net^
+||cdn.xpln.tech^
 ||xploitz.net^
 ||xpollo.com^
 ||xponsor.com^
