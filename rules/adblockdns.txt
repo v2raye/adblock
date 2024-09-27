@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240927002938
-! Last modified: 2024/09/27 00:29:38
-! Blocked domains: 179979
+! Version: 20240927091553
+! Last modified: 2024/09/27 09:15:53
+! Blocked domains: 179989
 ! unBlocked domains: 47
 !
 ||allegrolokalnie.00912-491-g0a9s.shop^
@@ -22584,6 +22584,7 @@
 ||tul90.bebrave.top^
 ||bebreloomr.com^
 ||fee-hydrocodone.bebto.com^
+||bebxhcip.icu^
 ||becacecci.com^
 ||becamedevelopfailure.com^
 ||becamemayhemunderstood.com^
@@ -25580,6 +25581,7 @@
 ||st1.bhol.co.il^
 ||tr.bhootolea.com^
 ||bhotiyadiascia.com^
+||bhovrath.com^
 ||ensighten.bhphoto.com^
 ||affiliates.bhphotovideo.com^
 ||bhqfnuq.com^
@@ -33110,6 +33112,7 @@
 ||cai2rkvrqif358.top^
 ||cai75tp.com^
 ||caicaipoop.com^
+||caicme.xyz^
 ||caicshop.com^
 ||caicuptu.xyz^
 ||caigobou.com^
@@ -45029,6 +45032,7 @@
 ||mdws.cvcu.bc.ca^
 ||djdjjdj33838.cvcv.my.id^
 ||dkdkdk322.cvcv.my.id^
+||cvdfvdfv90.fun^
 ||sc.cvent.com^
 ||ssc.cvent.com^
 ||mobile-event.cvent.me^
@@ -45057,6 +45061,7 @@
 ||cvsheil.com^
 ||smetrics.cvty.com^
 ||cvudqzoa.xyz^
+||cvujac.xyz^
 ||cvupdateservice.com^
 ||ads.cvut.cz^
 ||cvxwaslonejulyha.info^
@@ -48462,6 +48467,7 @@
 ||20091080ff77db531b3c7c1b7d934b7f.denisniemiec.pl^
 ||4eb4ed42b2b693eb280e1dbc5bcd9343.denisniemiec.pl^
 ||kqchxa.denizbutik.com^
+||denjpl.xyz^
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
 ||cv.denkichoice.jp^
@@ -54663,6 +54669,7 @@
 ||eeriemediocre.com^
 ||eeroawug.com^
 ||eersutoo.net^
+||eeryt111.fun^
 ||eesidesukbeingaj.com^
 ||eesihighlyrec.xyz^
 ||eespekw.com^
@@ -60541,6 +60548,7 @@
 ||feetct.com^
 ||fefgvh.xyz^
 ||fefqkn.org^
+||fefwe334.fun^
 ||fegortius.com^
 ||data-f1e447fbcf.fehmarn24.de^
 ||data-f59db3288b.fehmarn24.de^
@@ -168580,6 +168588,7 @@
 ||comex.vrhc.live^
 ||track.msadcenter.vrhe.com^
 ||marketing.vrijekavelsvathorst.nl^
+||vrinqop.icu^
 ||vrixon.com^
 ||somni.vrk.de^
 ||vrkengineering.com^
@@ -174084,6 +174093,7 @@
 ||www.widol.wseppond.info^
 ||wgrind.wsepwolf.info^
 ||www.wgrind.wsepwolf.info^
+||wsgayq.xyz^
 ||wsgwc.com^
 ||cdn.wshareit.com^
 ||cdn.bss.wshareit.com^
