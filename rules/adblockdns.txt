@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240929163119
-! Last modified: 2024/09/29 16:31:19
-! Blocked domains: 119953
+! Version: 20240930003031
+! Last modified: 2024/09/30 00:30:31
+! Blocked domains: 119956
 ! unBlocked domains: 10
 !
 ||alebilet.0437246.cfd^
@@ -83,6 +83,7 @@
 ||56c30cd3c4.0d0e65883b.com^
 ||01399322b4.0d4f63422a.com^
 ||0dax.com^
+||a.0day.kiev.ua^
 ||0didjsgheje.club^
 ||6fb345e22a.0f3f317f1d.com^
 ||0f461325bf56c3e1b9.com^
@@ -39840,6 +39841,7 @@
 ||devopic.com^
 ||grouse.devopsnewsletters.com^
 ||devopsteams.com^
+||stat.devote.se^
 ||tracking.devoteladies.de^
 ||devotionhundredth.com^
 ||devoutgrantedserenity.com^
@@ -66094,6 +66096,7 @@
 ||gtm.jerseyfinance.je^
 ||jerusalemcurve.com^
 ||jerusalemstatedstill.com^
+||jeryt111.fun^
 ||jesamcorp.com^
 ||jesgoo.com^
 ||jesocaukoa.com^
@@ -75955,6 +75958,7 @@
 ||mediafiire.com^
 ||mediafile.pl^
 ||tr.mediafin.be^
+||trjs2.mediafin.be^
 ||mediafiregames.net^
 ||mediaflyfx.live^
 ||mediaforce.com^
@@ -82429,9 +82433,7 @@
 ||njdaniel.com^
 ||njih.net^
 ||target.njoy.com^
-||capitalgain.njrrs.com^
-||extra-news.njrrs.com^
-||green-energy.njrrs.com^
+||njrrs.com^
 ||njupt-sacc.com^
 ||njzyjy.cn^
 ||media.nk-net.pl^
@@ -111863,6 +111865,7 @@
 ||ultrafima.com^
 ||track.ultragaming.biz^
 ||affiliates.ultrahosting.com^
+||ultraimpression.jp^
 ||smetrics.ultramarfleet.ca^
 ||ultrasocialbase.shop^
 ||ultratrck.com^
