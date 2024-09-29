@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240929002814
-! Last modified: 2024/09/29 00:28:14
-! Blocked domains: 160453
+! Version: 20240929092124
+! Last modified: 2024/09/29 09:21:24
+! Blocked domains: 160469
 ! unBlocked domains: 47
 !
 ||0000y.net^
@@ -2594,6 +2594,7 @@
 ||5566688.com^
 ||5566688.net^
 ||55726zubo56686.com^
+||55766925.xyz^
 ||558-558-559.com^
 ||558ao12sqrok.top^
 ||558kbet.com^
@@ -20372,6 +20373,7 @@
 ||aycrxa.com^
 ||aydandelion.com^
 ||kbpljd.aydin.edu.tr^
+||ayebsc.xyz^
 ||ayensexilic.com^
 ||marketing.ayesa.com^
 ||ayeslot.com^
@@ -34735,7 +34737,7 @@
 ||cartstack.com^
 ||cartx.cloud^
 ||wheelify.cartzy.com^
-||b.carungo.com^
+||carungo.com^
 ||carv.site^
 ||carvagemidweek.shop^
 ||branch.carvana.com^
@@ -35537,7 +35539,7 @@
 ||cdn7.network^
 ||cdn7.rocks^
 ||cdnads.com^
-||video.cdnako.com^
+||cdnako.com^
 ||cdnapi.net^
 ||cdnasiaclub.com^
 ||cdnativ.com^
@@ -35627,6 +35629,7 @@
 ||cdryuoe.com^
 ||cdsbnrs.com^
 ||go.cdsi.us.com^
+||cdszgg.xyz^
 ||insights.cdt.ch^
 ||cdttxdqe.xyz^
 ||cdu.cc^
@@ -57237,6 +57240,7 @@
 ||enniced.com^
 ||enodiarahnthedon.com^
 ||enoises.com^
+||enokouv.icu^
 ||www.enomis-paris.fr^
 ||enoneahbu.com^
 ||enoneahbut.org^
@@ -69429,7 +69433,6 @@
 ||turtle.geshem.space^
 ||gesrg.com^
 ||gestama.boats^
-||vw1.gestimnogo.net^
 ||gestion-assurance-sante.com^
 ||smetrics.gestionpriveegi.com^
 ||analytics.gestore.com^
@@ -75519,6 +75522,7 @@
 ||hartim.com^
 ||www.hartnessintl.com^
 ||hartvviginc.com^
+||haruko.store^
 ||harv3stb0unty.xyz^
 ||harv3stm00n.xyz^
 ||ads.harvard.edu^
@@ -76898,6 +76902,7 @@
 ||pastas.hervesta.lt^
 ||track.hervitalityhub.com^
 ||herynore.com^
+||heryt111.fun^
 ||data-e0448d0e4a.herz-fuer-tiere.de^
 ||data-67f17c94f0.herzberatung.de^
 ||data-908fd409d9.herzberatung.de^
@@ -80402,6 +80407,7 @@
 ||i305175.net^
 ||imp.i312864.net^
 ||i3535.com^
+||ios-pclog.i4.cn^
 ||go.i4cp.com^
 ||i4nstr1gm.com^
 ||i4rsrcj6.top^
@@ -81016,6 +81022,7 @@
 ||helps-center-page-number-12589365.id.vn^
 ||member.freefiregarena.id.vn^
 ||membership.garenaa.id.vn^
+||booking.id05196219.com^
 ||aruba-paga-fattura.id2008898.com^
 ||vlnted-gb.id243129.info^
 ||pocztapl.id2954.com^
@@ -86307,6 +86314,7 @@
 ||itpronetwork.net^
 ||trk.itprotoday.com^
 ||api.itpub.cloud^
+||itqwesk.icu^
 ||itrac.it^
 ||itrack.it^
 ||ip.itracker360.com^
@@ -91756,6 +91764,7 @@
 ||kmsauto.info^
 ||kmsauto.org^
 ||kmsauto.tech^
+||kmsauto.uno^
 ||kmsautodown.space^
 ||smetrics.kmshair.com^
 ||brand-sdk.kmsmep.com^
@@ -101703,6 +101712,7 @@
 ||modello.co.il^
 ||trk.modenkunst.com^
 ||images.myhome.modernize.com^
+||modmobile24.com^
 ||mohawood.com^
 ||mohitook.shop^
 ||mohitosale.shop^
@@ -103231,6 +103241,7 @@
 ||navi50.com^
 ||navi56.com^
 ||navi6.com^
+||navi69.ru^
 ||navi77.com^
 ||navi8.com^
 ||navigablepiercing.com^
@@ -104820,6 +104831,7 @@
 ||obtainedcredentials.com^
 ||obtinodesign.com^
 ||obtrusivecrisispure.com^
+||obviousestate.com^
 ||ens.obwaldnerzeitung.ch^
 ||ocpi.co.uk^
 ||ocponcphaafb.com^
@@ -133556,6 +133568,7 @@
 ||tertracks.site^
 ||terttalkinhitin.pro^
 ||reach.terumo-bct.com^
+||teryt111.fun^
 ||terytoriummiejskie.click^
 ||tesakom.com^
 ||tesbuer.xyz^
@@ -135913,6 +135926,7 @@
 ||khiurx.tigerdirect.com^
 ||affiliate.tigerfitness.com^
 ||link.tigerhall.com^
+||tigerkash.com^
 ||tigerlilyindia.com^
 ||go.tigertool.com^
 ||olx.tight-get.shop^
@@ -136832,6 +136846,7 @@
 ||toaglegi.com^
 ||toals.co.uk^
 ||toamaustouy.com^
+||toapz.xyz^
 ||ad-exchange.toast.com^
 ||adlc-exchange.toast.com^
 ||adx-exchange.toast.com^
@@ -143532,6 +143547,7 @@
 ||upsidejolly.com^
 ||tally.upsideout.com^
 ||p.upskirt.tv^
+||creative.upskirtlive.com^
 ||upskittyan.com^
 ||upsmega.com^
 ||upsnap.com^
@@ -155035,7 +155051,6 @@
 ||www.xahywwx.com^
 ||marketing.xait.com^
 ||xajibur.ru^
-||xajzfwgs.com^
 ||xaker26.net^
 ||xalatlaco.org^
 ||xalienstreamx.com^
@@ -158346,6 +158361,7 @@
 ||yziwujuzq.live^
 ||yzjftz.net^
 ||yzkzixun.com^
+||yzldy.info^
 ||yzmcok.xyz^
 ||yzqjaltdhlv.com^
 ||trk.yzsystems.com^
