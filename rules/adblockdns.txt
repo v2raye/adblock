@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20240930003031
-! Last modified: 2024/09/30 00:30:31
-! Blocked domains: 119956
+! Version: 20240930091947
+! Last modified: 2024/09/30 09:19:47
+! Blocked domains: 119978
 ! unBlocked domains: 10
 !
 ||alebilet.0437246.cfd^
@@ -1516,6 +1516,7 @@
 ||2dtaybac.com^
 ||2e51ef91bb.com^
 ||2e55a2d58f.com^
+||2e5e4544c4.com^
 ||2e8dgn8n0e0l.com^
 ||654b11e34e.2eb4977fca.com^
 ||2edef809.xyz^
@@ -2319,6 +2320,7 @@
 ||www.4242uuu.com^
 ||4251.tech^
 ||426g.com^
+||42869755.xyz^
 ||429999d.com^
 ||aa.429men.com^
 ||jo.429men.com^
@@ -4862,6 +4864,7 @@
 ||ablatesgascon.cam^
 ||ablativekeynotemuseum.com^
 ||ablazesubconsciousadulate.com^
+||ableandworldwid.com^
 ||ablebodiedsweatisolated.com^
 ||ablecheap.com^
 ||ablecolony.com^
@@ -9239,6 +9242,7 @@
 ||go.afmc.org^
 ||afminer.com^
 ||afnanniaz.com^
+||afnhc.com^
 ||afnyfiexpecttha.info^
 ||afoaglux.com^
 ||afodreet.net^
@@ -35733,6 +35737,7 @@
 ||metrics.costcobusinesscentre.ca^
 ||smetrics.costcobusinesscentre.ca^
 ||smetrics.costcobusinessdelivery.com^
+||costssco.com^
 ||coststunningconjure.com^
 ||www.costumesandcards.co.uk^
 ||omn.costumesupercenter.com^
@@ -48549,6 +48554,7 @@
 ||fghhbp.xyz^
 ||enhance-config.fgl.com^
 ||fgn.me^
+||fgnfpnae.icu^
 ||fgoogle.com^
 ||fgpicigkn.com^
 ||21.fh21static.com^
@@ -49872,6 +49878,7 @@
 ||info.fminet.com^
 ||fmkipgm.icu^
 ||fmlabsonline.com^
+||fmoezqerkepc.com^
 ||fmproductionscr.com^
 ||fmpub.net^
 ||ghnwss.fmsstores.gr^
@@ -50851,6 +50858,7 @@
 ||info.freedomcte.com^
 ||freedomdaily.com^
 ||smetrics.freedomfordsales.ca^
+||freedomgift50.com^
 ||freedommedianetwork.com^
 ||freedomoutpost.com^
 ||freedomsaved.com^
@@ -53474,6 +53482,7 @@
 ||ghsel.com^
 ||web-analytic.ghtk.vn^
 ||dog.ghvenue.com^
+||ghwqbii.icu^
 ||ghxadv.com^
 ||ghyhwiscizax.com^
 ||www.gi-web.fr^
@@ -68252,6 +68261,7 @@
 ||smetrics.kerry.com^
 ||kerryfluence.com^
 ||kerumal.com^
+||keryt111.fun^
 ||kesabeso.com^
 ||video.kesefinternational.com^
 ||kesevitamus.com^
@@ -80127,6 +80137,7 @@
 ||mxbpointcodes.com^
 ||mxcdn.net^
 ||mxcdn1.now.sh^
+||mxcmwk.xyz^
 ||mxdesign.dk^
 ||mxgboxq.com^
 ||adv.mxmcdn.net^
@@ -81123,6 +81134,7 @@
 ||navi35.com^
 ||navi36.ru^
 ||navi39.ru^
+||navi4.ru^
 ||navi40.com^
 ||navi42.ru^
 ||navi5.com^
@@ -81135,6 +81147,7 @@
 ||navi78.ru^
 ||navi8.com^
 ||navi88.com^
+||navi96.ru^
 ||vinted-polska-rr124.navia.top^
 ||naviblue-team.com^
 ||marketing.navieninc.com^
@@ -84823,6 +84836,7 @@
 ||opositeasysemblyjus.info^
 ||opparasecton.com^
 ||httpdns.ocloud.oppomobile.com^
+||opqnkw.xyz^
 ||td.oprahdaily.com^
 ||oproi.com^
 ||opshuckleor.com^
@@ -87299,6 +87313,7 @@
 ||card.pingpro.com^
 ||pingshetrip.com^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinkies.pl^
 ||pinkleo.pro^
 ||metrics.pinkribbonbottle.com^
@@ -96081,6 +96096,7 @@
 ||pungentsmartlyhoarse.com^
 ||punkieamplect.com^
 ||data.txn.puntoscolombia.com^
+||punyauang.xyz^
 ||advert.punyu.com^
 ||puppetdebt.click^
 ||puppytestament.com^
@@ -99473,6 +99489,7 @@
 ||marketing.rjpestateplanning.com^
 ||rjw4obbw.com^
 ||incsh.rjxj.xyz^
+||rk6h3.icu^
 ||rkapghq.com^
 ||rkatamonju.info^
 ||rket.info^
@@ -100708,6 +100725,7 @@
 ||sanmateosun.com^
 ||sanneusports.com^
 ||sannsyn.com^
+||sanoithmefeyau.com^
 ||analytics.sanoma.fi^
 ||sanos.fun^
 ||mlmicc.sans-online.nl^
@@ -101652,6 +101670,7 @@
 ||info.senior-systems.com^
 ||banners.seniorfriendfinder.com^
 ||seniorstemsdisability.com^
+||senitijanghey.shop^
 ||ads.senmanga.com^
 ||mktg.senneca.com^
 ||a8.sennendo.jp^
@@ -113612,6 +113631,7 @@
 ||info.venturesolutions.com^
 ||linking.venueapp-system.com^
 ||venueitemmagic.com^
+||venusfritter.com^
 ||info.venyu.com^
 ||veoxa.com^
 ||matomo.vepg.vn^
@@ -117985,6 +118005,7 @@
 ||xlfrhhp.com^
 ||xliffnsc.xyz^
 ||b.xlineker.com^
+||xliuits.icu^
 ||jpfufu.xlmoto.co.uk^
 ||jwcnjv.xlmoto.eu^
 ||xlrjnhxi.xyz^
@@ -118468,6 +118489,7 @@
 ||yellowstonetimes.com^
 ||stat.yellowtracker.com^
 ||yernbiconic.com^
+||yeryt111.fun^
 ||yes-messenger.com^
 ||yesadvertising.com^
 ||adv.yesasia.com^
