@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20241003003200
-! Last modified: 2024/10/03 00:32:00
-! Blocked domains: 182986
+! Version: 20241003092011
+! Last modified: 2024/10/03 09:20:11
+! Blocked domains: 183015
 ! unBlocked domains: 47
 !
 ||052db.website^
@@ -3606,7 +3606,7 @@
 ||8daygo.com^
 ||8dayvn888.com^
 ||dfc1a3c2c3.8de4cb9cb7.com^
-||cb07f20af1.8de5d7e235.com^
+||8de5d7e235.com^
 ||8def8c352d.com^
 ||8digits.com^
 ||yngnwe.8division.com^
@@ -12104,6 +12104,7 @@
 ||aax-eu.amazon.com.tr^
 ||unagi.amazon.com.tr^
 ||advertising.amazon.de^
+||bugsnag.shopbop.amazon.dev^
 ||prod.us-east-1.cxm-bcn.publisher-services.amazon.dev^
 ||unagi.amazon.fr^
 ||smetrics-smartcommerce.amazon.in^
@@ -13120,6 +13121,7 @@
 ||adv.anhsangvacuocsong.vn^
 ||affil.aniball.cz^
 ||anicagency.com^
+||anickeebsoon.com^
 ||anidianskirts.com^
 ||go.anifox.net^
 ||anilahstudio.com^
@@ -18840,6 +18842,7 @@
 ||coles.ausexchanges.info^
 ||linkt.ausfuellhilfe.com^
 ||traffic.ausfuellhilfe.com^
+||ausfyk.xyz^
 ||ausiburger.com^
 ||ausirolabs.com^
 ||auslogics.com^
@@ -21764,6 +21767,7 @@
 ||adv.baotayninh.vn^
 ||baotienphong.net^
 ||adv.baotintuc.vn^
+||log-video.baotintuc.vn^
 ||thongke.baotintuc.vn^
 ||log.baovanhoa.vn^
 ||baovechomeo.com^
@@ -37696,7 +37700,6 @@
 ||ciksolre.net^
 ||cilentointreno.it^
 ||assets2.cilinsurance.com.au^
-||ciliyinqing.top^
 ||cilolamall.xyz^
 ||ciltbakimiveguzellik.com^
 ||zaintest.vuclip.com.atlantic.cilukba.us.kg^
@@ -42303,6 +42306,7 @@
 ||crazypopups.com^
 ||dl.crazyporn.xxx^
 ||sli.crazyporn.xxx^
+||y.crazyporn.xxx^
 ||crazyprotocol.com^
 ||link.crazyquest.com^
 ||crazyrdp.com^
@@ -49564,6 +49568,7 @@
 ||ads.djc.com^
 ||news.djcoregon.com^
 ||djdavincii.com^
+||djecgyk.icu^
 ||djekxa.ru^
 ||djers.com^
 ||djfiln.com^
@@ -52907,6 +52912,7 @@
 ||www.eandcelectrical.com^
 ||eanddescri.com^
 ||partner.eandilek.cz^
+||eanff.com^
 ||eanib.com^
 ||eanwhitepinafor.com^
 ||eapect.icu^
@@ -76072,6 +76078,7 @@
 ||track.hk01.com^
 ||hk567rsda.appspot.com^
 ||images.email.hkaf.org^
+||hkaphqknkao.com^
 ||hkeig.com^
 ||abc.hkepc.com^
 ||abc.hkepc.net^
@@ -77993,6 +78000,7 @@
 ||hzsanjiaomao.com^
 ||hzstats.com^
 ||www.hzxfmc.com^
+||hzychcvdmjo.com^
 ||ad.hzyoka.com^
 ||ads.i-am-bored.com^
 ||pool1.i-am.io^
@@ -79312,6 +79320,7 @@
 ||l.ikora.tv^
 ||pr.ikovrov.ru^
 ||q.ikre.xyz^
+||ikssllnhrb.com^
 ||ikunselt.com^
 ||mationcsaleadi.ikwb.com^
 ||ikwzrix.com^
@@ -86310,6 +86319,7 @@
 ||jgblvt.xyz^
 ||jgdtnxkapkso.com^
 ||jgfcgqivdpd.com^
+||jgfuxnrloev.com^
 ||jggegj-rtbix.top^
 ||jggjh.com^
 ||jggldfvx.com^
@@ -86814,6 +86824,7 @@
 ||jnmascx.xyz^
 ||jnn-pa.googleapis.com^
 ||jnnjthg.com^
+||jnoujcdiprjvx.com^
 ||jnovoksjreeyrpm.xyz^
 ||jnrgcwf.com^
 ||jnrtavp2x66u.com^
@@ -88087,6 +88098,7 @@
 ||jzjpntr.xyz^
 ||jzjxmj.com^
 ||www.jzmepp.com^
+||jzplabcvvy.com^
 ||jztchllgpcrwu.com^
 ||jztucbb.com^
 ||jzupsq.cyou^
@@ -93352,6 +93364,7 @@
 ||down.laomaotao.net^
 ||www.laomaotao.net^
 ||laopst.live^
+||laoqo.top^
 ||m.laoqu123.com^
 ||www.laoqu123.com^
 ||applinks.laoshi.io^
@@ -98803,6 +98816,7 @@
 ||lzljhs.com^
 ||lzn867zzzw2.top^
 ||lznfuab.xyz^
+||lzoasvofvzw.com^
 ||lzogdlorkfssui.net^
 ||uspy.lzonsdmt.top^
 ||lzrikate.com^
@@ -105964,6 +105978,7 @@
 ||i.mmcdn.cn^
 ||nr.mmcdn.com^
 ||nr.static.mmcdn.com^
+||nwr.static.mmcdn.com^
 ||mmchoicehaving.com^
 ||mmcispartners.com^
 ||mmczmfgpq.com^
@@ -107551,6 +107566,7 @@
 ||motsardi.net^
 ||motsrgidyzoaz.com^
 ||mottuvn.com^
+||motu-teamblue.services^
 ||www3.motumb2b.com^
 ||motyl.shop^
 ||motyw-fb.blogspot.com^
@@ -114604,6 +114620,7 @@
 ||link.staff.notab.com^
 ||heron.notability.com^
 ||notabilitytragic.com^
+||notabl8.com^
 ||notablenephew.top^
 ||notablevehicle.com^
 ||notallowedto.com^
@@ -120537,6 +120554,7 @@
 ||analytics.paddle.com^
 ||paddlediscovery.com^
 ||paddleleague.com^
+||paddlemenu.com^
 ||xml-v4.paddlewaver.com^
 ||paddypower.com^
 ||padent.top^
@@ -122980,6 +122998,7 @@
 ||s.perverttube.top^
 ||c4n.perverzija.com^
 ||ads.pervsonpatrol.com^
+||peryt111.fun^
 ||perzonalization.com^
 ||link.perzzle.com^
 ||pesamate.com^
@@ -125160,6 +125179,7 @@
 ||pmeuehivfps.com^
 ||pmew.jp^
 ||info.pmg360research.com^
+||pmgfwya.icu^
 ||info.pmhsi.com^
 ||adobe.pmi.org^
 ||adobes.pmi.org^
@@ -129347,6 +129367,7 @@
 ||psaudous.com^
 ||psaugourtauy.com^
 ||psaukaux.net^
+||psaulrouck.net^
 ||psaurdoofy.com^
 ||psaurteepo.com^
 ||psausuck.net^
@@ -141017,6 +141038,7 @@
 ||ruletkasystem.eu^
 ||tt.rulianshi.la^
 ||rullion.com^
+||rulrahed.com^
 ||rum.hlx.page^
 ||rumadel.com^
 ||rumanalytics.com^
@@ -145265,6 +145287,7 @@
 ||joskgw.sewingmachinesplus.com^
 ||sewingunrulyshriek.com^
 ||sewinthesky.com^
+||sewparamedic.com^
 ||sewurown.com^
 ||sewyomingnews.com^
 ||sex-and-flirt.com^
@@ -161845,6 +161868,7 @@
 ||tiffanypinworm.tech^
 ||tiffanyschreiber.com^
 ||tiflwine.com^
+||tifpqpbqurspix.com^
 ||tifsuc.com^
 ||tig-me.pro^
 ||tigainareputaon.info^
@@ -167927,6 +167951,7 @@
 ||fgosob.unhcr.it^
 ||unhealthybravelyemployee.com^
 ||dev-get.unhedged.com.au^
+||unhhsrraf.com^
 ||unhonedyork.shop^
 ||unhorseaa.com^
 ||unhrjzn.com^
@@ -168690,6 +168715,7 @@
 ||urimnugocfr.com^
 ||urinebladdernovember.com^
 ||urinehere.com^
+||urinousbiriba.com^
 ||urjump.com^
 ||url.in.th^
 ||url.ms^
@@ -170035,6 +170061,7 @@
 ||saametrics.vaisala.com^
 ||submit.vaisala.com^
 ||tracking.vaisala.com^
+||vaivurizoa.net^
 ||tracker.services.vaix.ai^
 ||vak345.com^
 ||vakarek.info^
@@ -179766,6 +179793,7 @@
 ||ycpwdvsmtn.com^
 ||ycqbgm.xyz^
 ||ycqrxl.com^
+||ycuhky.xyz^
 ||ycupiid.com^
 ||ycwuoq.xyz^
 ||yd88c.com^
@@ -181463,6 +181491,7 @@
 ||zapperlight.lat^
 ||zappinglift.world^
 ||amethyst.zappos.com^
+||marty.zappos.com^
 ||prod-sponsoredads.mkt.zappos.com^
 ||track.zappos.com^
 ||analytics.zapps.me^
