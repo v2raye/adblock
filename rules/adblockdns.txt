@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20241004003106
-! Last modified: 2024/10/04 00:31:06
-! Blocked domains: 120425
+! Version: 20241004091735
+! Last modified: 2024/10/04 09:17:35
+! Blocked domains: 120444
 ! unBlocked domains: 22
 !
 ||alebilet.034256.sbs^
@@ -8876,6 +8876,7 @@
 ||www.aerreravasi.com^
 ||aerserv.com^
 ||aeru.tv^
+||aeryt111.fun^
 ||btptod.aerzteblatt.de^
 ||data-c0856a82d9.aerzteblatt.de^
 ||data-df5a2bcc30.aerzteblatt.de^
@@ -23329,6 +23330,7 @@
 ||tr.actualites.bfmtv.com^
 ||tr.animations.bfmtv.com^
 ||tr.offres.bfmtv.com^
+||bfnsnehjbkewk.com^
 ||bfoleyinteractive.com^
 ||web-vitals.bfops.io^
 ||ctp1.bforbank.com^
@@ -35178,6 +35180,7 @@
 ||comfortclick.co.uk^
 ||comfybaby.pl^
 ||comfygoodness.com^
+||comicad.net^
 ||aa.comicbook.com^
 ||comiccharacters.net^
 ||3l0zszdzjhpw.www.comicleaks.com^
@@ -58605,6 +58608,7 @@
 ||hhkld.com^
 ||hhllyt.com^
 ||hhooyivpxq.com^
+||hhrerv.xyz^
 ||hhsp2.com^
 ||hhtrip.net^
 ||hhttm.top^
@@ -60968,6 +60972,7 @@
 ||id-91283.com^
 ||id-icloud.com^
 ||id-location.live^
+||royalmail.id-package-status.com^
 ||id-telkomsel.help^
 ||findmy.id-track.info^
 ||id-visitors.com^
@@ -67446,6 +67451,7 @@
 ||kosmetyki24.eu^
 ||data-545e23e607.kosmo.at^
 ||a8cv.kosodatemoney.com^
+||kossog.xyz^
 ||kostemak.com^
 ||kostenlose-counter.com^
 ||kosteros.com^
@@ -68301,6 +68307,7 @@
 ||go.lasikplus.com^
 ||lasosignament.com^
 ||data.lasprovincias.es^
+||last-blink.com^
 ||last0nef1le.com^
 ||lion.lastfrontiermagazine.com^
 ||lastfrontiernews.com^
@@ -68446,6 +68453,7 @@
 ||data-e2b70f0c07.lb-oldenburg.de^
 ||go.lbb.in^
 ||lbi2-bradessco.site^
+||lbjekygz.icu^
 ||protection.lbpolice.com^
 ||lbx1x.top^
 ||lbxcnbrczmmp.com^
@@ -73068,6 +73076,7 @@
 ||s.meru.jp^
 ||merukore.jp^
 ||stats.merx.com^
+||meryt111.fun^
 ||merzostueru2hu8jr09.com^
 ||yae6.mes-bijoux.fr^
 ||tr.mes-bonsplans.be^
@@ -73306,6 +73315,7 @@
 ||mgmuye.xyz^
 ||pubs.mgn.net^
 ||app.mgoblue.com^
+||mgqtcs.xyz^
 ||counter.mgronline.com^
 ||imp.mgronline.com^
 ||mgs123.com^
@@ -77451,6 +77461,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi25.ru^
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
@@ -79546,6 +79557,7 @@
 ||ntidn.click^
 ||d6045d3d0818b1aad3d7019a48dbcb10.ntirslo.pl^
 ||f56595cf087d5d589d336d12ff12e524.ntirslo.pl^
+||ntiutox.icu^
 ||ntl-verif.com^
 ||tracking.ntl.no^
 ||ntlab.org^
@@ -81976,6 +81988,7 @@
 ||lnads.osdn.com^
 ||ad.osen.co.kr^
 ||osfrjut.com^
+||osgsijvkoap.com^
 ||solutions.oshaeducationcenter.com^
 ||oshaista.xyz^
 ||ybgsyd.osharewalker.co.jp^
@@ -83947,6 +83960,7 @@
 ||api.pingstart.com^
 ||pinjamanelit.top^
 ||pinjamanplus.com^
+||pinjamanrupiah.xyz^
 ||pinjamteman.top^
 ||pinjamuang.top^
 ||pinkberrytube.com^
@@ -84288,6 +84302,7 @@
 ||prd-collector-anon.playbuzz.com^
 ||stg-data-collector.playbuzz.com^
 ||tag-manager.playbuzz.com^
+||playdeadlock.lol^
 ||playdowngames.com^
 ||playdownstation.com^
 ||playdraught.com^
@@ -85463,6 +85478,7 @@
 ||potslascivious.com^
 ||potsluhajmstywer.click^
 ||pottercaprizecaprizearena.com^
+||potterheads.co^
 ||smetrics.potterybarn.ca^
 ||smetrics.potterybarn.com^
 ||smetrics.potterybarnkids.com^
@@ -86851,6 +86867,7 @@
 ||psurdoak.com^
 ||psurigrabi.com^
 ||psurouptoa.com^
+||psutopheehaufoo.net^
 ||pswagjx.com^
 ||tracking.psychcongress.com^
 ||psychedelicchess.com^
@@ -102171,6 +102188,7 @@
 ||spd.atdmt.speedera.net^
 ||speedilyabsolvefraudulent.com^
 ||speedilycartrigeglove.com^
+||speedknow.co^
 ||adv.speednet.bg^
 ||speednetwork14.com^
 ||metrics.speedousa.com^
@@ -116951,6 +116969,7 @@
 ||whtsinvapp.club^
 ||whugeestauva.com^
 ||whulrima.xyz^
+||whyareyouherewho.ru^
 ||whydowork.com^
 ||ghj.whyizh.site^
 ||hon.whyizh.site^
