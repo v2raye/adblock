@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20241007002940
-! Last modified: 2024/10/07 00:29:40
-! Blocked domains: 180126
+! Version: 20241007091818
+! Last modified: 2024/10/07 09:18:18
+! Blocked domains: 180132
 ! unBlocked domains: 47
 !
 ||free-form.000.pe^
@@ -1593,6 +1593,7 @@
 ||4f1fca8377.2ea4fb5aea.com^
 ||654b11e34e.2eb4977fca.com^
 ||2edef809.xyz^
+||2efgcdcjr000.fun^
 ||ngueja.2ememain.be^
 ||2explore.com^
 ||2f16d429ce.com^
@@ -26888,6 +26889,7 @@
 ||csvtr09.bmonesbittburns.com^
 ||bmorehacker.com^
 ||bmqtvmdg.xyz^
+||bmqulua.icu^
 ||smetrics.bms-immuno-dermatologie.de^
 ||smetrics.bms-io-academy.co.uk^
 ||smetrics.bms-newfrontiers.com.au^
@@ -36707,6 +36709,7 @@
 ||clll7.com^
 ||clmbtech.com^
 ||clmbtrk.com^
+||clmcam.xyz^
 ||clme.net^
 ||clmkwi.xyz^
 ||clmm.me^
@@ -52439,6 +52442,7 @@
 ||edacityedacityhandicraft.com^
 ||edacityedacitystrawcrook.com^
 ||ads.edadeal.ru^
+||edadmy.xyz^
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
@@ -90240,6 +90244,7 @@
 ||ywrcqa.kgw.com^
 ||kgwoodworksandcabinets.com^
 ||kgyhxdh.com^
+||kgymoc.xyz^
 ||kgyre.top^
 ||kh-vibquocte.com^
 ||links.kha.com^
@@ -175544,6 +175549,7 @@
 ||xlvqhx.xyz^
 ||xlwaluyw.com^
 ||xlwrdnrw.xyz^
+||xlxehr.xyz^
 ||ads.xlxtra.com^
 ||xlylqx.com^
 ||xlypzbzs.xyz^
