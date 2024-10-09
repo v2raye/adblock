@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20241009163223
-! Last modified: 2024/10/09 16:32:23
-! Blocked domains: 118797
+! Version: 20241010003120
+! Last modified: 2024/10/10 00:31:20
+! Blocked domains: 118801
 ! unBlocked domains: 2
 !
 ||00lx.03265926.xyz^
@@ -154,6 +154,7 @@
 ||0oloj.art^
 ||0olut8.cn^
 ||0p1ohj2f5f.ru^
+||0pdsa.icu^
 ||ns6.0pendns.org^
 ||dns.0pengl.com^
 ||m.0pi84.cn^
@@ -76759,6 +76760,7 @@
 ||jinbo989898.com^
 ||jincodiks.com^
 ||jingbets.com^
+||jingjs.top^
 ||jinglebingo.com^
 ||jinglehalfbakedparticle.com^
 ||wuliao.jingyanben.com^
@@ -116984,6 +116986,7 @@
 ||wuefmls.com^
 ||data-8522662a32.wuerzburgerleben.de^
 ||wuhubrmedia.cloud^
+||wuiqiq.xyz^
 ||wujofyin.live^
 ||wujungexo.net^
 ||wujyeflb.com^
@@ -118566,6 +118569,7 @@
 ||zkt0flig7.com^
 ||zktsygv.com^
 ||puhpindy.zlatajesika.pl^
+||efg.zle.com^
 ||zmcs.xyz^
 ||zmcsq.xyz^
 ||znajdziesztajemnica.rest^
