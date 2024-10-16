@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/v2raye/adblock
 ! Source: https://raw.githubusercontent.com/v2raye/adblock/main/rules/adblockdns.txt
-! Version: 20241016003131
-! Last modified: 2024/10/16 00:31:31
-! Blocked domains: 102527
+! Version: 20241016091913
+! Last modified: 2024/10/16 09:19:13
+! Blocked domains: 102547
 ! unBlocked domains: 12
 !
 ||005lxr.com^
@@ -519,6 +519,7 @@
 ||683.155ujz.cc^
 ||158aq.com^
 ||ahoy.15five.com^
+||1614729201.rsc.cdn77.org^
 ||ac.dun.163.com^
 ||ad.163.com^
 ||adgeo.163.com^
@@ -12129,6 +12130,7 @@
 ||tr.info.aprr.fr^
 ||aprtx.com^
 ||apsalar.com^
+||beacon.apsehick.date^
 ||apsgwl.in^
 ||apsis.com^
 ||static.ws.apsis.one^
@@ -15256,6 +15258,7 @@
 ||adblockers.b-cdn.net^
 ||ahoy-internal-ads-hv.b-cdn.net^
 ||bbangads.b-cdn.net^
+||bitcasino365.b-cdn.net^
 ||bs-adserver.b-cdn.net^
 ||deprecated-custom-domains.b-cdn.net^
 ||didna.b-cdn.net^
@@ -16483,6 +16486,7 @@
 ||stat.bdc.ca^
 ||stats.bdc.ca^
 ||bdcebeabc4.com^
+||bdckqpofmclr.com^
 ||bddc935c97.com^
 ||bddwm.com^
 ||bdf-tracker.top^
@@ -39617,6 +39621,7 @@
 ||r.eroticos.tv^
 ||erotikdeal.com^
 ||erpabsjbxlb.com^
+||erqtga.xyz^
 ||www.errornuker.com^
 ||content.ert.com^
 ||go.eruditelifestyle.co.uk^
@@ -48293,6 +48298,7 @@
 ||giaydantuong.com^
 ||giaythethaonuhcm.com^
 ||gibaivoa.com^
+||gibizosutchoakr.net^
 ||giboxdwwevu.com^
 ||go.gibraltarbc.com^
 ||gibsuncap.shop^
@@ -69232,6 +69238,7 @@
 ||lwxs99.cc^
 ||lxdqrtlvscuhj.xyz^
 ||abb.lxiaoxin.com^
+||lxpbdp.xyz^
 ||lxpcyvnejhrp.com^
 ||lxpmidiasdigitais.com.br^
 ||lxtrack.com^
@@ -78944,6 +78951,7 @@
 ||adserver.online-tech.com^
 ||404.online.net^
 ||vlnted-gb.online6424.info^
+||onlineadid.com^
 ||dailydeals.onlineathens.com^
 ||onlinebalances.com^
 ||onlinebazarsmm.com^
@@ -79303,6 +79311,7 @@
 ||vutida.opinionjet.com^
 ||docota.opinionrewardszone.com^
 ||opkinglerr.com^
+||opkmio.xyz^
 ||oplo.org^
 ||oplpectation.xyz^
 ||go.opmantek.com^
@@ -85653,6 +85662,7 @@
 ||pvcreatef.xyz^
 ||smetrics.pvh.com^
 ||pvhjkzo.xyz^
+||pviasld.icu^
 ||pvklace.com^
 ||pvlcbsynxsabti.com^
 ||pvlnjwr.xyz^
@@ -85964,6 +85974,7 @@
 ||ad-cdn.qtfm.cn^
 ||api-zhibo.qtfm.cn^
 ||qtoxhaamntfi.com^
+||qtroytj33.fun^
 ||qtspkqzn.com^
 ||qtuopsqmunzo.com^
 ||qtuxulczymu.com^
@@ -86120,6 +86131,7 @@
 ||quirkysugar.com^
 ||wvzddr.quirumed.com^
 ||quisma.com^
+||quitasueno.com^
 ||quitesousefulhe.info^
 ||quitjav11.fun^
 ||quitsnap-blue.com^
@@ -90546,6 +90558,7 @@
 ||snowmentor.com^
 ||snowmiracles.com^
 ||aolsvc.snowqueen.ru^
+||snowroxy.com^
 ||tr.info.snpden.net^
 ||snrtbgm.com^
 ||is.snssdk.com^
@@ -90753,7 +90766,11 @@
 ||social.biv.sony.tv^
 ||soogandrooped.cam^
 ||adballoon.sooplive.co.kr^
+||analysis.sooplive.co.kr^
+||collector1.sooplive.co.kr^
 ||deapi.sooplive.co.kr^
+||delog.sooplive.co.kr^
+||eventapi.sooplive.co.kr^
 ||reqde.sooplive.co.kr^
 ||soosooka.com^
 ||sootlongermacaroni.com^
@@ -90766,6 +90783,7 @@
 ||soporte-pago.com^
 ||es.soportes-ingmovil.com^
 ||ophvxe.sorel.jp^
+||soreldiscount.com^
 ||sorethunder.com^
 ||sorind.pro^
 ||soritespary.com^
@@ -96898,6 +96916,7 @@
 ||uslphoctxrpwry.com^
 ||link.email.usmagazine.com^
 ||usmusk.net^
+||usnewoutdoor.com^
 ||link.messaging.usnews.com^
 ||app.usnh.edu^
 ||strikenurse.usnursing.com^
@@ -100167,6 +100186,7 @@
 ||stat.wk-formation.fr^
 ||wk4x5rdtoz2tn0.com^
 ||wka4jursurf6.com^
+||wkabios.icu^
 ||axp.wkbn.com^
 ||as.wkcr.cz^
 ||wkdk.jp^
